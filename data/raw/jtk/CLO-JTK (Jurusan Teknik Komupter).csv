@@ -1,0 +1,342 @@
+No,Nama Mata Kuliah,Tujuan Belajar
+5,Matematika Terapan A,"Mata kuliah Matematika Terapan A dirancang untuk memberikan pemahaman konseptual yang kuat tentang kalkulus dan  memberikan pengalaman praktis dalam menerapkannya  untuk  menyelesaikan  permasalahan  di  bidang  informatika.  Melalui  pendekatan Problem-Based Learning  dan  media  Hybrid/Blended Learning, mahasiswa akan mempelajari  konsep-konsep  kalkulus  secara  mendalam,  menghubungkannya  dengan  aplikasi  di  dunia  nyata, dan  menggunakan  perangkat  lunak  GeoGebra  untuk  memvisualisasikan,  menganalisis,  dan  memecahkan  masalah.
+
+Aspek Teori:
+Mahasiswa akan mengeksplorasi  topik-topik  seperti:
+- Bilangan riil dan sifat-sifatnya.
+- Pertidaksamaan dan himpunan penyelesaiannya.
+- Fungsi, grafik fungsi, dan operasi fungsi.
+- Limit fungsi, limit tak hingga, dan kekontinuan fungsi.
+- Turunan pertama, turunan tingkat tinggi, dan turunan implisit.
+- Penggambaran grafik fungsi dengan memperhatikan garis singgung, garis normal, asimtot, selang kemonotonan, ekstrim fungsi, selang kecekungan, dan titik belok.
+- Optimasi dengan turunan.
+- Integral dan Teorema Dasar Kalkulus.
+- Aplikasi integral dalam pemecahan masalah.
+- Fungsi transenden, invers, turunan, dan integral fungsi transenden.
+
+Aspek Praktikum:
+Mahasiswa akan belajar menggunakan GeoGebra untuk:
+- Memahami lembar kerja GeoGebra dan fitur-fiturnya.
+- Memodelkan masalah pertidaksamaan.
+- Memahami model pertidaksamaan nilai mutlak.
+- Memahami model fungsi.
+- Mencari limit sebuah fungsi.
+- Membuktikan kekontinuan fungsi.
+- Mencari turunan dari sebuah fungsi.
+- Menyelesaikan turunan dengan aturan rantai.
+- Memahami kegunaan asimtot dan dalil L’hopital.
+- Mencari integral dari sebuah fungsi.
+- Membuat visualisasi dan menghitung luas daerah pada kurva.
+- Memahami fungsi invers dan turunan fungsi invers.
+
+Evaluasi:
+Evaluasi  akan  dilakukan  berdasarkan  capaian  pembelajaran  dari  setiap  bab  melalui  penugasan  individu,  tes  formatif,  dan  tes  sumatif  baik  pada  aspek  teori  maupun  praktikum.
+
+Dengan  mengintegrasikan  aspek  teori  dan  praktikum  yang  diperkaya  dengan  penggunaan  GeoGebra,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  pemahaman  dan  keterampilan  kalkulus  yang  kuat  dan  relevan  untuk  studi  lanjut  di  bidang  informatika."
+6,Dasar-dasar Pemrograman,"Membangun Logika Berpikir dan Pemecahan Masalah
+Mahasiswa mampu menyusun dan menstrukturkan logika berpikir secara sistematis untuk memahami konsep berpikir logis dan komputasi sebagai modal dasar dalam memecahkan masalah, baik dengan menggunakan komputer maupun tidak.
+
+Mengembangkan Algoritma dan Alternatif Solusi
+Mahasiswa mampu menganalisis permasalahan dan merancang solusi sistematis dengan menurunkan algoritma menggunakan pendekatan yang taat aturan, serta menghasilkan alternatif solusi dari suatu permasalahan yang diberikan.
+
+Menguasai Konsep Dasar Pemrograman
+Mahasiswa mampu memahami dan menerapkan konsep dasar pemrograman, meliputi tipe data, variabel, struktur proses, prosedur, fungsi, array, file, serta pemrograman modular.
+
+Mengaplikasikan Siklus Pengembangan Program
+Mahasiswa mampu merancang, menguji (testing), menelusuri (debugging), dan mendokumentasikan program komputer secara efektif menggunakan gaya pemrograman yang baik.
+
+Mengintegrasikan Konsep Abstraksi Proses dan Data
+Mahasiswa mampu memahami keterkaitan antara abstraksi proses dan data dalam pemrograman, serta menyusun hirarki program yang terstruktur.
+
+Melatih Penguasaan Teknik Pemrograman
+Mahasiswa mampu mempraktikkan penulisan kode (coding) algoritma secara langsung di kelas maupun laboratorium, serta menyelesaikan studi kasus pemrograman menggunakan metode yang terukur dan terstruktur.
+
+Meningkatkan Keterampilan Kolaboratif dan Mandiri
+Mahasiswa mampu berpartisipasi aktif dalam diskusi, menyimak dan merekonstruksi alternatif solusi, melakukan studi referensi, serta menyelesaikan tugas terstruktur baik secara individu maupun kelompok."
+7,Pengantar Teknologi Informasi dan Komunikasi,"Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar."
+8,Proyek 1 : Pemanfaatan Aplikasi Perkantoran,Mata kuliah ini merupakan problem based learning untuk permasalahan yang solusinya merupakan penerapan dari pengetahuan dan keahlian yang telah diperoleh dari mata kuliah-mata kuliah sebelumnya atau matakuliah yang sedang diambil pada semester berjalan.
+11,Struktur Data & Algoritma,"Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali
+dengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier
+maupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal
+pemahaman akan konsep database"
+12,Komputasi Kognitif,"Perkembangan TI sangatlah cepat dan masih akan tetap seperti itu untuk masa-masa mendatang. Untuk mengimbangi perkembangan tersebut perlu suatu cara baru memrogram untuk dapat mengisi keterbatasan cognitive manusia. Komputasi Kognitif berupaya meniru proses yang dilalui otak manusia. Mata Kuliah ini akan mencakup bagaimana manusia belajar menangani informasi yang sudah dimiliki maupun berasal dari lingkungannya/sekitarnya. Topik yang dicakup antara lain konsep belajar, berpikir kritis, berpikir kreatif, dan problem solving."
+13,Matematika Diskrit 1,"Mata kuliah Matematika Diskrit 1 ini dirancang untuk memberikan  pemahaman  yang  kuat  tentang  konsep-konsep  matematika  diskrit  dan  menerapkannya  dalam  pemecahan  masalah  di  bidang  informatika.  Fokus  utamanya  adalah  pada  penerapan  logika,  teori  himpunan,  relasi  dan  fungsi,  kombinatorial,  dan  teori  bilangan  untuk  menyelesaikan  kasus  nyata  dalam  ilmu  komputer.
+
+Mata kuliah ini dibagi menjadi lima bagian besar:
+
+- Logika: Meliputi prinsip-prinsip logika, operator logika, dan penerapannya dalam ilmu komputer.
+- Teori Himpunan: Meliputi konsep himpunan, operasi himpunan, dan penerapannya dalam representasi data dan algoritma.
+- Relasi dan Fungsi: Meliputi relasi, fungsi, dan penerapannya dalam pemodelan hubungan antar objek diskrit.
+- Kombinatorial: Meliputi prinsip-prinsip pencacahan, permutasi, kombinasi, dan penerapannya dalam analisis algoritma dan probabilitas.
+- Teori Bilangan: Meliputi bilangan bulat, pembagian, faktorisasi, kongruensi, dan penerapannya dalam kriptografi dan keamanan komputer.
+
+Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
+
+- Memahami prinsip-prinsip dan teknik matematika diskrit dalam menyelesaikan masalah di bidang informatika.
+- Menerapkan logika, teori himpunan, relasi dan fungsi, kombinatorial, dan teori bilangan dalam kalkulasi dan analisis matematika standar dalam ilmu komputer.
+ - Menggunakan pengetahuan matematika diskrit untuk menyelesaikan kasus nyata di bidang informatika.
+ - Mengembangkan kemampuan berpikir logis, analitis, dan sistematis dalam menyelesaikan masalah.
+
+Dengan  menekankan  pada  penerapan  dan  penyelesaian  kasus  nyata,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  fondasi  matematika  diskrit  yang  kuat  untuk  studi  lanjut  di  bidang  informatika."
+14,Dasar Komunikasi,"Fundamental kebutuhan berkomunikasi manusia sebagai anggota suatu lingkungan. Pembahasan dimulai dari bahasa sebagai simbol pertama yang digunakan manusia secara formal. Peran bahasa dalam berpikir, mentransformasi dan mengungkapkan informasi. Implementasi komunikasi dalam human interface sebagai bagian pengembangan perangkat lunak."
+15,Komunikasi Data dan Jaringan,"Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.
+
+Perkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. 
+
+Evaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes."
+16,Proyek 2 : Pengembangan Aplikasi Berbasis Library,"Mata kuliah Proyek 2 Pengembangan Aplikasi Berbasis Library ini berfokus kepada melatih mahasiswa dalam mengembangkan suatu aplikasi berbasis library dengan menggunakan metode
+pembelajaran Project Based Learning. Tujuan dari mata kuliah ini adalah melatih hard skill dan soft skill mahasiswa. Hard skill mahasiswa meliputi mampu mengimplementasikan pengetahuan
+yang dimiliki berdasarkan mata kuliah yang sudah maupun sedang dipelajari mahasiswa. Mata kuliah yang dimaksud seperti Dasar-dasar pemrograman dan juga Struktur Data dan Algoritma.
+Hard skill mahasiswa dalam membuat program dengan terstruktur dan clean code merupakan hal yang diperhatikan dalam Mata Kuliah ini."
+17,Matematika Diskrit 2,"Mata kuliah Matematika Diskrit 2 ini dirancang untuk memberikan pemahaman konseptual yang mendalam tentang struktur diskrit dan  penerapannya  di  bidang  informatika.  Melalui  pendekatan Problem-Based Learning  dan  media  Hybrid/Blended Learning, mahasiswa akan mempelajari  teori  graf,  pohon,  teori  bilangan,  dan  otomata  berhingga  serta  cara  menggunakannya  untuk  menyelesaikan  permasalahan  di  bidang  informatika.
+
+Selama perkuliahan, mahasiswa akan mengeksplorasi:
+
+- Teori Graf: Terminologi graf, representasi graf, isomorfisme graf, lintasan dan sirkuit Euler dan Hamilton, graf planar, pewarnaan graf, algoritma Dijkstra untuk menentukan lintasan terpendek.
+- Pohon: Terminologi pohon, pohon merentang minimum, pohon berakar, pohon m-ary, dan penerapan pohon dalam pemecahan masalah.
+- Otomata Berhingga: Otomata berhingga deterministik dan non-deterministik, representasi otomata berhingga, dan aplikasi otomata berhingga dalam permasalahan mesin sederhana.
+- Teori Bilangan: Sistem bilangan, bilangan prima dan komposit, FPB dan KPK, sistem kongruensi linear, dan aplikasi teori bilangan di bidang kriptografi.
+
+Evaluasi  akan  dilakukan  berdasarkan  capaian  pembelajaran  dari  setiap  bab  melalui  penugasan  individu,  tes  formatif,  dan  tes  sumatif."
+18,Pemrograman Berorientasi Objek,"Memahami Konsep Dasar Pemrograman Berorientasi Objek
+Mahasiswa mampu menjelaskan konsep fundamental pemrograman berorientasi objek, termasuk object dan class, generalisasi dan spesialisasi, enkapsulasi, pewarisan (inheritance), polimorfisme, kelas abstrak, dan interface.
+
+Mengaplikasikan Pemrograman Berorientasi Objek
+Mahasiswa mampu mengimplementasikan konsep pemrograman berorientasi objek dalam kasus-kasus pemrograman, meliputi penggunaan file stream, GUI programming, dan multithreading.
+
+Mengembangkan Solusi dengan Pendekatan Berorientasi Objek
+Mahasiswa mampu menganalisis permasalahan, merancang solusi, dan mengembangkan program berbasis objek yang terstruktur dan terukur sesuai dengan kebutuhan studi kasus.
+
+Meningkatkan Keterampilan Pengembangan Program Modular
+Mahasiswa mampu menggunakan prinsip-prinsip modularitas dalam pengembangan program berbasis objek untuk menciptakan solusi perangkat lunak yang efektif dan efisien.
+
+Mempraktikkan Teknik Pemrograman Berorientasi Objek
+Mahasiswa mampu mempraktikkan pembuatan kode (coding), pengujian (testing), debugging, dan dokumentasi program berbasis objek dalam berbagai skenario.
+
+Menerapkan Model Pembelajaran Mandiri dan Kolaboratif
+Mahasiswa mampu menyelesaikan tugas individu dan kelompok, baik melalui pembelajaran langsung di kelas maupun pembelajaran berbasis e-learning, dengan metode Student-Centered Learning (SCL) yang mendukung pencapaian capaian pembelajaran.
+
+Mengintegrasikan Teknologi dalam Pengembangan Program
+Mahasiswa mampu memanfaatkan teknologi terkini untuk mengembangkan program berbasis objek yang mendukung kebutuhan pembelajaran dan dunia industri.
+"
+19,Basis Data,"Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.
+
+Prasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem
+basis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif."
+20,Pengantar Rekayasa Perangkat Lunak,"Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien."
+21,Aljabar Linear,"Mata kuliah Aljabar Linear (Teori) ini dirancang untuk memberikan pemahaman yang kuat tentang konsep-konsep aljabar linear dan  penerapannya  dalam  pemecahan  masalah  di  berbagai  bidang.  Fokus  utamanya  adalah  pada  sistem  persamaan  linear,  matriks  invers,  ruang  vektor,  dan  transformasi  linear.  Mahasiswa  diharapkan  tidak  hanya  mengerti  teori,  tetapi  juga  mampu  mengimplementasikannya  untuk  menyelesaikan  permasalahan  nyata.
+
+Melalui  berbagai  aktivitas  pembelajaran  seperti  kuliah,  tutorial,  seminar,  studi  kasus,  dan  eksplorasi,  mahasiswa  akan  mempelajari:
+
+- Matriks: Operasi dasar matriks, determinan, matriks segitiga, matriks invers, operasi baris elementer, dan bentuk echelon baris.
+- Sistem Persamaan Linear (SPL): SPL homogen dan non-homogen, eksistensi invers, kemungkinan hasil (solusi unik, banyak, tidak ada solusi), dan metode penyelesaian SPL.
+- Vektor: Operasi aljabar vektor, proyeksi vektor, dot product, cross product, ruang vektor, subruang vektor, kombinasi linear, ruang hasil kali dalam, ortogonalitas, dan proses Gramm-Schmidt.
+- Transformasi Linear: Transformasi linear pada matriks dan vektor, sifat-sifat transformasi linear, nilai eigen, vektor eigen, dan ruang eigen.
+
+Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
+
+- Memahami konsep dasar aljabar linear dan menerapkannya dalam pemecahan masalah.
+- Melakukan operasi matriks, menghitung determinan, dan menentukan invers matriks.
+- Menganalisis dan menyelesaikan sistem persamaan linear.
+- Memahami konsep vektor dan ruang vektor, serta melakukan operasi vektor.
+- Memahami dan menerapkan transformasi linear.
+- Menerapkan aljabar linear dalam konteks yang relevan, seperti pemrograman, analisis data, dan machine learning.
+- Mengembangkan kemampuan berpikir kritis, analitis, dan sistematis dalam menyelesaikan masalah matematika.
+
+Penilaian  akan  dilakukan  berdasarkan  minimal  3  macam  hasil  uji  (tugas/kuis,  ETS,  EAS)  yang  merepresentasikan  capaian  pembelajaran.  Melalui  matakuliah  ini,  mahasiswa  diharapkan  memiliki  fondasi  yang  kuat  dalam  aljabar  linear  dan  siap  menerapkannya  dalam  studi  lanjut  dan  karir  di  bidang  informatika."
+22,Komputer Grafik,"Mata kuliah Komputer Grafik dirancang untuk memberikan mahasiswa pemahaman konseptual yang kuat tentang prinsip-prinsip grafika komputer dan kemampuan praktis dalam merancang dan merealisasikan karya multimedia 2D dan 3D. Melalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari konsep dasar grafika komputer dan menerapkannya dalam berbagai konteks.
+
+Aspek Teori:
+
+Mahasiswa akan mengeksplorasi:
+
+- Komputer Grafik 2D:
+  * Grafik primitif 2D (titik, garis, lingkaran, elips, dan bentuk dasar).
+  * Algoritma pembentukan garis dan lingkaran.
+  * Transformasi geometri 2D (operasi matriks, translasi, scaling, rotasi, dan transformasi komposit).
+  *  Membangun pola 2D.
+- Komputer Grafik 3D:
+  * Grafik primitif 3D.
+  * Transformasi geometri 3D.
+  * Konsep tekstur, shader, proyeksi kamera, dan rendering 3D.
+
+Aspek Praktikum:
+
+- Mahasiswa akan mempraktikkan konsep-konsep tersebut dengan software seperti Processing/Godot dan Blender, melalui:
+  * Pengenalan komputer grafik 2D dan 3D.
+  * Transformasi geometri 2D dan 3D.
+  * Komponen multimedia 2D dan 3D (modeling, rendering, proyeksi kamera, dan animasi).
+  * Pembuatan karya 2D dan 3D yang kreatif dan inovatif.
+
+Penilaian:
+
+Penilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan,  meliputi  tugas,  kuis,  ETS,  dan  EAS.  Nilai akhir mata kuliah praktikum akan digabungkan dengan nilai akhir mata kuliah teori untuk memberikan penilaian komprehensif.
+
+Dengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan fondasi yang kuat dalam grafika komputer,  mempersiapkan  mereka  untuk  studi  lanjut  dan  karir  di  bidang  multimedia  dan  desain  grafis."
+23,Proyek 3 : Pengembangan Perangkat Lunak Berbasis Web,"Mata kuliah ini dirancang untuk memberikan pemahaman komprehensif kepada mahasiswa dalam pengembangan situs web. Tujuan utamanya adalah memberikan kemampuan
+kepada mahasiswa untuk membuat situs web sederhana berdasarkan studi kasus. Proses pembelajarannya meliputi seluruh siklus pengembangan web, mulai dari analisis, desain
+aplikasi web, implementasi, pengujian sederhana, hingga deployment. Metode pembelajarannya menggunakan Studi Kasus, Diskusi, Pemecahan Masalah, Pembelajaran Berbasis
+Tim, Problem-Based Learning, dan Project-Based Learning. Setelah menyelesaikan mata kuliah ini, diharapkan mahasiswa mampu menguasai konsep teoritis yang relevan dan
+dapat mengatasi masalah nyata dengan membangun aplikasi web secara kelompok. Diharapkan pula mahasiswa memiliki pemahaman praktis dan keterampilan dalam menghadapi
+situasi pengembangan web yang lebih kompleks di masa depan."
+24,Pengantar Sistem Informasi,"Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.
+
+"
+25,Pengembangan Perangkat Lunak,"Mata kuliah ini merupakan mata kuliah teori dan praktik yang bertujuan memberikan kemampuan merancang dan merealisasikan perangkat lunak dengan menerapakan konsep - konsep design
+dan metode yang sesuai dengan prinsip software design. Topik yang dipelajari meliputi prinsip - prinsip design, konsep - konsep detailed design dan arsitektur, serta pembahasan mengenai
+penerapan component based software engineering. Peserta mata kuliah ini hendaknya telah mendapat perkuliahan pengantar pengembangan perangkat lunak, struktur data dan algoritma,
+pemrograman berorientasi objek. Perkuliahan dilaksanakan dengan Metode Project Based Learning yang dijalankan secara Hybrid/Blended Learning. Pada mata kuliah praktik ini akan
+diberikan tugas besar sebagai tugas EAS"
+26,Pengolahan Citra Digital,"Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.
+
+Melalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.
+
+Aspek Teori:
+
+Mahasiswa akan mengeksplorasi topik-topik kunci seperti:
+
+- Visual perception, sampling & quantization, dan image quality.
+- Color space dan fourier transformation.
+- Convolution dan image filter.Segmentation algorithm for edge detection.
+- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.
+- Pemampatan citra.
+- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.
+
+Aspek Praktikum:
+
+Mahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:
+
+- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).
+- Manipulasi histogram citra.
+- Konvolusi, filter spasial, dan transformasi fourier.
+- Pengurangan derau dan penajaman citra.
+- Manipulasi citra biner (termasuk operasi lanjut).
+- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.
+- Manipulasi warna pada citra.
+- Pembentukan tekstur pada citra.
+- Pemampatan citra sederhana.
+- Aplikasi pengolahan citra dalam kehidupan nyata.
+
+Penilaian:
+
+Penilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.
+
+Dengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.
+"
+27,Komputasi Numerik,"Mata kuliah Komputasi Numerik ini dirancang untuk memberikan pemahaman tentang konsep dasar metode numerik dan  penerapannya  dalam  menyelesaikan  permasalahan  matematika  dengan  bantuan  komputer.  Melalui  pemaparan  materi  dan  praktik  menggunakan  MATLAB,  mahasiswa  akan  mempelajari  berbagai  metode  numerik  untuk  menyelesaikan  persamaan,  mencari  akar,  melakukan  interpolasi,  integrasi,  dan  turunan  numerik,  serta  mengenal  konsep  neural network  dan  deep learning.
+
+Selama perkuliahan, mahasiswa akan mengeksplorasi:
+
+- Konsep Dasar Metode Numerik: Pengertian metode numerik, jenis-jenis metode numerik, dan pentingnya metode numerik dalam menyelesaikan permasalahan di berbagai bidang.
+- Galat: Jenis-jenis galat, sumber galat, dan cara menghitung galat.
+- Metode Penyelesaian Persamaan Non-Linier:
+  * Metode tertutup (metode grafik, metode bagi dua, metode posisi palsu).
+  * Metode terbuka (metode Newton-Raphson, metode secant).
+- Dasar-Dasar MATLAB: Pengenalan lingkungan MATLAB, sintaks dasar, variabel, operator, dan fungsi-fungsi built-in.
+- Penyelesaian Persamaan Linier: Eliminasi Gauss Jordan, Gauss Seidel, dan metode LU Dekomposisi.
+- Interpolasi: Interpolasi linier, interpolasi kuadratik, dan interpolasi Newton.
+- Integrasi Numerik: Aturan Trapesium dan aturan Simpson.
+- Turunan Numerik: Metode beda hingga.
+- Neural Network dan Deep Learning: Pengenalan konsep dasar neural network dan deep learning.
+
+Dengan  menekankan  pada  pemahaman  konsep,  penerapan  metode  numerik,  dan  penggunaan  MATLAB,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  keterampilan  yang  diperlukan  untuk  menyelesaikan  permasalahan  di  bidang  sains  dan  teknik  dengan  menggunakan  pendekatan  komputasi."
+28,Statistika dan Probabilitas,"Mata kuliah Statistika dan Probabilitas ini dirancang untuk memberikan pemahaman yang komprehensif tentang konsep dan metode statistika serta probabilitas, dan  cara  menerapkannya  dalam  pemecahan  masalah  di  berbagai  bidang.  Fokus  utamanya  adalah  pada  penerapan  statistika  deskriptif,  probabilitas,  distribusi  peluang,  regresi  linear,  dan  time series  untuk  menganalisis  data  dan  menarik  kesimpulan.
+
+Melalui  berbagai  aktivitas  pembelajaran  seperti  kuliah,  tutorial,  seminar,  studi  kasus,  dan  belajar  mandiri,  mahasiswa  akan  mempelajari:
+
+- Statistika Deskriptif: Pengolahan data tersebar dan berkelompok, ukuran gejala pusat, ukuran relatif, macam-macam grafik, dan interpretasinya.
+- Probabilitas: Peluang biasa dan peluang bersyarat, aturan pencacahan, dan studi kasus probabilitas.
+- Distribusi Peluang: Distribusi peluang diskrit (Binomial, Poisson), fungsi densitas peluang, distribusi peluang kontinu (Uniform, Normal, Normal Standar, Student t, Chi-Square), dan penerapannya.
+- Regresi Linear dan Korelasi: Model regresi linear sederhana, korelasi, koefisien determinasi, dan interpretasinya.
+- Time Series: Pola time series (trend, seasonal, siklik, irregular), metode penghalusan data (rata-rata bergerak), dan prediksi.
+Penilaian  akan  dilakukan  berdasarkan  minimal  3  macam  hasil  uji  (tugas  kecil/besar,  ETS,  EAS)  yang  merepresentasikan  capaian  pembelajaran.  Melalui  matakuliah  ini,  mahasiswa  diharapkan  memiliki  fondasi  yang  kuat  dalam  statistika  dan  probabilitas  dan  siap  menerapkannya  dalam  studi  lanjut  dan  karir  di  berbagai  bidang."
+30,Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile,"Mata kuliah ""Proyek 4: Pengembangan Perangkat Lunak Berbasis Mobile"" dirancang untuk memberikan mahasiswa pemahaman dan pengalaman praktis dalam mengembangkan aplikasi mobile menggunakan Flutter. Melalui pendekatan _Problem-Based Learning_ dan _Project-Based Learning_ yang terintegrasi dengan metodologi Agile (Scrum), mahasiswa akan mempelajari siklus pengembangan aplikasi mobile secara lengkap, mulai dari analisis kebutuhan dan desain antarmuka hingga implementasi, pengujian, dan deployment.
+
+Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
+
+* Memahami  karakteristik  dan  teknologi  pemrograman  perangkat  bergerak  terkini.
+* Memahami  dan  menerapkan  komponen-komponen  dasar  dalam  pengembangan  aplikasi  Android  dengan  Flutter.
+* Menerapkan  berbagai  fitur  dan  fungsionalitas  pada  aplikasi  mobile.
+* Menerapkan  metodologi  Agile  (Scrum)  dalam  pengembangan  perangkat  lunak.
+* Bekerja  sama  dalam  tim  untuk  mengembangkan  aplikasi  mobile  yang  berkualitas.
+* Memiliki  pemahaman  praktis  dan  keterampilan  untuk  menghadapi  situasi  pengembangan  aplikasi  mobile  yang  lebih  kompleks  di  masa  depan.
+
+Dengan  menekankan  pada  pemahaman  konsep,  penerapan  praktis,  dan  kerja  sama  tim,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  kompetensi  yang  dibutuhkan  untuk  menjadi  pengembang  aplikasi  mobile  yang  profesional."
+31,Pengantar Pengembangan Perangkat Lunak Industri,"1. Mahasiswa memahami proses, prinsip, dan standar pengembangan perangkat lunak di industri.
+2. Mahasiswa mengenali peran, alur kerja, dan keterampilan yang dibutuhkan dalam tim pengembangan perangkat lunak profesional.
+3. Mahasiswa memahami penggunaan perangkat, teknologi, dan metodologi yang relevan dalam siklus pengembangan perangkat lunak."
+32,Etika Profesi,"Mata kuliah Etika Profesi dirancang untuk membekali mahasiswa dengan pemahaman yang komprehensif tentang standar etika, norma, dan hukum yang berlaku di dunia kerja, khususnya di bidang Teknologi Informasi/Sistem Informasi (TI/SI). Mahasiswa akan mempelajari kode etik, etiket profesi, serta isu-isu terkait seperti Hak Kekayaan Intelektual (HAKI), _copyright_, _open source_, dan kejahatan di dunia maya (_cyber crime_).
+
+Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
+
+* Menerapkan  prinsip-prinsip  etika,  norma,  dan  hukum  dalam  kehidupan  profesional  sebagai  seorang  praktisi  TI/SI.
+* Menunjukkan  sikap  profesional  dan  bertanggung  jawab  dalam  menggunakan  teknologi  informasi.
+* Menghindari  tindakan  yang  merugikan  diri  sendiri  dan  orang  lain  di  dunia  maya.
+* Memahami  dan  menghormati  hak  kekayaan  intelektual.
+* Berkontribusi  pada  pengembangan  lingkungan  digital  yang  aman,  etis,  dan  bertanggung  jawab.
+
+Dengan  menekankan  pada  pemahaman  konsep  dan  penerapan  praktis,  mata  kuliah  ini  bertujuan  untuk  membentuk  karakter  mahasiswa  yang  beretika,  profesional,  dan  bertanggung  jawab  dalam  bidang  TI/SI."
+33,Kerja Praktik,"1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.
+2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.
+3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek."
+34,Best Practices Pengembangan Perangkat Lunak Industri,"1. Mahasiswa memahami praktik terbaik dan pola desain dalam pengembangan perangkat lunak industri.
+2. Mahasiswa mampu menerapkan prinsip kualitas perangkat lunak, seperti maintainability, scalability, dan security.
+3. Mahasiswa mampu mengidentifikasi dan memitigasi risiko teknis dalam proyek perangkat lunak."
+35,Komunikasi Teknis dan Bisnis Pengembangan Perangkat Lunak Industri,"1. Mahasiswa mampu berkomunikasi secara efektif dalam lingkungan kerja, baik secara teknis maupun bisnis.
+2. Mahasiswa mampu menyusun laporan teknis, proposal bisnis, dan dokumentasi perangkat lunak dengan format yang profesional.
+3. Mahasiswa mampu bernegosiasi dan berkolaborasi dengan stakeholder proyek perangkat lunak."
+36,Proyek 5 : Pra - Tugas Akhir,"Mata kuliah Proyek 5 Pra Tugas Akhir dirancang untuk membekali mahasiswa dengan kemampuan menyusun proposal Tugas Akhir (TA) yang komprehensif dan terstruktur. Melalui pendekatan _student-centered learning_ dan bimbingan dari Tim Dosen serta pakar industri, mahasiswa akan mempelajari tahapan-tahapan penyusunan proposal TA, meliputi penentuan topik,  perumusan masalah,  penentuan metodologi,  penyusunan jadwal dan anggaran, serta presentasi proposal.
+
+Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
+
+* Memahami isu-isu terkini dan tren teknologi di bidang informatika.
+* Menentukan topik TA yang relevan,  layak,  dan  sesuai  dengan  ruang  lingkup  serta  kompleksitas  program  D3.
+* Menyusun proposal TA yang komprehensif,  terstruktur,  dan  memenuhi  standar  akademik.
+* Mempresentasikan proposal TA dengan  baik  dan  benar,  baik  secara  lisan  maupun  tulisan.
+* Menerapkan  pengetahuan  dan  keterampilan  yang  diperlukan  dalam  menyelesaikan  Tugas  Akhir.
+
+Dengan  menekankan  pada  kemandirian  mahasiswa  dan  bimbingan  yang  terstruktur,  mata  kuliah  ini  bertujuan  untuk  mempersiapkan  mahasiswa  dalam  menyelesaikan  Tugas  Akhir  dengan  baik  dan  menghasilkan  lulusan  yang  kompeten  di  bidangnya."
+38,Manajemen Proyek,"Mata kuliah Manajemen Proyek dirancang untuk memberikan pemahaman komprehensif tentang prinsip-prinsip dan praktik pengelolaan proyek, serta  menerapkannya  dalam  konteks  pengembangan  perangkat  lunak.  Mahasiswa  akan  mempelajari  konsep  dasar,  kelompok  proses,  dan  area  pengetahuan  dalam  manajemen  proyek,  serta  cara  mengintegrasikannya  dengan  siklus  pengembangan  perangkat  lunak  (SDLC).
+
+Melalui  perkuliahan  ini,  mahasiswa  akan:
+
+* Memahami  fungsi  dan  tujuan  proyek,  serta  perbedaannya  dengan  pekerjaan  rutin.
+* Mengenal  berbagai  peran  dalam  manajemen  proyek,  seperti  manajer  proyek  dan  _stakeholder_.
+* Memahami  strategi  pengelolaan  proyek,  fase-fase  pelaksanaan  proyek  (_process group_),  dan  area  pengetahuan  (_knowledge area_).
+* Mempelajari  proses-proses  dalam  setiap  kelompok  proses  manajemen  proyek  (inisiasi,  perencanaan,  pelaksanaan,  monitoring  &  pengendalian,  penutupan).
+* Mempelajari  area  pengetahuan  manajemen  proyek,  seperti  _integration management_,  _scope management_,  _schedule management_,  _cost management_,  dll.
+* Menerapkan  prinsip  dan  konsep  manajemen  proyek  dalam  pengembangan  perangkat  lunak,  sesuai  dengan  metode  SDLC  yang  digunakan.
+* Menyusun  _project management plan_  yang  mencakup  berbagai  aspek,  seperti  _scope_,  _schedule_,  _cost_,  _quality_,  _resource_,  _communication_,  _risk_,  _procurement_,  dan  _stakeholder_.
+* Memahami  proses  _project execution_,  _project monitoring and controlling_,  dan  _project closure_.
+
+Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
+
+* Menerapkan  prinsip-prinsip  manajemen  proyek  dalam  merencanakan,  melaksanakan,  memantau,  dan  mengendalikan  proyek  pengembangan  perangkat  lunak.
+* Menyusun  _project management plan_  yang  komprehensif  dan  efektif.
+* Mengidentifikasi  dan  mengelola  risiko  proyek.
+* Mengelola  sumber  daya  proyek  secara  efisien.
+* Berkomunikasi  secara  efektif  dengan  _stakeholder_  proyek.
+* Mengambil  keputusan  yang  tepat  dalam  situasi  proyek  yang  dinamis.
+
+Dengan  menekankan  pada  pemahaman  konsep  dan  penerapan  praktis,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  kompetensi  yang  dibutuhkan  untuk  menjadi  manajer  proyek  yang  sukses  di  bidang  pengembangan  perangkat  lunak."
+39,Pengembangan Perangkat Lunak Berbasis Cloud,"Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok."
+40,Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi,"1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.
+2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.
+3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi."
+41,Proyek 6 : Tugas Akhir,"Mata kuliah Proyek 6 (Tugas Akhir) ini dirancang sebagai wadah bagi mahasiswa D3 untuk merealisasikan proyek Tugas Akhir mereka secara mandiri melalui pendekatan student-centered learning dan project based learning.  Selama perkuliahan, mahasiswa akan  melalui tahapan penyelesaian Tugas Akhir secara bertahap, mulai dari penyusunan proposal,  konsultasi dengan dosen pembimbing, pelaksanaan seminar, hingga  penyusunan laporan akhir dan  presentasi di sidang.
+
+Melalui mata kuliah ini, mahasiswa diharapkan mampu:
+
+- Memahami aturan administratif dan alur pelaksanaan Tugas Akhir.
+- Menyusun proposal Tugas Akhir yang komprehensif dan terstruktur.
+- Mengembangkan aplikasi yang layak dan memenuhi kriteria sesuai topik yang dipilih.
+- Mempresentasikan progress, prototype, dan artifak perangkat lunak dalam seminar dan sidang dengan baik dan benar.
+- Menyusun laporan Tugas Akhir yang memenuhi standar akademik.
+- Melengkapi syarat-syarat administratif yang diperlukan untuk sidang yudisium.
+
+Selain itu,  mahasiswa akan dibekali dengan  pengetahuan dan  keterampilan  tambahan  melalui  sesi  kuliah  dari  dosen  dan  pakar  industri  mengenai  topik-topik  relevan  seperti:
+
+- Soft skill (kepemimpinan, manajemen konflik, manajemen kelompok, seni presentasi).
+- Penulisan laporan Tugas Akhir.
+- Penggunaan aplikasi manajemen referensi.
+- Target-target artifak yang sesuai dengan metode rekayasa perangkat lunak."

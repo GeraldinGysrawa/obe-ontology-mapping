@@ -1,0 +1,38 @@
+No,Bidang Pekerjaan yang dibutuhkan/Profil lulusan,Kualifikasi Program Pendidikan,Kompetensi Kerja,
+,,,,
+1,Programmer (Web/ Mobile/ Desktop),D3 Teknik Informatika,"1. Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).
+2. Memahami prinsip UI/UX.
+3. Menguasai framework dan database (contoh: React, Node.js, MySQL).
+4. Memahami pengembangan agile.
+5. Kemampuan debugging dan optimasi kode.
+6. Pengembangan lintas platform untuk mobile (Flutter, React Native)
+7. Mampu mengomunikasikan hasil pekerjaan",
+2,Database Administrator,D3 Teknik Informatika,"1. Mampu desain dan normalisasi database.
+2. Menguasai SQL (misalnya, PostgreSQL, MySQL).
+3. Memahami keamanan dan solusi backup database.
+4. Mampu melakukan tuning kinerja database.
+5. Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).
+6. Pemahaman tentang data warehousing dan proses ETL.",
+3,Software Tester,D3 Teknik Informatika,"1. Kemampuan merancang dan menjalankan test case.
+2. Familiar dengan alat pengujian (contoh: Selenium, JIRA).
+3. Memahami SDLC dan STLC.
+4. Melakukan pengujian fungsional dan non-fungsional.
+5. Kemampuan melaporkan dan melacak bug.
+6. Pengetahuan pengujian otomatis",
+4,Technical Writter,D3 Teknik Informatika,"1. Kemampuan Menulis Teknis yang Jelas dan Terstruktur
+2. Kemampuan Riset dan Pemahaman Produk Teknologi
+3. Kemampuan Visualisasi dan Desain
+4. Pemahaman Teknologi Informasi
+5. Kemampuan Berkomunikasi dan Berkolaborasi
+6. Kemampuan Penggunaan Software Dokumentasi
+7. Adaptasi terhadap Teknologi Baru",
+5,Associate Cloud Engineer,D3 Teknik Informatika,"1. Memahami platform cloud (misalnya, AWS, GCP, Azure).
+2. Mengenal teknologi virtualisasi.
+3. Memahami konsep jaringan dan keamanan cloud.
+4. Mengenal mekanisme pipeline deployment (CI/CD).
+5. Mampu deploy dan integrasi aplikasi berbasis cloud",
+6,Network Engineer,D3 Teknik Informatika,"1. Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).
+2. Menguasai protokol jaringan (TCP/IP, BGP).
+3. Berpengalaman dengan alat pemantauan jaringan (contoh: Wireshark, Nagios).
+4. Memahami prinsip keamanan siber.
+5. Familiar dengan jaringan berbasis perangkat lunak.",
