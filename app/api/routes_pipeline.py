@@ -148,10 +148,11 @@ async def run_pipeline(request: PipelineRequest):
             comp_result = skill_comparator.compare_skills_vs_plo(
                 esco_skills=esco_skills_dicts,
                 plo_list=response.plo_jtk,
-                threshold=None,  # pakai default .env
+                threshold=request.threshold,  # pakai dari parameter atau default .env
             )
             response.covered = comp_result.covered
             response.gap = comp_result.gap
+            response.overskill = comp_result.overskill
         except Exception as e:
             logger.error("Pipeline - Error saat compare_skills_vs_plo: %s", str(e))
             errors.append(f"Gagal membandingkan Skills vs PLO: {str(e)}")

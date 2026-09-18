@@ -17,7 +17,7 @@ import numpy as np
 
 from app.config import get_settings
 from app.core import embeddings
-from app.models.schemas import ComparisonResponse, CoveredSkill, GapSkill, PLO
+from app.models.schemas import ComparisonResponse, CoveredSkill, GapSkill, Overskill, PLO
 
 logger = logging.getLogger(__name__)
 
@@ -45,7 +45,7 @@ def compare_skills_vs_plo(
         ComparisonResponse dengan covered (F) dan gap (G) lists.
     """
     if threshold is None:
-        threshold = get_settings().similarity_threshold
+        threshold = 0.0  # Tampilkan semua jika tidak diisi
 
     logger.info(
         "Step D↔E: Comparing %d ESCO skills vs %d PLO (threshold=%.2f) ...",
@@ -59,10 +59,13 @@ def compare_skills_vs_plo(
         return ComparisonResponse(
             covered=[],
             gap=[],
+            overskill=[],
             threshold_used=threshold,
             total_esco_skills=len(esco_skills),
+            total_plo=len(plo_list),
             total_covered=0,
             total_gap=len(esco_skills),
+            total_overskill=len(plo_list),
         )
 
     # Prepare teks untuk encoding
@@ -110,19 +113,41 @@ def compare_skills_vs_plo(
                 )
             )
 
+    # Classify: overskill (A-B)
+    overskill: list[Overskill] = []
+    for j, plo in enumerate(plo_list):
+        best_skill_idx = int(np.argmax(sim_matrix[:, j]))
+        best_score = float(sim_matrix[best_skill_idx, j])
+        best_skill = esco_skills[best_skill_idx]
+        
+        if best_score < threshold:
+            overskill.append(
+                Overskill(
+                    plo_id=plo.plo_id,
+                    plo_text=plo.plo_text,
+                    best_esco_skill_uri=best_skill["uri"],
+                    best_esco_skill_label=best_skill["label"],
+                    best_similarity_score=round(best_score, 4),
+                )
+            )
+
     elapsed = (time.perf_counter() - start) * 1000
     logger.info(
-        "Step D↔E selesai dalam %.1f ms. Covered (F): %d, Gap (G): %d",
+        "Step D↔E selesai dalam %.1f ms. Covered (F): %d, Gap (G): %d, Overskill: %d",
         elapsed,
         len(covered),
         len(gap),
+        len(overskill),
     )
 
     return ComparisonResponse(
         covered=covered,
         gap=gap,
+        overskill=overskill,
         threshold_used=threshold,
         total_esco_skills=len(esco_skills),
+        total_plo=len(plo_list),
         total_covered=len(covered),
         total_gap=len(gap),
+        total_overskill=len(overskill),
     )

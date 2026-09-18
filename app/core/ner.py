@@ -87,8 +87,8 @@ async def _call_groq_api(text: str, settings) -> list[str]:
             {"role": "system", "content": _SYSTEM_PROMPT},
             {"role": "user", "content": text},
         ],
-        "temperature": 0.1,  # rendah supaya deterministik
-        "max_tokens": 300,
+        "temperature": 0.0,  # 0.0 supaya sepenuhnya deterministik
+        "max_tokens": 1024,
     }
 
     headers = {
@@ -189,6 +189,8 @@ def _fallback_extract(text: str) -> list[str]:
         # Skip fragmen terlalu pendek atau terlalu panjang
         if len(frag) < 3 or len(frag) > 80:
             continue
+        # Hapus karakter kutip dan kurung siku bawaan JSON yang rusak
+        frag = re.sub(r"[\"\'\[\]]", "", frag).strip()
         # Hapus nomor urut di awal
         frag = re.sub(r"^\d+[\.\)]\s*", "", frag).strip()
         if frag and len(frag.split()) <= 6:

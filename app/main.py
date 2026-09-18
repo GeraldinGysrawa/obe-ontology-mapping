@@ -18,7 +18,10 @@ from app.api.routes_comparison import router as comparison_router
 from app.api.routes_experiments import router as experiments_router
 from app.api.routes_occupation import router as occupation_router
 from app.api.routes_pipeline import router as pipeline_router
+from app.api.routes_cso import router as cso_router
+from app.api.routes_pipeline_cso import router as pipeline_cso_router
 from app.core.embeddings import load_model
+from app.repositories.cso_repository import CSORepository
 
 # ── Logging setup ──────────────────────────────────────────────────────────
 
@@ -48,6 +51,10 @@ async def lifespan(app: FastAPI):
 
     # Load SBERT model saat startup
     load_model()
+    
+    # Load CSO Repository
+    logger.info("Memuat CSO Repository... (ini mungkin membutuhkan beberapa saat)")
+    CSORepository().load_data()
 
     logger.info("Startup selesai. Pipeline siap menerima request.")
     logger.info("=" * 60)
@@ -78,6 +85,8 @@ app.include_router(comparison_router)
 app.include_router(clo_router)
 app.include_router(experiments_router)
 app.include_router(pipeline_router)
+app.include_router(cso_router)
+app.include_router(pipeline_cso_router)
 
 
 # ── Health check ───────────────────────────────────────────────────────────

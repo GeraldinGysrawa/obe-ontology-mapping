@@ -44,7 +44,7 @@ class ComparisonRequest(BaseModel):
         default=None,
         ge=0.0,
         le=1.0,
-        description="Threshold similarity. Jika None, pakai default dari .env",
+        description="Threshold similarity. Jika None, maka threshold dianggap 0.0 (tampilkan semua)",
     )
 
 
@@ -128,15 +128,28 @@ class GapSkill(BaseModel):
     best_similarity_score: float
 
 
+class Overskill(BaseModel):
+    """PLO JTK yang TIDAK dibutuhkan/diwajibkan oleh ESCO Occupation (node A-B)."""
+
+    plo_id: str
+    plo_text: str
+    best_esco_skill_uri: str | None = None
+    best_esco_skill_label: str | None = None
+    best_similarity_score: float
+
+
 class ComparisonResponse(BaseModel):
     """Response POST /comparison/plo-vs-esco."""
 
     covered: list[CoveredSkill]
     gap: list[GapSkill]
+    overskill: list[Overskill]
     threshold_used: float
     total_esco_skills: int
+    total_plo: int
     total_covered: int
     total_gap: int
+    total_overskill: int
 
 
 # ── Response Models — CLO (E→K) ───────────────────────────────────────────
@@ -208,6 +221,10 @@ class PipelineRequest(BaseModel):
         default=3,
         description="Top K occupation yang dicari",
     )
+    threshold: float | None = Field(
+        default=None,
+        description="Threshold similarity. Jika None, maka threshold dianggap 0.0 (tampilkan semua)",
+    )
 
 
 class PipelineMeta(BaseModel):
@@ -226,7 +243,9 @@ class PipelineResponse(BaseModel):
     plo_jtk: list[PLO] | None = None
     covered: list[CoveredSkill] | None = None
     gap: list[GapSkill] | None = None
+    overskill: list[Overskill] | None = None
     clo: list[CLOMatchResponse] | None = None
     mata_kuliah: list[str] | None = None
     meta: PipelineMeta
     errors: list[str] = Field(default_factory=list, description="Pesan error jika ada tahap yang gagal/di-skip")
+
