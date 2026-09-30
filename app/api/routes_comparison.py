@@ -1,9 +1,9 @@
 """
-API Routes — Comparison (Step D↔E → F/G).
+API Routes — Skill Comparison: ESCO Skills vs PLO JTK.
 
 Endpoint:
-- POST /comparison/plo-vs-esco — Hitung similarity ESCO Skills vs PLO JTK,
-  hasilkan daftar covered (F) dan gap (G).
+- POST /comparison/esco-skills-vs-plo — Hitung similarity ESCO Skills vs PLO JTK,
+  hasilkan daftar covered, gap, dan overskill.
 """
 
 import logging
@@ -16,23 +16,25 @@ from app.services import skill_comparator, skill_lookup
 
 logger = logging.getLogger(__name__)
 
-router = APIRouter(prefix="/comparison", tags=["Comparison (D↔E → F/G)"])
+router = APIRouter(prefix="/comparison", tags=["Skill Comparison"])
 
 
 @router.post(
-    "/plo-vs-esco",
+    "/esco-skills-vs-plo",
     response_model=ComparisonResponse,
-    summary="Step D↔E → F/G: Bandingkan ESCO Skills vs PLO JTK",
+    summary="Bandingkan ESCO Skills vs PLO JTK",
     description=(
-        "Ambil ESCO Skills dari occupation (D), ambil PLO dari PEO (E), "
-        "hitung SBERT+Cosine similarity, terapkan threshold untuk "
-        "menghasilkan daftar covered (F) dan gap (G)."
+        "Mengambil keterampilan ESCO dari occupation_uri dan daftar PLO JTK "
+        "dari peo_id, lalu menghitung SBERT+Cosine Similarity dengan threshold "
+        "tertentu untuk menghasilkan analisis keselarasan kurikulum: "
+        "Covered (terpenuhi), Gap (kebutuhan industri belum diajarkan), "
+        "dan Overskill (materi kurikulum spesifik internal)."
     ),
 )
-async def compare_plo_vs_esco(request: ComparisonRequest):
-    """POST /comparison/plo-vs-esco — Step D↔E → F/G."""
+async def compare_esco_skills_vs_plo(request: ComparisonRequest):
+    """POST /comparison/esco-skills-vs-plo — Perbandingan ESCO Skills vs PLO JTK."""
     try:
-        # Step C→D: Ambil ESCO Skills
+        # 1. Ambil ESCO Skills dari Occupation
         esco_skills = skill_lookup.get_skills_for_occupation(request.occupation_uri)
         if not esco_skills:
             raise HTTPException(
@@ -40,7 +42,7 @@ async def compare_plo_vs_esco(request: ComparisonRequest):
                 detail=f"Tidak ada ESCO Skills untuk occupation URI '{request.occupation_uri}'.",
             )
 
-        # Step A→E: Ambil PLO dari PEO
+        # 2. Ambil PLO dari PEO
         plo_list = jtk_repository.get_plo_list(peo_id=request.peo_id)
         if not plo_list:
             raise HTTPException(
@@ -48,7 +50,7 @@ async def compare_plo_vs_esco(request: ComparisonRequest):
                 detail=f"Tidak ada PLO untuk PEO ID '{request.peo_id}'.",
             )
 
-        # Step D↔E → F/G: Hitung similarity + threshold
+        # 3. Hitung similarity + threshold (Covered, Gap, Overskill)
         result = skill_comparator.compare_skills_vs_plo(
             esco_skills=esco_skills,
             plo_list=plo_list,
@@ -60,5 +62,5 @@ async def compare_plo_vs_esco(request: ComparisonRequest):
     except HTTPException:
         raise
     except Exception as e:
-        logger.error("Error di /comparison/plo-vs-esco: %s", str(e))
+        logger.error("Error di /comparison/esco-skills-vs-plo: %s", str(e))
         raise HTTPException(status_code=500, detail=str(e))

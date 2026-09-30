@@ -48,26 +48,6 @@ class ComparisonRequest(BaseModel):
     )
 
 
-class CLOMatchRequest(BaseModel):
-    """Request body untuk POST /clo/match-from-plo (Step E→K)."""
-
-    plo_id: str = Field(
-        ...,
-        description="ID PLO JTK (mis. 'PLO-01-01')",
-        examples=["PLO-01-01"],
-    )
-    top_k: int = Field(
-        default=5,
-        ge=1,
-        le=50,
-        description="Jumlah top-K CLO yang dikembalikan",
-    )
-    clo_source: str = Field(
-        default="jtk",
-        description="Sumber CLO: 'jtk' (khusus JTK), 'campur' (termasuk umum), 'all' (gabungan)",
-    )
-
-
 # ── Response Models — Occupation ───────────────────────────────────────────
 
 
@@ -94,15 +74,6 @@ class SkillDetail(BaseModel):
     skill_type: str = Field(..., description="Tipe: 'skill/competence' atau 'knowledge'")
     relation_type: str = Field(..., description="Relasi: 'essential' atau 'optional'")
     description: str | None = Field(default=None, description="Deskripsi skill")
-
-
-class OccupationSkillsResponse(BaseModel):
-    """Response GET /occupation/skills."""
-
-    occupation_uri: str
-    occupation_label: str
-    total_skills: int
-    skills: list[SkillDetail]
 
 
 # ── Response Models — Comparison (D↔E → F/G) ──────────────────────────────
@@ -211,18 +182,17 @@ class CLO(BaseModel):
 
 
 class PipelineRequest(BaseModel):
-    """Request body untuk POST /pipeline/run."""
+    """Request body untuk POST /integration/peo-plo-clo."""
+
     peo_name: str = Field(
         ...,
-        description="Nama PEO / profil lulusan (mis. 'Programmer')",
+        description="Nama PEO / profil lulusan JTK (mis. 'Programmer')",
         examples=["Programmer"],
-    )
-    top_k_occupation: int = Field(
-        default=3,
-        description="Top K occupation yang dicari",
     )
     threshold: float | None = Field(
         default=None,
+        ge=0.0,
+        le=1.0,
         description="Threshold similarity. Jika None, maka threshold dianggap 0.0 (tampilkan semua)",
     )
 

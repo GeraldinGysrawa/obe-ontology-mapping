@@ -13,13 +13,10 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
-from app.api.routes_clo import router as clo_router
 from app.api.routes_comparison import router as comparison_router
-from app.api.routes_experiments import router as experiments_router
 from app.api.routes_occupation import router as occupation_router
-from app.api.routes_pipeline import router as pipeline_router
 from app.api.routes_cso import router as cso_router
-from app.api.routes_pipeline_cso import router as pipeline_cso_router
+from app.api.routes_integration import router as integration_router
 from app.core.embeddings import load_model
 from app.repositories.cso_repository import CSORepository
 
@@ -82,11 +79,8 @@ app = FastAPI(
 
 app.include_router(occupation_router)
 app.include_router(comparison_router)
-app.include_router(clo_router)
-app.include_router(experiments_router)
-app.include_router(pipeline_router)
 app.include_router(cso_router)
-app.include_router(pipeline_cso_router)
+app.include_router(integration_router)
 
 
 # ── Health check ───────────────────────────────────────────────────────────
@@ -95,7 +89,8 @@ app.include_router(pipeline_cso_router)
 @app.get(
     "/health",
     tags=["System"],
-    summary="Health check",
+    summary="Pemeriksaan Status Layanan (Health Check)",
+    description="Memeriksa status operasional backend API JTK-ESCO Mapping Pipeline.",
 )
 async def health_check():
     """GET /health — Health check endpoint."""
