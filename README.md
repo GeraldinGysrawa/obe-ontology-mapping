@@ -62,6 +62,18 @@ Server akan berjalan di `http://localhost:8000`. Buka **`http://localhost:8000/d
 
 ---
 
+## 📐 Analisis Perbandingan & Konsep Himpunan (ESCO vs PLO)
+
+Perbandingan antara **Himpunan $A$ (ESCO Skills standar industri)** dan **Himpunan $B$ (PLO JTK kurikulum)** pada modul `skill_comparator` dihitung secara dua arah:
+
+| Kategori | Konsep Himpunan | Deskripsi |
+|---|:---:|---|
+| **`covered`** | $A \cap B$ (Irisan) | Skill ESCO yang **sudah tercakup** oleh PLO JTK dengan skor kemiripan $\ge$ threshold. |
+| **`gap`** | $A \setminus B$ (Selisih $ESCO - PLO$) | Skill ESCO yang **belum diajarkan / belum tercakup** oleh PLO JTK ($\text{score} < \text{threshold}$). Menggambarkan *kebutuhan industri yang terlewat oleh kurikulum*. |
+| **`overskill`** | $B \setminus A$ (Selisih $PLO - ESCO$) | PLO JTK yang **tidak dibutuhkan / tidak ada** pada ESCO Skill occupation tersebut ($\text{score} < \text{threshold}$). Menggambarkan *materi internal kurikulum di luar cakupan pekerjaan tersebut*. |
+
+---
+
 ## 📁 Struktur Folder Project
 
 ```
