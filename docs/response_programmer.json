@@ -1,0 +1,2572 @@
+{
+  "integration": {
+    "peo": "Programmer",
+    "occupation": {
+      "uri": "http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1",
+      "label": "software developer",
+      "score": 0.7263616323471069
+    },
+    "esco_skills": [
+      {
+        "uri": "http://data.europa.eu/esco/skill/209a5498-3449-4689-8ed9-bd08cab4fd78",
+        "label": "engineering principles",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The engineering elements like functionality, replicability, and costs in relation to the design and how they are applied in the completion of engineering projects."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+        "label": "computer programming",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms (e.g. object oriented programming, functional programming) and of programming languages."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/59ea80e1-463a-4dba-82c6-d0b6d577d532",
+        "label": "technical drawings",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "Drawing software and the various symbols, perspectives, units of measurement, notation systems, visual styles and page layouts used in technical drawings."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+        "label": "ICT debugging tools",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The ICT tools used to test and debug programs and software code, such as GNU Debugger (GDB), Intel Debugger (IDB), Microsoft Visual Studio Debugger, Valgrind and WinDbg."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+        "label": "project management",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The discipline of project management, the activities which comprise this area and the variables implied in it, such as time, resources, requirements, deadlines, and responding to unexpected events."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+        "label": "engineering processes",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The systematic approach to the development and maintenance of engineering systems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+        "label": "integrated development environment software",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface, such as Visual Studio or Eclipse."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+        "label": "tools for software configuration management",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The software programs to perform configuration identification, control, status accounting and audit, such as CVS, ClearCase, Subversion, GIT and TortoiseSVN perform this management."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+        "label": "web services",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "XML-based information systems that allows for direct interactions between applications through Internet. It is a set of protocols for transferring data between applications and systems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+        "label": "use an application-specific interface",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Understand and use interfaces particular to an application or use case."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+        "label": "develop automated migration methods",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Create automated transfer of ICT information between storage types, formats and systems to save human resources from performing the task manually."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+        "label": "identify customer requirements",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Apply techniques and tools, such as surveys, questionnaires, ICT applications, for eliciting, defining, analysing, documenting and maintaining user requirements from system, service or product."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+        "label": "utilise computer-aided software engineering tools",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Use software tools (CASE) to support the development lifecycle, design and implementation of software and applications of high-quality that can be easily maintained."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+        "label": "debug software",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Repair computer code by analysing testing results, locating the defects causing the software to output an incorrect or unexpected result and remove these faults."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+        "label": "use software design patterns",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Utilise reusable solutions, formalised best practices, to solve common ICT development tasks in software development and design."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+        "label": "perform scientific research",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Gain, correct or improve knowledge about phenomena by using scientific methods and techniques, based on empirical or measurable observations."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462",
+        "label": "use technical drawing software",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Create technical designs and technical drawings using specialised software."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab",
+        "label": "manage engineering project",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Manage engineering project resources, budget, deadlines, and human resources, and plan schedules as well as any technical activities pertinent to the project."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+        "label": "develop software prototype",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Create a first incomplete or preliminary version of a piece of software application to simulate some specific aspects of the final product."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df",
+        "label": "use software libraries",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Utilise collections of codes and software packages which capture frequently used routines to help programmers simplify their work."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+        "label": "create flowchart diagram",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Compose a diagram that illustrates systematic progress through a procedure or system using connecting lines and a set of symbols."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/be48353d-25c7-4f86-bea9-7b9e248fbc6e",
+        "label": "interpret technical requirements",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Analyse, understand and apply the information provided regarding technical conditions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2",
+        "label": "define technical requirements",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Specify technical properties of goods, materials, methods, processes, services, systems, software and functionalities by identifying and responding to the particular needs that are to be satisfied according to customer requirements."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+        "label": "analyse software specifications",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Assess the specifications of a software product or system to be developed by identifying functional and non-functional requirements, constraints and possible sets of use cases which illustrate interactions between the software and its users."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+        "label": "Haskell",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Haskell."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+        "label": "KDevelop",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program KDevelop is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software community KDE."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+        "label": "Erlang",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Erlang."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+        "label": "SAS language",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in SAS language."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+        "label": "Ruby (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Ruby."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+        "label": "Common Lisp",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Common Lisp."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0d168770-4d9c-4096-b048-a6577818d306",
+        "label": "Apache Maven",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The tool Apache Maven is a software program to perform configuration identification, control, status accounting and audit of software during its development and maintenance."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+        "label": "Lisp",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Lisp."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+        "label": "Apache Tomcat",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The open-source web server Apache Tomcat provides a Java web server environment which uses a built in container where HTTP requests are loaded, allowing the Java web applications to run on local and server based systems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+        "label": "Visual Basic",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Visual Basic."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/1774bd31-8893-44cf-9498-7e3d95508419",
+        "label": "screen reader",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Software program which converts screen elements such as text, images, or buttons, displayed in the computer into Braille or speech. Assistive technology used by visually impaired or blind people to interpret what appears on the computer screen through braille output, audio icons or speech synthesisers."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/17924c75-45f4-4593-afac-eea0d51f04b5",
+        "label": "defence standard procedures",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Methods and procedures typical for defence applications such as the NATO Standardization Agreements or STANAGs\nStandard definitions of the processes, procedures, terms, and conditions for common military or technical procedures or equipment. Guidelines for capability planners, programme managers and test managers to prescribe the necessary technical standards and profiles to achieve interoperability of Communications and Information Systems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+        "label": "Java (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Java."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+        "label": "Drupal",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The open-source web-based software system written in PHP, used for creating, editing, publishing and archiving blogs, articles, web pages or press releases, which requires a higher level of technical understanding of HTML, CSS and PHP."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+        "label": "software frameworks",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The software development environments or tools used to improve the efficiency of new software development by providing specific features that support and guide the development."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+        "label": "Prolog (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Prolog."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+        "label": "OpenEdge Advanced Business Language",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in OpenEdge Advanced Business Language."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3c2e6f38-42c1-46ec-b782-5854b2db330d",
+        "label": "blockchain openness",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The different levels of openness of a blockchain, their differences, and their advantages and disadvantages. Examples are permissionless, permissioned, and hybrid blockchains."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+        "label": "JavaScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in JavaScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8",
+        "label": "Perl",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Perl."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+        "label": "Smalltalk (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Smalltalk."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+        "label": "PHP",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in PHP."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/438ff259-d086-4004-acda-1ec3e1631bc6",
+        "label": "software anomalies",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The deviations of what is standard and exceptional events during software system performance, identification of incidents that can alter the flow and the process of system execution."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+        "label": "Xcode",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program Xcode is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Apple."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+        "label": "Assembly (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Assembly."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+        "label": "C#",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in C#."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+        "label": "R",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in R."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+        "label": "Groovy",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Groovy."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+        "label": "ASP.NET",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ASP.NET."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+        "label": "cyber attack counter-measures",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Methods, technologies and techniques used to defend (detect, monitor and recover) against cyber attacks. These cyber attacks include several attack vectors such as malware, denial of service (DoS) attacks and phishing. Intrusion prevention systems (IPS), firewall, antivirus, intrusion detection systems (IDS), cybersecurity training, backup, Information Security Management System (ISM), multi-factor authentication and employ awareness, are some examples of the methods used."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+        "label": "APL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in APL."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+        "label": "SQL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language SQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the American National Standards Institute and the International Organization for Standardization."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+        "label": "SQL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language SQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the American National Standards Institute and the International Organization for Standardization."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+        "label": "object-oriented modelling",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The object-oriented paradigm, which is based on classes, objects, methods and interfaces and their application in software design and analysis, programming organisation and techniques."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d",
+        "label": "Puppet (tools for software configuration management)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The tool Puppet is a software program to perform configuration identification, control, status accounting and audit."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1",
+        "label": "data visualisation software",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "A computer tool or application that creates a graphical and visual representation of data, allowing a better understanding and interpretation of complex data through visual elements such as maps, charts, infographics or graphs."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/670f8eea-f25b-4c3f-97ef-a4729d4c63d6",
+        "label": "smart contract",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "A software program in which the terms of a contract or transaction are directly coded. Smart contracts are executed automatically upon fulfilment of the terms and therefore require no third party to oversee and register the contract or transaction."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb",
+        "label": "STAF",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The tool STAF is a software program to perform configuration identification, control, status accounting and audit."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+        "label": "Eclipse (integrated development environment software)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program Eclipse is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the Eclipse Foundation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+        "label": "WordPress",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The open-source web-based software systems used for creating, editing, publishing and archiving blogs, articles, web pages or press releases which are mostly managed by users with limited web programming knowledge."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed",
+        "label": "Ansible",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The tool Ansible is a software program to perform configuration identification, control, status accounting and audit."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+        "label": "NoSQL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The Not Only SQL non-relational database used for creating, updating and managing large amounts of unstructured data stored in the cloud."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+        "label": "ICT security legislation",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The set of legislative rules that safeguards information technology, ICT networks and computer systems and legal consequences which result from their misuse. Regulated measures include firewalls, intrusion detection, anti-virus software and encryption."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+        "label": "Microsoft Visual C++",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program Visual C++ is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+        "label": "TypeScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in TypeScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+        "label": "World Wide Web Consortium standards",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The standards, technical specifications and guidelines developed by the international organisation World Wide Web Consortium (W3C) which allow the design and development of web applications."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8764d4b1-e069-44f2-8baa-fb1eee1850ec",
+        "label": "Oracle Application Development Framework",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The Java framework software development environment which provide specific features and components (such as enhanced reusability features, visual and declarative programming) that support and guide enterprise applications development."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+        "label": "Ajax Framework",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The Ajax software development environments which provide specific features and components that support and guide web applications development."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9035afc4-5317-455d-ab60-f32e2ecc6bfc",
+        "label": "blockchain platforms",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The different integrated infrastructures, each with their own characteristics, that allow the development of blockchain applications. Examples are multichain, ehtereum, hyperledger, corda, ripple, openchain, etc."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+        "label": "CoffeeScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in CoffeeScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+        "label": "Objective-C",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Objective-C."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+        "label": "JavaScript Framework",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The JavaScript software development environments which provide specific features and components ( such as HTML generation tools, Canvas support or Visual design) that support and guide JavaScript web applications development."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+        "label": "ML (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ML."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+        "label": "IBM WebSphere",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The application server IBM WebSphere provides flexible and secure Java EE runtime environments to support application infrastructure and deployments."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+        "label": "SPARK",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The Java micro framework software development environment which provide specific features and components that support and guide web applications development."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+        "label": "AJAX",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in AJAX."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+        "label": "C++",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in C++."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+        "label": "trading software",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The finance and trading integrated software solutions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+        "label": "SAP R3",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in SAP R3."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+        "label": "Swift (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Swift."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+        "label": "MATLAB",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in MATLAB."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c7451027-8249-405a-bb1b-342ff0f3fb3b",
+        "label": "Salt (tools for software configuration management)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The tool Salt is a software program to perform configuration identification, control, status accounting and audit."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+        "label": "Python (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+        "label": "Scratch (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Scratch."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+        "label": "VBScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in VBScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+        "label": "COBOL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in COBOL."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+        "label": "Pascal (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Pascal."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+        "label": "ABAP",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ABAP."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+        "label": "Internet of Things",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The general principles, categories, requirements, limitations and vulnerabilities of smart connected devices (most of them with intended internet connectivity)."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da",
+        "label": "Jenkins (tools for software configuration management)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The tool Jenkins is a software program to perform configuration identification, control, status accounting and audit of software during its development and maintenance."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+        "label": "Scala",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Scala."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377",
+        "label": "migrate existing data",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Apply migration and conversion methods for existing data, in order to transfer or convert data between formats, storage or computer systems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+        "label": "use concurrent programming",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Utilise specialised ICT tools to create programs that can execute concurrent operations by splitting programs into parallel processes and, once computed, combining the outcomes together."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+        "label": "use logic programming",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Utilise specialised ICT tools to create computer code composed of series of sentences in logical form, expressing rules and facts about some problem domain. Use programming languages which support this method such as Prolog, Answer Set Programming and Datalog."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/38716afc-a93b-44ab-96cc-2ecf67edcf32",
+        "label": "do cloud refactoring",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Optimise application to best use cloud services and features, migrate existing application code to run on cloud infrastructure."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+        "label": "use object-oriented programming",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Utilise specialised ICT tools for programming paradigm based on the concept of objects, which can contain data in the form of fields and code in the form of procedures. Use programming languages which support this method such as JAVA and C++."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/71746a0b-e58d-4dc4-ad03-bd84082eae21",
+        "label": "collect customer feedback on applications",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Gather a response and analyse data from customers to identify requests or problems in order to improve applications and overall customer satisfaction."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+        "label": "use query languages",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Retrieve information from a database or information system using computer languages designed for the retrieval of data."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+        "label": "use automatic programming",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Utilise specialised software tools to generate computer code from specifications, such as diagrams, structured informations or other means of describing functionality."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+        "label": "utilise machine learning",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Use techniques and algorithms that are able to extract mastery out of data, learn from it and make predictions, to be used for program optimisation, application adaptation, pattern recognition, filtering, search engines and computer vision."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+        "label": "develop creative ideas",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Developing new artistic concepts and creative ideas."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+        "label": "use functional programming",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Utilise specialised ICT tools to create computer code which treats computation as the evaluation of mathematical functions and seeks to avoid state and mutable data. Use programming languages which support this method such as LISP, PROLOG and Haskell."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+        "label": "integrate system components",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Select and use integration techniques and tools to plan and implement integration of hardware and software modules and components in a system."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f5308e60-d763-4ead-be95-88c96fb3e02b",
+        "label": "adapt to changes in technological development plans",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Modify the current design and development activities of technological projects to meet changes in requests or strategies. Ensure that the organisation's or client's needs are met and that any sudden requests which were not previously planned are implemented."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+        "label": "design user interface",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Create software or device components which enable interaction between humans and systems or machines, using appropriate techniques, languages and tools so as to streamline interaction while using the system or machine."
+      }
+    ],
+    "plo_jtk": [
+      {
+        "plo_id": "PLO-01-01",
+        "plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "peo_id": "PEO-01"
+      },
+      {
+        "plo_id": "PLO-01-02",
+        "plo_text": "Memahami prinsip UI/UX.",
+        "peo_id": "PEO-01"
+      },
+      {
+        "plo_id": "PLO-01-03",
+        "plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "peo_id": "PEO-01"
+      },
+      {
+        "plo_id": "PLO-01-04",
+        "plo_text": "Memahami pengembangan agile.",
+        "peo_id": "PEO-01"
+      },
+      {
+        "plo_id": "PLO-01-05",
+        "plo_text": "Kemampuan debugging dan optimasi kode.",
+        "peo_id": "PEO-01"
+      },
+      {
+        "plo_id": "PLO-01-06",
+        "plo_text": "Pengembangan lintas platform untuk mobile (Flutter, React Native)",
+        "peo_id": "PEO-01"
+      },
+      {
+        "plo_id": "PLO-01-07",
+        "plo_text": "Mampu mengomunikasikan hasil pekerjaan",
+        "peo_id": "PEO-01"
+      }
+    ],
+    "covered": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/209a5498-3449-4689-8ed9-bd08cab4fd78",
+        "esco_skill_label": "engineering principles",
+        "matched_plo_id": "PLO-01-02",
+        "matched_plo_text": "Memahami prinsip UI/UX.",
+        "similarity_score": 0.4674
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+        "esco_skill_label": "computer programming",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.4943
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+        "esco_skill_label": "ICT debugging tools",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.5999
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+        "esco_skill_label": "integrated development environment software",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.5036
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+        "esco_skill_label": "tools for software configuration management",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4572
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+        "esco_skill_label": "use an application-specific interface",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4526
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51",
+        "esco_skill_label": "utilise computer-aided software engineering tools",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.5555
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+        "esco_skill_label": "debug software",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.6715
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+        "esco_skill_label": "use software design patterns",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4612
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4fabca9a-7435-4f33-b1da-3cdb00340fdc",
+        "esco_skill_label": "perform scientific research",
+        "matched_plo_id": "PLO-01-07",
+        "matched_plo_text": "Mampu mengomunikasikan hasil pekerjaan",
+        "similarity_score": 0.4321
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8b94aa1e-89c9-459d-b3b4-1dfab8dec2df",
+        "esco_skill_label": "use software libraries",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.5053
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/be48353d-25c7-4f86-bea9-7b9e248fbc6e",
+        "esco_skill_label": "interpret technical requirements",
+        "matched_plo_id": "PLO-01-02",
+        "matched_plo_text": "Memahami prinsip UI/UX.",
+        "similarity_score": 0.4373
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+        "esco_skill_label": "analyse software specifications",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4302
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+        "esco_skill_label": "Haskell",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.491
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+        "esco_skill_label": "KDevelop",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4426
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+        "esco_skill_label": "Erlang",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4488
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+        "esco_skill_label": "Ruby (computer programming)",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4492
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+        "esco_skill_label": "Java (computer programming)",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.5163
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/24c200e5-be20-4370-a137-ab53797f3a17",
+        "esco_skill_label": "software frameworks",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.5184
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+        "esco_skill_label": "Prolog (computer programming)",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4536
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+        "esco_skill_label": "OpenEdge Advanced Business Language",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.4598
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+        "esco_skill_label": "JavaScript",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.5275
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8",
+        "esco_skill_label": "Perl",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.4068
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+        "esco_skill_label": "Smalltalk (computer programming)",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4469
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+        "esco_skill_label": "PHP",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4048
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+        "esco_skill_label": "Xcode",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4525
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+        "esco_skill_label": "Assembly (computer programming)",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4698
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+        "esco_skill_label": "C#",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.4877
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+        "esco_skill_label": "R",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4388
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+        "esco_skill_label": "Groovy",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4543
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+        "esco_skill_label": "ASP.NET",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.4381
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+        "esco_skill_label": "APL",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.57
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+        "esco_skill_label": "SQL",
+        "matched_plo_id": "PLO-01-03",
+        "matched_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "similarity_score": 0.4393
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742",
+        "esco_skill_label": "SQL",
+        "matched_plo_id": "PLO-01-03",
+        "matched_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "similarity_score": 0.4393
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5be3d306-6cf1-4b49-aa1d-01651dd4ba4c",
+        "esco_skill_label": "object-oriented modelling",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4544
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb",
+        "esco_skill_label": "STAF",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4033
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed",
+        "esco_skill_label": "Ansible",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.5386
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/76ef6ed3-1658-4a1a-9593-204d799c6d0c",
+        "esco_skill_label": "NoSQL",
+        "matched_plo_id": "PLO-01-03",
+        "matched_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "similarity_score": 0.536
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+        "esco_skill_label": "TypeScript",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.4971
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8764d4b1-e069-44f2-8baa-fb1eee1850ec",
+        "esco_skill_label": "Oracle Application Development Framework",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4981
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8c88d336-c249-4537-b26e-d679a85c4b9b",
+        "esco_skill_label": "Ajax Framework",
+        "matched_plo_id": "PLO-01-03",
+        "matched_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "similarity_score": 0.5814
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+        "esco_skill_label": "Objective-C",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.5278
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9b9de2a4-d8af-4a7b-933a-a8334ae60067",
+        "esco_skill_label": "JavaScript Framework",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.4523
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/af7ae54f-4649-4c16-87c7-59ba41d4d57f",
+        "esco_skill_label": "SPARK",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4084
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+        "esco_skill_label": "AJAX",
+        "matched_plo_id": "PLO-01-03",
+        "matched_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "similarity_score": 0.4526
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+        "esco_skill_label": "C++",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.5049
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+        "esco_skill_label": "Swift (computer programming)",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.5284
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+        "esco_skill_label": "MATLAB",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4309
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+        "esco_skill_label": "Python (computer programming)",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.5539
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+        "esco_skill_label": "Scratch (computer programming)",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4656
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+        "esco_skill_label": "VBScript",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4741
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+        "esco_skill_label": "COBOL",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4019
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+        "esco_skill_label": "Pascal (computer programming)",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4658
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+        "esco_skill_label": "ABAP",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4002
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da",
+        "esco_skill_label": "Jenkins (tools for software configuration management)",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.425
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+        "esco_skill_label": "Scala",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.506
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+        "esco_skill_label": "use concurrent programming",
+        "matched_plo_id": "PLO-01-04",
+        "matched_plo_text": "Memahami pengembangan agile.",
+        "similarity_score": 0.4289
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+        "esco_skill_label": "use logic programming",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4669
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+        "esco_skill_label": "use object-oriented programming",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.5289
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+        "esco_skill_label": "use automatic programming",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.4983
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433",
+        "esco_skill_label": "utilise machine learning",
+        "matched_plo_id": "PLO-01-05",
+        "matched_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "similarity_score": 0.425
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+        "esco_skill_label": "use functional programming",
+        "matched_plo_id": "PLO-01-01",
+        "matched_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "similarity_score": 0.5043
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e",
+        "esco_skill_label": "design user interface",
+        "matched_plo_id": "PLO-01-06",
+        "matched_plo_text": "Pengembangan lintas platform untuk mobile (Flutter, React Native)",
+        "similarity_score": 0.4054
+      }
+    ],
+    "gap": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/59ea80e1-463a-4dba-82c6-d0b6d577d532",
+        "esco_skill_label": "technical drawings",
+        "best_plo_id": "PLO-01-07",
+        "best_plo_text": "Mampu mengomunikasikan hasil pekerjaan",
+        "best_similarity_score": 0.2726
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+        "esco_skill_label": "project management",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3375
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/72a74f69-5cf1-43c5-99b9-62a444578919",
+        "esco_skill_label": "engineering processes",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.395
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+        "esco_skill_label": "web services",
+        "best_plo_id": "PLO-01-03",
+        "best_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "best_similarity_score": 0.3886
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+        "esco_skill_label": "develop automated migration methods",
+        "best_plo_id": "PLO-01-06",
+        "best_plo_text": "Pengembangan lintas platform untuk mobile (Flutter, React Native)",
+        "best_similarity_score": 0.3224
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64",
+        "esco_skill_label": "identify customer requirements",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.2987
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462",
+        "esco_skill_label": "use technical drawing software",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3505
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab",
+        "esco_skill_label": "manage engineering project",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3487
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+        "esco_skill_label": "develop software prototype",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3794
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+        "esco_skill_label": "create flowchart diagram",
+        "best_plo_id": "PLO-01-07",
+        "best_plo_text": "Mampu mengomunikasikan hasil pekerjaan",
+        "best_similarity_score": 0.3156
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2",
+        "esco_skill_label": "define technical requirements",
+        "best_plo_id": "PLO-01-02",
+        "best_plo_text": "Memahami prinsip UI/UX.",
+        "best_similarity_score": 0.2698
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+        "esco_skill_label": "SAS language",
+        "best_plo_id": "PLO-01-05",
+        "best_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "best_similarity_score": 0.3651
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+        "esco_skill_label": "Common Lisp",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3723
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0d168770-4d9c-4096-b048-a6577818d306",
+        "esco_skill_label": "Apache Maven",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3794
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+        "esco_skill_label": "Lisp",
+        "best_plo_id": "PLO-01-05",
+        "best_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "best_similarity_score": 0.379
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0fb753a1-2ef2-4429-84d2-ecb2b24daf7a",
+        "esco_skill_label": "Apache Tomcat",
+        "best_plo_id": "PLO-01-03",
+        "best_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "best_similarity_score": 0.3344
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+        "esco_skill_label": "Visual Basic",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.392
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/1774bd31-8893-44cf-9498-7e3d95508419",
+        "esco_skill_label": "screen reader",
+        "best_plo_id": "PLO-01-05",
+        "best_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "best_similarity_score": 0.2581
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/17924c75-45f4-4593-afac-eea0d51f04b5",
+        "esco_skill_label": "defence standard procedures",
+        "best_plo_id": "PLO-01-02",
+        "best_plo_text": "Memahami prinsip UI/UX.",
+        "best_similarity_score": 0.3025
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/1de3942b-99d8-41e8-9ef0-fbc9e9f6307b",
+        "esco_skill_label": "Drupal",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.374
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3c2e6f38-42c1-46ec-b782-5854b2db330d",
+        "esco_skill_label": "blockchain openness",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3087
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/438ff259-d086-4004-acda-1ec3e1631bc6",
+        "esco_skill_label": "software anomalies",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3299
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248",
+        "esco_skill_label": "cyber attack counter-measures",
+        "best_plo_id": "PLO-01-02",
+        "best_plo_text": "Memahami prinsip UI/UX.",
+        "best_similarity_score": 0.2912
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d",
+        "esco_skill_label": "Puppet (tools for software configuration management)",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3899
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1",
+        "esco_skill_label": "data visualisation software",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.313
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/670f8eea-f25b-4c3f-97ef-a4729d4c63d6",
+        "esco_skill_label": "smart contract",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.316
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+        "esco_skill_label": "Eclipse (integrated development environment software)",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3423
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6d289e8b-2cc1-4eda-ab1f-ad1090ef98f0",
+        "esco_skill_label": "WordPress",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3438
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42",
+        "esco_skill_label": "ICT security legislation",
+        "best_plo_id": "PLO-01-02",
+        "best_plo_text": "Memahami prinsip UI/UX.",
+        "best_similarity_score": 0.3353
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+        "esco_skill_label": "Microsoft Visual C++",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3776
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e",
+        "esco_skill_label": "World Wide Web Consortium standards",
+        "best_plo_id": "PLO-01-03",
+        "best_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "best_similarity_score": 0.3463
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9035afc4-5317-455d-ab60-f32e2ecc6bfc",
+        "esco_skill_label": "blockchain platforms",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3405
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+        "esco_skill_label": "CoffeeScript",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3854
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+        "esco_skill_label": "ML (computer programming)",
+        "best_plo_id": "PLO-01-01",
+        "best_plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "best_similarity_score": 0.3696
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/a4e31589-3632-4926-91d0-15b889c90b9b",
+        "esco_skill_label": "IBM WebSphere",
+        "best_plo_id": "PLO-01-03",
+        "best_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "best_similarity_score": 0.3672
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+        "esco_skill_label": "trading software",
+        "best_plo_id": "PLO-01-03",
+        "best_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "best_similarity_score": 0.3798
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+        "esco_skill_label": "SAP R3",
+        "best_plo_id": "PLO-01-05",
+        "best_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "best_similarity_score": 0.3811
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c7451027-8249-405a-bb1b-342ff0f3fb3b",
+        "esco_skill_label": "Salt (tools for software configuration management)",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3814
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+        "esco_skill_label": "Internet of Things",
+        "best_plo_id": "PLO-01-06",
+        "best_plo_text": "Pengembangan lintas platform untuk mobile (Flutter, React Native)",
+        "best_similarity_score": 0.3489
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377",
+        "esco_skill_label": "migrate existing data",
+        "best_plo_id": "PLO-01-06",
+        "best_plo_text": "Pengembangan lintas platform untuk mobile (Flutter, React Native)",
+        "best_similarity_score": 0.2649
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/38716afc-a93b-44ab-96cc-2ecf67edcf32",
+        "esco_skill_label": "do cloud refactoring",
+        "best_plo_id": "PLO-01-05",
+        "best_plo_text": "Kemampuan debugging dan optimasi kode.",
+        "best_similarity_score": 0.3727
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/71746a0b-e58d-4dc4-ad03-bd84082eae21",
+        "esco_skill_label": "collect customer feedback on applications",
+        "best_plo_id": "PLO-01-07",
+        "best_plo_text": "Mampu mengomunikasikan hasil pekerjaan",
+        "best_similarity_score": 0.3244
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+        "esco_skill_label": "use query languages",
+        "best_plo_id": "PLO-01-03",
+        "best_plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "best_similarity_score": 0.3762
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+        "esco_skill_label": "develop creative ideas",
+        "best_plo_id": "PLO-01-07",
+        "best_plo_text": "Mampu mengomunikasikan hasil pekerjaan",
+        "best_similarity_score": 0.3936
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72",
+        "esco_skill_label": "integrate system components",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3711
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f5308e60-d763-4ead-be95-88c96fb3e02b",
+        "esco_skill_label": "adapt to changes in technological development plans",
+        "best_plo_id": "PLO-01-04",
+        "best_plo_text": "Memahami pengembangan agile.",
+        "best_similarity_score": 0.3732
+      }
+    ],
+    "overskill": [],
+    "clo": [
+      {
+        "plo_id": "PLO-01-01",
+        "plo_text": "Menguasai bahasa pemrograman (misalnya, Java, Python, C++, JavaScript).",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-18",
+            "clo_text": "Memahami Konsep Dasar Pemrograman Berorientasi Objek\nMahasiswa mampu menjelaskan konsep fundamental pemrograman berorientasi objek, termasuk object dan class, generalisasi dan spesialisasi, enkapsulasi, pewarisan (inheritance), polimorfisme, kelas abstrak, dan interface.\n\nMengaplikasikan Pemrograman Berorientasi Objek\nMahasiswa mampu mengimplementasikan konsep pemrograman berorientasi objek dalam kasus-kasus pemrograman, meliputi penggunaan file stream, GUI programming, dan multithreading.\n\nMengembangkan Solusi dengan Pendekatan Berorientasi Objek\nMahasiswa mampu menganalisis permasalahan, merancang solusi, dan mengembangkan program berbasis objek yang terstruktur dan terukur sesuai dengan kebutuhan studi kasus.\n\nMeningkatkan Keterampilan Pengembangan Program Modular\nMahasiswa mampu menggunakan prinsip-prinsip modularitas dalam pengembangan program berbasis objek untuk menciptakan solusi perangkat lunak yang efektif dan efisien.\n\nMempraktikkan Teknik Pemrograman Berorientasi Objek\nMahasiswa mampu mempraktikkan pembuatan kode (coding), pengujian (testing), debugging, dan dokumentasi program berbasis objek dalam berbagai skenario.\n\nMenerapkan Model Pembelajaran Mandiri dan Kolaboratif\nMahasiswa mampu menyelesaikan tugas individu dan kelompok, baik melalui pembelajaran langsung di kelas maupun pembelajaran berbasis e-learning, dengan metode Student-Centered Learning (SCL) yang mendukung pencapaian capaian pembelajaran.\n\nMengintegrasikan Teknologi dalam Pengembangan Program\nMahasiswa mampu memanfaatkan teknologi terkini untuk mengembangkan program berbasis objek yang mendukung kebutuhan pembelajaran dan dunia industri.",
+            "score": 0.5396,
+            "mata_kuliah": {
+              "nama": "Pemrograman Berorientasi Objek"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-20",
+            "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+            "score": 0.4313,
+            "mata_kuliah": {
+              "nama": "Pengantar Rekayasa Perangkat Lunak"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-33",
+            "clo_text": "1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.\n2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.\n3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek.",
+            "score": 0.3683,
+            "mata_kuliah": {
+              "nama": "Kerja Praktik"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-01-02",
+        "plo_text": "Memahami prinsip UI/UX.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-40",
+            "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+            "score": 0.5712,
+            "mata_kuliah": {
+              "nama": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-18",
+            "clo_text": "Memahami Konsep Dasar Pemrograman Berorientasi Objek\nMahasiswa mampu menjelaskan konsep fundamental pemrograman berorientasi objek, termasuk object dan class, generalisasi dan spesialisasi, enkapsulasi, pewarisan (inheritance), polimorfisme, kelas abstrak, dan interface.\n\nMengaplikasikan Pemrograman Berorientasi Objek\nMahasiswa mampu mengimplementasikan konsep pemrograman berorientasi objek dalam kasus-kasus pemrograman, meliputi penggunaan file stream, GUI programming, dan multithreading.\n\nMengembangkan Solusi dengan Pendekatan Berorientasi Objek\nMahasiswa mampu menganalisis permasalahan, merancang solusi, dan mengembangkan program berbasis objek yang terstruktur dan terukur sesuai dengan kebutuhan studi kasus.\n\nMeningkatkan Keterampilan Pengembangan Program Modular\nMahasiswa mampu menggunakan prinsip-prinsip modularitas dalam pengembangan program berbasis objek untuk menciptakan solusi perangkat lunak yang efektif dan efisien.\n\nMempraktikkan Teknik Pemrograman Berorientasi Objek\nMahasiswa mampu mempraktikkan pembuatan kode (coding), pengujian (testing), debugging, dan dokumentasi program berbasis objek dalam berbagai skenario.\n\nMenerapkan Model Pembelajaran Mandiri dan Kolaboratif\nMahasiswa mampu menyelesaikan tugas individu dan kelompok, baik melalui pembelajaran langsung di kelas maupun pembelajaran berbasis e-learning, dengan metode Student-Centered Learning (SCL) yang mendukung pencapaian capaian pembelajaran.\n\nMengintegrasikan Teknologi dalam Pengembangan Program\nMahasiswa mampu memanfaatkan teknologi terkini untuk mengembangkan program berbasis objek yang mendukung kebutuhan pembelajaran dan dunia industri.",
+            "score": 0.5594,
+            "mata_kuliah": {
+              "nama": "Pemrograman Berorientasi Objek"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-24",
+            "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+            "score": 0.5428,
+            "mata_kuliah": {
+              "nama": "Pengantar Sistem Informasi"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-01-03",
+        "plo_text": "Menguasai framework dan database (contoh: React, Node.js, MySQL).",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.3592,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.3516,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-06",
+            "clo_text": "Membangun Logika Berpikir dan Pemecahan Masalah\nMahasiswa mampu menyusun dan menstrukturkan logika berpikir secara sistematis untuk memahami konsep berpikir logis dan komputasi sebagai modal dasar dalam memecahkan masalah, baik dengan menggunakan komputer maupun tidak.\n\nMengembangkan Algoritma dan Alternatif Solusi\nMahasiswa mampu menganalisis permasalahan dan merancang solusi sistematis dengan menurunkan algoritma menggunakan pendekatan yang taat aturan, serta menghasilkan alternatif solusi dari suatu permasalahan yang diberikan.\n\nMenguasai Konsep Dasar Pemrograman\nMahasiswa mampu memahami dan menerapkan konsep dasar pemrograman, meliputi tipe data, variabel, struktur proses, prosedur, fungsi, array, file, serta pemrograman modular.\n\nMengaplikasikan Siklus Pengembangan Program\nMahasiswa mampu merancang, menguji (testing), menelusuri (debugging), dan mendokumentasikan program komputer secara efektif menggunakan gaya pemrograman yang baik.\n\nMengintegrasikan Konsep Abstraksi Proses dan Data\nMahasiswa mampu memahami keterkaitan antara abstraksi proses dan data dalam pemrograman, serta menyusun hirarki program yang terstruktur.\n\nMelatih Penguasaan Teknik Pemrograman\nMahasiswa mampu mempraktikkan penulisan kode (coding) algoritma secara langsung di kelas maupun laboratorium, serta menyelesaikan studi kasus pemrograman menggunakan metode yang terukur dan terstruktur.\n\nMeningkatkan Keterampilan Kolaboratif dan Mandiri\nMahasiswa mampu berpartisipasi aktif dalam diskusi, menyimak dan merekonstruksi alternatif solusi, melakukan studi referensi, serta menyelesaikan tugas terstruktur baik secara individu maupun kelompok.",
+            "score": 0.3345,
+            "mata_kuliah": {
+              "nama": "Dasar-dasar Pemrograman"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-01-04",
+        "plo_text": "Memahami pengembangan agile.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5756,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-33",
+            "clo_text": "1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.\n2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.\n3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek.",
+            "score": 0.5569,
+            "mata_kuliah": {
+              "nama": "Kerja Praktik"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-30",
+            "clo_text": "Mata kuliah \"Proyek 4: Pengembangan Perangkat Lunak Berbasis Mobile\" dirancang untuk memberikan mahasiswa pemahaman dan pengalaman praktis dalam mengembangkan aplikasi mobile menggunakan Flutter. Melalui pendekatan _Problem-Based Learning_ dan _Project-Based Learning_ yang terintegrasi dengan metodologi Agile (Scrum), mahasiswa akan mempelajari siklus pengembangan aplikasi mobile secara lengkap, mulai dari analisis kebutuhan dan desain antarmuka hingga implementasi, pengujian, dan deployment.\n\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\n* Memahami  karakteristik  dan  teknologi  pemrograman  perangkat  bergerak  terkini.\n* Memahami  dan  menerapkan  komponen-komponen  dasar  dalam  pengembangan  aplikasi  Android  dengan  Flutter.\n* Menerapkan  berbagai  fitur  dan  fungsionalitas  pada  aplikasi  mobile.\n* Menerapkan  metodologi  Agile  (Scrum)  dalam  pengembangan  perangkat  lunak.\n* Bekerja  sama  dalam  tim  untuk  mengembangkan  aplikasi  mobile  yang  berkualitas.\n* Memiliki  pemahaman  praktis  dan  keterampilan  untuk  menghadapi  situasi  pengembangan  aplikasi  mobile  yang  lebih  kompleks  di  masa  depan.\n\nDengan  menekankan  pada  pemahaman  konsep,  penerapan  praktis,  dan  kerja  sama  tim,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  kompetensi  yang  dibutuhkan  untuk  menjadi  pengembang  aplikasi  mobile  yang  profesional.",
+            "score": 0.5549,
+            "mata_kuliah": {
+              "nama": "Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-01-05",
+        "plo_text": "Kemampuan debugging dan optimasi kode.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-06",
+            "clo_text": "Membangun Logika Berpikir dan Pemecahan Masalah\nMahasiswa mampu menyusun dan menstrukturkan logika berpikir secara sistematis untuk memahami konsep berpikir logis dan komputasi sebagai modal dasar dalam memecahkan masalah, baik dengan menggunakan komputer maupun tidak.\n\nMengembangkan Algoritma dan Alternatif Solusi\nMahasiswa mampu menganalisis permasalahan dan merancang solusi sistematis dengan menurunkan algoritma menggunakan pendekatan yang taat aturan, serta menghasilkan alternatif solusi dari suatu permasalahan yang diberikan.\n\nMenguasai Konsep Dasar Pemrograman\nMahasiswa mampu memahami dan menerapkan konsep dasar pemrograman, meliputi tipe data, variabel, struktur proses, prosedur, fungsi, array, file, serta pemrograman modular.\n\nMengaplikasikan Siklus Pengembangan Program\nMahasiswa mampu merancang, menguji (testing), menelusuri (debugging), dan mendokumentasikan program komputer secara efektif menggunakan gaya pemrograman yang baik.\n\nMengintegrasikan Konsep Abstraksi Proses dan Data\nMahasiswa mampu memahami keterkaitan antara abstraksi proses dan data dalam pemrograman, serta menyusun hirarki program yang terstruktur.\n\nMelatih Penguasaan Teknik Pemrograman\nMahasiswa mampu mempraktikkan penulisan kode (coding) algoritma secara langsung di kelas maupun laboratorium, serta menyelesaikan studi kasus pemrograman menggunakan metode yang terukur dan terstruktur.\n\nMeningkatkan Keterampilan Kolaboratif dan Mandiri\nMahasiswa mampu berpartisipasi aktif dalam diskusi, menyimak dan merekonstruksi alternatif solusi, melakukan studi referensi, serta menyelesaikan tugas terstruktur baik secara individu maupun kelompok.",
+            "score": 0.4637,
+            "mata_kuliah": {
+              "nama": "Dasar-dasar Pemrograman"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-18",
+            "clo_text": "Memahami Konsep Dasar Pemrograman Berorientasi Objek\nMahasiswa mampu menjelaskan konsep fundamental pemrograman berorientasi objek, termasuk object dan class, generalisasi dan spesialisasi, enkapsulasi, pewarisan (inheritance), polimorfisme, kelas abstrak, dan interface.\n\nMengaplikasikan Pemrograman Berorientasi Objek\nMahasiswa mampu mengimplementasikan konsep pemrograman berorientasi objek dalam kasus-kasus pemrograman, meliputi penggunaan file stream, GUI programming, dan multithreading.\n\nMengembangkan Solusi dengan Pendekatan Berorientasi Objek\nMahasiswa mampu menganalisis permasalahan, merancang solusi, dan mengembangkan program berbasis objek yang terstruktur dan terukur sesuai dengan kebutuhan studi kasus.\n\nMeningkatkan Keterampilan Pengembangan Program Modular\nMahasiswa mampu menggunakan prinsip-prinsip modularitas dalam pengembangan program berbasis objek untuk menciptakan solusi perangkat lunak yang efektif dan efisien.\n\nMempraktikkan Teknik Pemrograman Berorientasi Objek\nMahasiswa mampu mempraktikkan pembuatan kode (coding), pengujian (testing), debugging, dan dokumentasi program berbasis objek dalam berbagai skenario.\n\nMenerapkan Model Pembelajaran Mandiri dan Kolaboratif\nMahasiswa mampu menyelesaikan tugas individu dan kelompok, baik melalui pembelajaran langsung di kelas maupun pembelajaran berbasis e-learning, dengan metode Student-Centered Learning (SCL) yang mendukung pencapaian capaian pembelajaran.\n\nMengintegrasikan Teknologi dalam Pengembangan Program\nMahasiswa mampu memanfaatkan teknologi terkini untuk mengembangkan program berbasis objek yang mendukung kebutuhan pembelajaran dan dunia industri.",
+            "score": 0.4386,
+            "mata_kuliah": {
+              "nama": "Pemrograman Berorientasi Objek"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.4159,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-01-06",
+        "plo_text": "Pengembangan lintas platform untuk mobile (Flutter, React Native)",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-30",
+            "clo_text": "Mata kuliah \"Proyek 4: Pengembangan Perangkat Lunak Berbasis Mobile\" dirancang untuk memberikan mahasiswa pemahaman dan pengalaman praktis dalam mengembangkan aplikasi mobile menggunakan Flutter. Melalui pendekatan _Problem-Based Learning_ dan _Project-Based Learning_ yang terintegrasi dengan metodologi Agile (Scrum), mahasiswa akan mempelajari siklus pengembangan aplikasi mobile secara lengkap, mulai dari analisis kebutuhan dan desain antarmuka hingga implementasi, pengujian, dan deployment.\n\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\n* Memahami  karakteristik  dan  teknologi  pemrograman  perangkat  bergerak  terkini.\n* Memahami  dan  menerapkan  komponen-komponen  dasar  dalam  pengembangan  aplikasi  Android  dengan  Flutter.\n* Menerapkan  berbagai  fitur  dan  fungsionalitas  pada  aplikasi  mobile.\n* Menerapkan  metodologi  Agile  (Scrum)  dalam  pengembangan  perangkat  lunak.\n* Bekerja  sama  dalam  tim  untuk  mengembangkan  aplikasi  mobile  yang  berkualitas.\n* Memiliki  pemahaman  praktis  dan  keterampilan  untuk  menghadapi  situasi  pengembangan  aplikasi  mobile  yang  lebih  kompleks  di  masa  depan.\n\nDengan  menekankan  pada  pemahaman  konsep,  penerapan  praktis,  dan  kerja  sama  tim,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  kompetensi  yang  dibutuhkan  untuk  menjadi  pengembang  aplikasi  mobile  yang  profesional.",
+            "score": 0.492,
+            "mata_kuliah": {
+              "nama": "Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-15",
+            "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+            "score": 0.3793,
+            "mata_kuliah": {
+              "nama": "Komunikasi Data dan Jaringan"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-14",
+            "clo_text": "Fundamental kebutuhan berkomunikasi manusia sebagai anggota suatu lingkungan. Pembahasan dimulai dari bahasa sebagai simbol pertama yang digunakan manusia secara formal. Peran bahasa dalam berpikir, mentransformasi dan mengungkapkan informasi. Implementasi komunikasi dalam human interface sebagai bagian pengembangan perangkat lunak.",
+            "score": 0.3388,
+            "mata_kuliah": {
+              "nama": "Dasar Komunikasi"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-01-07",
+        "plo_text": "Mampu mengomunikasikan hasil pekerjaan",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5024,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-40",
+            "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+            "score": 0.4884,
+            "mata_kuliah": {
+              "nama": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-41",
+            "clo_text": "Mata kuliah Proyek 6 (Tugas Akhir) ini dirancang sebagai wadah bagi mahasiswa D3 untuk merealisasikan proyek Tugas Akhir mereka secara mandiri melalui pendekatan student-centered learning dan project based learning.  Selama perkuliahan, mahasiswa akan  melalui tahapan penyelesaian Tugas Akhir secara bertahap, mulai dari penyusunan proposal,  konsultasi dengan dosen pembimbing, pelaksanaan seminar, hingga  penyusunan laporan akhir dan  presentasi di sidang.\n\nMelalui mata kuliah ini, mahasiswa diharapkan mampu:\n\n- Memahami aturan administratif dan alur pelaksanaan Tugas Akhir.\n- Menyusun proposal Tugas Akhir yang komprehensif dan terstruktur.\n- Mengembangkan aplikasi yang layak dan memenuhi kriteria sesuai topik yang dipilih.\n- Mempresentasikan progress, prototype, dan artifak perangkat lunak dalam seminar dan sidang dengan baik dan benar.\n- Menyusun laporan Tugas Akhir yang memenuhi standar akademik.\n- Melengkapi syarat-syarat administratif yang diperlukan untuk sidang yudisium.\n\nSelain itu,  mahasiswa akan dibekali dengan  pengetahuan dan  keterampilan  tambahan  melalui  sesi  kuliah  dari  dosen  dan  pakar  industri  mengenai  topik-topik  relevan  seperti:\n\n- Soft skill (kepemimpinan, manajemen konflik, manajemen kelompok, seni presentasi).\n- Penulisan laporan Tugas Akhir.\n- Penggunaan aplikasi manajemen referensi.\n- Target-target artifak yang sesuai dengan metode rekayasa perangkat lunak.",
+            "score": 0.4865,
+            "mata_kuliah": {
+              "nama": "Proyek 6 : Tugas Akhir"
+            }
+          }
+        ]
+      }
+    ],
+    "mata_kuliah": [
+      "Basis Data",
+      "Dasar Komunikasi",
+      "Dasar-dasar Pemrograman",
+      "Kerja Praktik",
+      "Komunikasi Data dan Jaringan",
+      "Pemrograman Berorientasi Objek",
+      "Pengantar Rekayasa Perangkat Lunak",
+      "Pengantar Sistem Informasi",
+      "Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile",
+      "Proyek 6 : Tugas Akhir",
+      "Struktur Data & Algoritma",
+      "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+    ],
+    "meta": {
+      "clo_method_used": "sbert_only",
+      "execution_time_ms": {
+        "occupation_match": 72.64,
+        "skill_lookup": 47.72,
+        "plo_lookup": 0.04,
+        "comparison": 6596.93,
+        "clo_mapping": 25159.37,
+        "cso_topic_matching": 23665.89
+      }
+    },
+    "errors": []
+  },
+  "cso_topics": [
+    {
+      "clo_id": "CLO-JTK-06",
+      "mata_kuliah": "Dasar-dasar Pemrograman",
+      "clo_text": "Membangun Logika Berpikir dan Pemecahan Masalah\nMahasiswa mampu menyusun dan menstrukturkan logika berpikir secara sistematis untuk memahami konsep berpikir logis dan komputasi sebagai modal dasar dalam memecahkan masalah, baik dengan menggunakan komputer maupun tidak.\n\nMengembangkan Algoritma dan Alternatif Solusi\nMahasiswa mampu menganalisis permasalahan dan merancang solusi sistematis dengan menurunkan algoritma menggunakan pendekatan yang taat aturan, serta menghasilkan alternatif solusi dari suatu permasalahan yang diberikan.\n\nMenguasai Konsep Dasar Pemrograman\nMahasiswa mampu memahami dan menerapkan konsep dasar pemrograman, meliputi tipe data, variabel, struktur proses, prosedur, fungsi, array, file, serta pemrograman modular.\n\nMengaplikasikan Siklus Pengembangan Program\nMahasiswa mampu merancang, menguji (testing), menelusuri (debugging), dan mendokumentasikan program komputer secara efektif menggunakan gaya pemrograman yang baik.\n\nMengintegrasikan Konsep Abstraksi Proses dan Data\nMahasiswa mampu memahami keterkaitan antara abstraksi proses dan data dalam pemrograman, serta menyusun hirarki program yang terstruktur.\n\nMelatih Penguasaan Teknik Pemrograman\nMahasiswa mampu mempraktikkan penulisan kode (coding) algoritma secara langsung di kelas maupun laboratorium, serta menyelesaikan studi kasus pemrograman menggunakan metode yang terukur dan terstruktur.\n\nMeningkatkan Keterampilan Kolaboratif dan Mandiri\nMahasiswa mampu berpartisipasi aktif dalam diskusi, menyimak dan merekonstruksi alternatif solusi, melakukan studi referensi, serta menyelesaikan tugas terstruktur baik secara individu maupun kelompok.",
+      "extracted_keywords": [
+        "logika berpikir",
+        "pemecahan masalah",
+        "algoritma",
+        "pemrograman dasar",
+        "tipe data",
+        "pemrograman modular",
+        "testing",
+        "debugging",
+        "abstraksi data"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "logika berpikir",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.9023799896240234
+        },
+        {
+          "keyword": "pemecahan masalah",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/constraint_solvers",
+          "topic_name": "constraint solvers",
+          "score": 0.7356334924697876
+        },
+        {
+          "keyword": "algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9556723833084106
+        },
+        {
+          "keyword": "pemrograman dasar",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_programming",
+          "topic_name": "computer programming",
+          "score": 0.7485030889511108
+        },
+        {
+          "keyword": "tipe data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_association",
+          "topic_name": "data associations",
+          "score": 0.7510637640953064
+        },
+        {
+          "keyword": "pemrograman modular",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hybrid_algorithms",
+          "topic_name": "hybrid algorithms",
+          "score": 0.7229934930801392
+        },
+        {
+          "keyword": "testing",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/testability",
+          "topic_name": "testability",
+          "score": 0.8802241086959839
+        },
+        {
+          "keyword": "debugging",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/debugging_process",
+          "topic_name": "debugging process",
+          "score": 0.9098109602928162
+        },
+        {
+          "keyword": "abstraksi data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_abstraction",
+          "topic_name": "data abstraction",
+          "score": 0.8709656000137329
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-11",
+      "mata_kuliah": "Struktur Data & Algoritma",
+      "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+      "extracted_keywords": [
+        "struktur data",
+        "algoritma",
+        "alokasi memori",
+        "representasi data",
+        "abstract data type",
+        "user defined data type",
+        "struktur linier",
+        "struktur hirarki",
+        "organisasi file",
+        "konsep database"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        },
+        {
+          "keyword": "algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9556723833084106
+        },
+        {
+          "keyword": "alokasi memori",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/memory_locations",
+          "topic_name": "memory locations",
+          "score": 0.8692822456359863
+        },
+        {
+          "keyword": "representasi data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_handling",
+          "topic_name": "data handling",
+          "score": 0.8125549554824829
+        },
+        {
+          "keyword": "abstract data type",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_abstraction",
+          "topic_name": "data abstraction",
+          "score": 0.7791250944137573
+        },
+        {
+          "keyword": "struktur linier",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/coaxial_line",
+          "topic_name": "coaxial line",
+          "score": 0.7158430814743042
+        },
+        {
+          "keyword": "struktur hirarki",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hierarchical_structures",
+          "topic_name": "hierarchical structures",
+          "score": 0.8273687362670898
+        },
+        {
+          "keyword": "organisasi file",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_organization",
+          "topic_name": "software organization",
+          "score": 0.7394837141036987
+        },
+        {
+          "keyword": "konsep database",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/database_systems",
+          "topic_name": "database systems",
+          "score": 0.8902688026428223
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-14",
+      "mata_kuliah": "Dasar Komunikasi",
+      "clo_text": "Fundamental kebutuhan berkomunikasi manusia sebagai anggota suatu lingkungan. Pembahasan dimulai dari bahasa sebagai simbol pertama yang digunakan manusia secara formal. Peran bahasa dalam berpikir, mentransformasi dan mengungkapkan informasi. Implementasi komunikasi dalam human interface sebagai bagian pengembangan perangkat lunak.",
+      "extracted_keywords": [
+        "komunikasi manusia",
+        "bahasa formal",
+        "human interface",
+        "pengembangan perangkat lunak",
+        "transformasi informasi",
+        "antarmuka manusia"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komunikasi manusia",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/communication",
+          "topic_name": "communication",
+          "score": 0.8743813037872314
+        },
+        {
+          "keyword": "bahasa formal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/formal_languages",
+          "topic_name": "formal languages",
+          "score": 0.9134725332260132
+        },
+        {
+          "keyword": "human interface",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/human_system_interface",
+          "topic_name": "human system interface",
+          "score": 0.8902695178985596
+        },
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "transformasi informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_dissemination",
+          "topic_name": "information dissemination",
+          "score": 0.7996327877044678
+        },
+        {
+          "keyword": "antarmuka manusia",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/human_computer_interfaces",
+          "topic_name": "human-computer interfaces",
+          "score": 0.8152058124542236
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-15",
+      "mata_kuliah": "Komunikasi Data dan Jaringan",
+      "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+      "extracted_keywords": [
+        "komunikasi data",
+        "jaringan komputer",
+        "model berlapis",
+        "TCP/IP",
+        "skalabilitas jaringan",
+        "mobilitas jaringan",
+        "pengaturan sumber daya",
+        "keamanan jaringan",
+        "sistem operasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komunikasi data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_communication_systems",
+          "topic_name": "data communication systems",
+          "score": 0.9224190711975098
+        },
+        {
+          "keyword": "jaringan komputer",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_networks",
+          "topic_name": "computer networks",
+          "score": 0.9607381224632263
+        },
+        {
+          "keyword": "model berlapis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/multi-dimensional_model",
+          "topic_name": "multi-dimensional model",
+          "score": 0.8441634178161621
+        },
+        {
+          "keyword": "TCP/IP",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/tcp_connections",
+          "topic_name": "tcp connections",
+          "score": 0.8331847190856934
+        },
+        {
+          "keyword": "skalabilitas jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/ubiquitous_networks",
+          "topic_name": "ubiquitous networks",
+          "score": 0.875543475151062
+        },
+        {
+          "keyword": "mobilitas jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_mobility",
+          "topic_name": "network mobility",
+          "score": 0.9734132289886475
+        },
+        {
+          "keyword": "pengaturan sumber daya",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/resource_provisioning",
+          "topic_name": "resource provisioning",
+          "score": 0.8675409555435181
+        },
+        {
+          "keyword": "keamanan jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_security",
+          "topic_name": "network security",
+          "score": 0.9726908206939697
+        },
+        {
+          "keyword": "sistem operasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/operating_systems",
+          "topic_name": "operating systems",
+          "score": 0.9253627061843872
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-18",
+      "mata_kuliah": "Pemrograman Berorientasi Objek",
+      "clo_text": "Memahami Konsep Dasar Pemrograman Berorientasi Objek\nMahasiswa mampu menjelaskan konsep fundamental pemrograman berorientasi objek, termasuk object dan class, generalisasi dan spesialisasi, enkapsulasi, pewarisan (inheritance), polimorfisme, kelas abstrak, dan interface.\n\nMengaplikasikan Pemrograman Berorientasi Objek\nMahasiswa mampu mengimplementasikan konsep pemrograman berorientasi objek dalam kasus-kasus pemrograman, meliputi penggunaan file stream, GUI programming, dan multithreading.\n\nMengembangkan Solusi dengan Pendekatan Berorientasi Objek\nMahasiswa mampu menganalisis permasalahan, merancang solusi, dan mengembangkan program berbasis objek yang terstruktur dan terukur sesuai dengan kebutuhan studi kasus.\n\nMeningkatkan Keterampilan Pengembangan Program Modular\nMahasiswa mampu menggunakan prinsip-prinsip modularitas dalam pengembangan program berbasis objek untuk menciptakan solusi perangkat lunak yang efektif dan efisien.\n\nMempraktikkan Teknik Pemrograman Berorientasi Objek\nMahasiswa mampu mempraktikkan pembuatan kode (coding), pengujian (testing), debugging, dan dokumentasi program berbasis objek dalam berbagai skenario.\n\nMenerapkan Model Pembelajaran Mandiri dan Kolaboratif\nMahasiswa mampu menyelesaikan tugas individu dan kelompok, baik melalui pembelajaran langsung di kelas maupun pembelajaran berbasis e-learning, dengan metode Student-Centered Learning (SCL) yang mendukung pencapaian capaian pembelajaran.\n\nMengintegrasikan Teknologi dalam Pengembangan Program\nMahasiswa mampu memanfaatkan teknologi terkini untuk mengembangkan program berbasis objek yang mendukung kebutuhan pembelajaran dan dunia industri.",
+      "extracted_keywords": [
+        "pemrograman berorientasi objek",
+        "enkapsulasi",
+        "inheritance",
+        "polimorfisme",
+        "interface",
+        "file stream",
+        "GUI programming",
+        "multithreading",
+        "modularitas",
+        "debugging"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pemrograman berorientasi objek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/object_oriented_programming",
+          "topic_name": "object-oriented programming",
+          "score": 0.8333227038383484
+        },
+        {
+          "keyword": "enkapsulasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/envisat",
+          "topic_name": "envisat",
+          "score": 0.8917149305343628
+        },
+        {
+          "keyword": "inheritance",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/genetic_structure",
+          "topic_name": "genetic structure",
+          "score": 0.6331213712692261
+        },
+        {
+          "keyword": "polimorfisme",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/dna_polymorphism",
+          "topic_name": "dna polymorphism",
+          "score": 0.9502779245376587
+        },
+        {
+          "keyword": "interface",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_interfaces",
+          "topic_name": "computer interfaces",
+          "score": 0.8972344398498535
+        },
+        {
+          "keyword": "file stream",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/stream_data",
+          "topic_name": "stream data",
+          "score": 0.7854803800582886
+        },
+        {
+          "keyword": "GUI programming",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/graphical_user_interfaces",
+          "topic_name": "graphical user interfaces (gui)",
+          "score": 0.7057719230651855
+        },
+        {
+          "keyword": "multithreading",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/multi-threading",
+          "topic_name": "multithreading",
+          "score": 1
+        },
+        {
+          "keyword": "modularitas",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/modular_exponentiation",
+          "topic_name": "modular exponentiation",
+          "score": 0.7176982760429382
+        },
+        {
+          "keyword": "debugging",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/debugging_process",
+          "topic_name": "debugging process",
+          "score": 0.9098109602928162
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-19",
+      "mata_kuliah": "Basis Data",
+      "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+      "extracted_keywords": [
+        "pemodelan data",
+        "relational data",
+        "model konseptual",
+        "model logikal",
+        "model fisik",
+        "alat pemodelan",
+        "analisis kebutuhan",
+        "perancangan terstruktur"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pemodelan data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.8722710013389587
+        },
+        {
+          "keyword": "relational data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/relational_data_models",
+          "topic_name": "relational data models",
+          "score": 0.8837749361991882
+        },
+        {
+          "keyword": "model konseptual",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/formal_modeling",
+          "topic_name": "formal modelling",
+          "score": 0.8343625068664551
+        },
+        {
+          "keyword": "model logikal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.8260248899459839
+        },
+        {
+          "keyword": "model fisik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/motion_models",
+          "topic_name": "motion models",
+          "score": 0.7455786466598511
+        },
+        {
+          "keyword": "alat pemodelan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/globus_toolkit",
+          "topic_name": "globus toolkit",
+          "score": 0.7783831357955933
+        },
+        {
+          "keyword": "analisis kebutuhan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/requirements_models",
+          "topic_name": "requirements models",
+          "score": 0.8087109327316284
+        },
+        {
+          "keyword": "perancangan terstruktur",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/engineering_structures",
+          "topic_name": "engineering structures",
+          "score": 0.8582732677459717
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-20",
+      "mata_kuliah": "Pengantar Rekayasa Perangkat Lunak",
+      "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+      "extracted_keywords": [
+        "analisis perangkat lunak",
+        "perancangan perangkat lunak",
+        "implementasi perangkat lunak",
+        "pengujian perangkat lunak",
+        "pemeliharaan perangkat lunak",
+        "kualitas perangkat lunak",
+        "CASE tools",
+        "dokumentasi teknis"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "analisis perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8345566987991333
+        },
+        {
+          "keyword": "implementasi perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.8520048260688782
+        },
+        {
+          "keyword": "pengujian perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_model_checking",
+          "topic_name": "software model checking",
+          "score": 0.7770556211471558
+        },
+        {
+          "keyword": "kualitas perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_quality",
+          "topic_name": "software quality",
+          "score": 0.9616149663925171
+        },
+        {
+          "keyword": "CASE tools",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/case_representation",
+          "topic_name": "case representation",
+          "score": 0.7704617381095886
+        },
+        {
+          "keyword": "dokumentasi teknis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/technical_analysis",
+          "topic_name": "technical analysis",
+          "score": 0.7946694493293762
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-24",
+      "mata_kuliah": "Pengantar Sistem Informasi",
+      "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+      "extracted_keywords": [
+        "sistem informasi",
+        "analisa sistem informasi",
+        "perancangan sistem informasi",
+        "struktur data",
+        "algoritma",
+        "basis data",
+        "rekayasa perangkat lunak",
+        "pemrograman berorientasi objek"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "sistem informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_systems",
+          "topic_name": "information systems",
+          "score": 0.9731357097625732
+        },
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        },
+        {
+          "keyword": "algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9556723833084106
+        },
+        {
+          "keyword": "basis data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.664888858795166
+        },
+        {
+          "keyword": "rekayasa perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8910106420516968
+        },
+        {
+          "keyword": "pemrograman berorientasi objek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/object_oriented_programming",
+          "topic_name": "object-oriented programming",
+          "score": 0.8333227038383484
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-30",
+      "mata_kuliah": "Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile",
+      "clo_text": "Mata kuliah \"Proyek 4: Pengembangan Perangkat Lunak Berbasis Mobile\" dirancang untuk memberikan mahasiswa pemahaman dan pengalaman praktis dalam mengembangkan aplikasi mobile menggunakan Flutter. Melalui pendekatan _Problem-Based Learning_ dan _Project-Based Learning_ yang terintegrasi dengan metodologi Agile (Scrum), mahasiswa akan mempelajari siklus pengembangan aplikasi mobile secara lengkap, mulai dari analisis kebutuhan dan desain antarmuka hingga implementasi, pengujian, dan deployment.\n\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\n* Memahami  karakteristik  dan  teknologi  pemrograman  perangkat  bergerak  terkini.\n* Memahami  dan  menerapkan  komponen-komponen  dasar  dalam  pengembangan  aplikasi  Android  dengan  Flutter.\n* Menerapkan  berbagai  fitur  dan  fungsionalitas  pada  aplikasi  mobile.\n* Menerapkan  metodologi  Agile  (Scrum)  dalam  pengembangan  perangkat  lunak.\n* Bekerja  sama  dalam  tim  untuk  mengembangkan  aplikasi  mobile  yang  berkualitas.\n* Memiliki  pemahaman  praktis  dan  keterampilan  untuk  menghadapi  situasi  pengembangan  aplikasi  mobile  yang  lebih  kompleks  di  masa  depan.\n\nDengan  menekankan  pada  pemahaman  konsep,  penerapan  praktis,  dan  kerja  sama  tim,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  kompetensi  yang  dibutuhkan  untuk  menjadi  pengembang  aplikasi  mobile  yang  profesional.",
+      "extracted_keywords": [
+        "Flutter",
+        "pengembangan aplikasi mobile",
+        "Agile Scrum",
+        "desain antarmuka",
+        "pengujian aplikasi",
+        "deployment mobile",
+        "fitur mobile",
+        "kerja tim"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "Flutter",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/fahp",
+          "topic_name": "fahp",
+          "score": 0.7370914816856384
+        },
+        {
+          "keyword": "pengembangan aplikasi mobile",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mobile_application_development",
+          "topic_name": "mobile application development",
+          "score": 0.9666829109191895
+        },
+        {
+          "keyword": "Agile Scrum",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/agile_practices",
+          "topic_name": "agile practices",
+          "score": 0.783201277256012
+        },
+        {
+          "keyword": "desain antarmuka",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/user_interface_designs",
+          "topic_name": "user interface designs",
+          "score": 0.777241587638855
+        },
+        {
+          "keyword": "pengujian aplikasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/user_testing",
+          "topic_name": "user testing",
+          "score": 0.7854775786399841
+        },
+        {
+          "keyword": "deployment mobile",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mobile_platform",
+          "topic_name": "mobile platform",
+          "score": 0.7476876378059387
+        },
+        {
+          "keyword": "fitur mobile",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mobile_applications",
+          "topic_name": "mobile applications",
+          "score": 0.926971971988678
+        },
+        {
+          "keyword": "kerja tim",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/collective_operations",
+          "topic_name": "collective operations",
+          "score": 0.6593602299690247
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-33",
+      "mata_kuliah": "Kerja Praktik",
+      "clo_text": "1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.\n2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.\n3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek.",
+      "extracted_keywords": [
+        "pengembangan perangkat lunak",
+        "standar industri",
+        "kerja tim",
+        "metodologi pengembangan",
+        "manajemen proyek",
+        "spesifikasi perangkat lunak",
+        "penjadwalan proyek"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "standar industri",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/industrial_management",
+          "topic_name": "industrial management",
+          "score": 0.7287673950195312
+        },
+        {
+          "keyword": "kerja tim",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/collective_operations",
+          "topic_name": "collective operations",
+          "score": 0.6593602299690247
+        },
+        {
+          "keyword": "metodologi pengembangan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/development_strategies",
+          "topic_name": "development strategies",
+          "score": 0.8675032258033752
+        },
+        {
+          "keyword": "manajemen proyek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/projector",
+          "topic_name": "projector",
+          "score": 0.8005362749099731
+        },
+        {
+          "keyword": "spesifikasi perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.8262909650802612
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-40",
+      "mata_kuliah": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi",
+      "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+      "extracted_keywords": [
+        "penulisan karya ilmiah",
+        "metodologi penelitian",
+        "penyusunan proposal TA",
+        "struktur proposal",
+        "aturan institusi",
+        "penulisan teknis",
+        "pengembangan perangkat lunak",
+        "dokumentasi aplikasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "penulisan karya ilmiah",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/human_sciences",
+          "topic_name": "human sciences",
+          "score": 0.7348586320877075
+        },
+        {
+          "keyword": "metodologi penelitian",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/research_support",
+          "topic_name": "research support",
+          "score": 0.826972246170044
+        },
+        {
+          "keyword": "penyusunan proposal TA",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/proposal_distribution",
+          "topic_name": "proposal distribution",
+          "score": 0.7210754156112671
+        },
+        {
+          "keyword": "struktur proposal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/proposed_architectures",
+          "topic_name": "proposed architectures",
+          "score": 0.7950432300567627
+        },
+        {
+          "keyword": "aturan institusi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/rule_basis",
+          "topic_name": "rule basis",
+          "score": 0.6803001165390015
+        },
+        {
+          "keyword": "penulisan teknis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/technical_analysis",
+          "topic_name": "technical analysis",
+          "score": 0.7063615322113037
+        },
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "dokumentasi aplikasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/program_documentation",
+          "topic_name": "program documentation",
+          "score": 0.8182790279388428
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-41",
+      "mata_kuliah": "Proyek 6 : Tugas Akhir",
+      "clo_text": "Mata kuliah Proyek 6 (Tugas Akhir) ini dirancang sebagai wadah bagi mahasiswa D3 untuk merealisasikan proyek Tugas Akhir mereka secara mandiri melalui pendekatan student-centered learning dan project based learning.  Selama perkuliahan, mahasiswa akan  melalui tahapan penyelesaian Tugas Akhir secara bertahap, mulai dari penyusunan proposal,  konsultasi dengan dosen pembimbing, pelaksanaan seminar, hingga  penyusunan laporan akhir dan  presentasi di sidang.\n\nMelalui mata kuliah ini, mahasiswa diharapkan mampu:\n\n- Memahami aturan administratif dan alur pelaksanaan Tugas Akhir.\n- Menyusun proposal Tugas Akhir yang komprehensif dan terstruktur.\n- Mengembangkan aplikasi yang layak dan memenuhi kriteria sesuai topik yang dipilih.\n- Mempresentasikan progress, prototype, dan artifak perangkat lunak dalam seminar dan sidang dengan baik dan benar.\n- Menyusun laporan Tugas Akhir yang memenuhi standar akademik.\n- Melengkapi syarat-syarat administratif yang diperlukan untuk sidang yudisium.\n\nSelain itu,  mahasiswa akan dibekali dengan  pengetahuan dan  keterampilan  tambahan  melalui  sesi  kuliah  dari  dosen  dan  pakar  industri  mengenai  topik-topik  relevan  seperti:\n\n- Soft skill (kepemimpinan, manajemen konflik, manajemen kelompok, seni presentasi).\n- Penulisan laporan Tugas Akhir.\n- Penggunaan aplikasi manajemen referensi.\n- Target-target artifak yang sesuai dengan metode rekayasa perangkat lunak.",
+      "extracted_keywords": [
+        "penyusunan proposal",
+        "pengembangan aplikasi",
+        "presentasi prototype",
+        "penulisan laporan",
+        "manajemen referensi",
+        "rekayasa perangkat lunak"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "penyusunan proposal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/proposal_distribution",
+          "topic_name": "proposal distribution",
+          "score": 0.7706411480903625
+        },
+        {
+          "keyword": "pengembangan aplikasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/application_engineering",
+          "topic_name": "application engineering",
+          "score": 0.8421236276626587
+        },
+        {
+          "keyword": "presentasi prototype",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/prototyping",
+          "topic_name": "prototyping",
+          "score": 0.886314332485199
+        },
+        {
+          "keyword": "penulisan laporan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/dsp",
+          "topic_name": "dsp",
+          "score": 0.6332463622093201
+        },
+        {
+          "keyword": "manajemen referensi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/reference_software",
+          "topic_name": "reference software",
+          "score": 0.7849518060684204
+        },
+        {
+          "keyword": "rekayasa perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8910106420516968
+        }
+      ]
+    }
+  ],
+  "cso_errors": []
+}

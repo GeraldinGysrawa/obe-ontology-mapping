@@ -1,0 +1,1343 @@
+{
+  "integration": {
+    "peo": "Associate Cloud Engineer",
+    "occupation": {
+      "uri": "http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e",
+      "label": "cloud engineer",
+      "score": 0.9325999617576599
+    },
+    "esco_skills": [
+      {
+        "uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+        "label": "systems development life-cycle",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The sequence of steps, such as planning, creating, testing and deploying and the models for the development and life-cycle management of a system."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+        "label": "cloud security and compliance",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "Cloud security and compliance concepts, including shared responsibility model, cloud access management capabilities, and resources for security support."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+        "label": "computer programming",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms (e.g. object oriented programming, functional programming) and of programming languages."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+        "label": "ICT system integration",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The principles of integrating ICT components and products from a number of sources to create an operational ICT system, techniques which ensure interoperability and interfaces between components and the system."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+        "label": "cyber security",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The methods and best practices that protect ICT systems, networks, computers, devices, services, processes and people against unauthorised access, modification and/or denial of service of assets."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+        "label": "service-oriented modelling",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The principles and fundamentals of service-oriented modelling for business and software systems that allow the design and specification of service-oriented business systems within a variety of architectural styles, such as enterprise architecture and application architecture."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8efa6a7a-6556-4cb8-908d-59d3b5c58d2f",
+        "label": "cloud monitoring and reporting",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The metrics and alarms utilizing cloud monitoring services, in particular performance and availability metrics."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+        "label": "database development tools",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The methodologies and tools used for creating logical and physical structure of databases, such as logical data structures, diagrams, modelling methodologies and entity-relationships."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+        "label": "ICT system programming",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The methods and tools required to develop system software, specifications of system architectures and interfacing techniques between network and system modules and components."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+        "label": "cloud technologies",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+        "label": "systems theory",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The principles that can be applied to all types of systems at all hierarchical levels, which describe the system's internal organisation, its mechanisms of maintaining identity and stability and achieving adaptation and self-regulation and its dependencies and interaction with the environment."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+        "label": "web services",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "XML-based information systems that allows for direct interactions between applications through Internet. It is a set of protocols for transferring data between applications and systems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+        "label": "operating systems",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The features, restrictions, architectures and other characteristics of operating systems such Linux, Windows, MacOS, etc."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0a52bed5-fd29-45fb-aba6-e32bccfda1c1",
+        "label": "plan migration to cloud",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Select existing workloads and processes for potential migration to the cloud and choose migration tools. Determine a new cloud architecture for an existing solution, plan a strategy for migrating existing workloads to the cloud."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+        "label": "design cloud architecture",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Design a multi-tier cloud architecture solution, which tolerates faults and is fit for the workload and other business needs. Identify elastic and scalable computing solutions, select high-performing and scalable storage solutions, and choose high-performing database solutions. Identify cost-effective storage, computing, and database services in the cloud."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+        "label": "debug software",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Repair computer code by analysing testing results, locating the defects causing the software to output an incorrect or unexpected result and remove these faults."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+        "label": "align software with system architectures",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Put system design and technical specifications in line with software architecture in order to ensure the integration and interoperability between components of the system."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/38716afc-a93b-44ab-96cc-2ecf67edcf32",
+        "label": "do cloud refactoring",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Optimise application to best use cloud services and features, migrate existing application code to run on cloud infrastructure."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/440d5784-52a5-4729-8b04-29f978bd896d",
+        "label": "respond to incidents in cloud",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Troubleshoot issues with the cloud and determine how to restore operations. Design and automate disaster recovery strategies and evaluate a deployment for points of failure."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+        "label": "design cloud networks",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Apply cloud networking concepts and implement connectivity services of cloud. Given customer requirements, define network architectures on cloud, propose optimized designs based on the evaluation of an existing implementation. Evaluate and optimize cost allocations given a network design, its cloud resources, and application data flow."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+        "label": "deploy cloud resource",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Identify and execute steps required to provision cloud resources, such as networks, servers, storage, applications, GPUs, and services. Define the cloud global infrastructure and remediate deployment issues."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+        "label": "develop with cloud services",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Write code that interacts with cloud services by using APIs, SDKs, and cloud CLI. Write code for serverless applications, translate functional requirements into application design, implement application design into application code."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+        "label": "develop software prototype",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Create a first incomplete or preliminary version of a piece of software application to simulate some specific aspects of the final product."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+        "label": "design database in the cloud",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Apply design principles for an adaptive, elastic, automated, loosely coupled databases making use of cloud infrastructure. Aim to remove any single point of failure through distributed database design."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+        "label": "interpret technical texts",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Read and understand technical texts that provide information on how to perform a task, usually explained in steps."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+        "label": "solve ICT system problems",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Identify potential component malfunctions. Monitor, document and communicate about incidents. Deploy appropriate resources with minimal outage and deploy appropriate diagnostic tools."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+        "label": "analyse business requirements",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Study clients' needs and expectations for a product or service in order to identify and resolve inconsistencies and possible disagreements of involved stakeholders."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+        "label": "implement cloud security and compliance",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Implement and manage security policies and access controls on cloud. Differentiate between the roles and responsibilities within the shared responsibility model."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ce8ae6ca-61d8-4174-b457-641de96cbff4",
+        "label": "automate cloud tasks",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Automate manual or repeatable processes to minimize management overhead. Evaluate cloud automation alternatives for network deployments and tool-based alternatives for network operations and management."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
+        "label": "manage cloud data and storage",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Create and manage cloud data retention. Identify and implement data protection, encryption, and capacity planning needs."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/dfff95c6-9758-4c04-a228-7eaa88dec6cd",
+        "label": "design for organisational complexity",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Determine cross-account authentication and access strategy for complex organizations (for example, an organization with varying compliance requirements, multiple business units, and varying scalability requirements). Design networks and multi-account cloud environments for complex organizations."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+        "label": "manage keys for data protection",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Select appropriate authentication and authorization mechanisms. Design, implement and troubleshoot key management and use. Design and implement a data encryption solution for data at rest and data in transit."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+        "label": "analyse software specifications",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Assess the specifications of a software product or system to be developed by identifying functional and non-functional requirements, constraints and possible sets of use cases which illustrate interactions between the software and its users."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+        "label": "Ruby (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Ruby."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+        "label": "Java (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Java."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+        "label": "ICT security standards",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Best practices and guidelines established for securing information and communication technology (ICT) systems and data. Standards as is the case of ISO 27000 series, provide a framework for implementing effective security controls, including access control, risk assessment and incident management, as well as to provide compliance of anorganisation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+        "label": "data engineering",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The process of developing and constructing systems for implementing data collection and analysis at large scale."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+        "label": "security engineering",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Interdisciplinary field of study that focuses on the realisation of secure systems and the technology to protect individuals or information from malice, errors, or unauthorized access. It involves defining security protection requirements, processes, and methods to ensure the resilience of systems and data."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+        "label": "Python (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+        "label": "ethics",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The philosophical study that deals with solving questions of human morality; it defines and systemises concepts such as right, wrong, and crime."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+        "label": "design interaction model",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Design and develop an interaction model. Design a multi-turn conversation, use built-in intents and slots, handle unexpected conversational requests or responses, design multi-modal skills using one or more service interfaces (for example, audio, video, and gadgets)."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+        "label": "perform data analysis",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Collect data and statistics to test and evaluate in order to generate assertions and pattern predictions, with the aim of discovering useful information in a decision-making process."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+        "label": "use query languages",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Retrieve information from a database or information system using computer languages designed for the retrieval of data."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/96550830-539b-4746-96aa-92aa4959945d",
+        "label": "apply risk management processes",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Identify risks and apply a risk management process, e.g. hazard analysis and critical control points (HACCP)."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+        "label": "apply ICT systems theory",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Implement principles of ICT systems theory in order to explain and document system characteristics that can be applied universally to other systems."
+      }
+    ],
+    "plo_jtk": [
+      {
+        "plo_id": "PLO-05-01",
+        "plo_text": "Memahami platform cloud (misalnya, AWS, GCP, Azure).",
+        "peo_id": "PEO-05"
+      },
+      {
+        "plo_id": "PLO-05-02",
+        "plo_text": "Mengenal teknologi virtualisasi.",
+        "peo_id": "PEO-05"
+      },
+      {
+        "plo_id": "PLO-05-03",
+        "plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "peo_id": "PEO-05"
+      },
+      {
+        "plo_id": "PLO-05-04",
+        "plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "peo_id": "PEO-05"
+      },
+      {
+        "plo_id": "PLO-05-05",
+        "plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "peo_id": "PEO-05"
+      }
+    ],
+    "covered": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/1c2978b8-bb0d-4249-9c23-877571a4dffa",
+        "esco_skill_label": "cloud security and compliance",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.7015
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c",
+        "esco_skill_label": "ICT system integration",
+        "matched_plo_id": "PLO-05-04",
+        "matched_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "similarity_score": 0.402
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44",
+        "esco_skill_label": "cyber security",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.5694
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8efa6a7a-6556-4cb8-908d-59d3b5c58d2f",
+        "esco_skill_label": "cloud monitoring and reporting",
+        "matched_plo_id": "PLO-05-01",
+        "matched_plo_text": "Memahami platform cloud (misalnya, AWS, GCP, Azure).",
+        "similarity_score": 0.6397
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b105ec9b-0857-41d6-8d07-a83e58b73d90",
+        "esco_skill_label": "ICT system programming",
+        "matched_plo_id": "PLO-05-04",
+        "matched_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "similarity_score": 0.4095
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+        "esco_skill_label": "cloud technologies",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.6757
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c",
+        "esco_skill_label": "web services",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.4399
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0a52bed5-fd29-45fb-aba6-e32bccfda1c1",
+        "esco_skill_label": "plan migration to cloud",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.5356
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6",
+        "esco_skill_label": "design cloud architecture",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.6841
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/38716afc-a93b-44ab-96cc-2ecf67edcf32",
+        "esco_skill_label": "do cloud refactoring",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.7517
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/440d5784-52a5-4729-8b04-29f978bd896d",
+        "esco_skill_label": "respond to incidents in cloud",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.4863
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+        "esco_skill_label": "design cloud networks",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.6357
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6195c5f7-a4fb-425d-a3dd-c4467c4471a3",
+        "esco_skill_label": "deploy cloud resource",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.7204
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+        "esco_skill_label": "develop with cloud services",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.7026
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+        "esco_skill_label": "design database in the cloud",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.5977
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e",
+        "esco_skill_label": "implement cloud security and compliance",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.6496
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ce8ae6ca-61d8-4174-b457-641de96cbff4",
+        "esco_skill_label": "automate cloud tasks",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.6124
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
+        "esco_skill_label": "manage cloud data and storage",
+        "matched_plo_id": "PLO-05-05",
+        "matched_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "similarity_score": 0.6518
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305",
+        "esco_skill_label": "manage keys for data protection",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.4613
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f",
+        "esco_skill_label": "ICT security standards",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.4566
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab",
+        "esco_skill_label": "security engineering",
+        "matched_plo_id": "PLO-05-03",
+        "matched_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "similarity_score": 0.4225
+      }
+    ],
+    "gap": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575",
+        "esco_skill_label": "systems development life-cycle",
+        "best_plo_id": "PLO-05-04",
+        "best_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "best_similarity_score": 0.2792
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+        "esco_skill_label": "computer programming",
+        "best_plo_id": "PLO-05-02",
+        "best_plo_text": "Mengenal teknologi virtualisasi.",
+        "best_similarity_score": 0.3337
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/83218cac-3599-417e-93d2-26013cdccd98",
+        "esco_skill_label": "service-oriented modelling",
+        "best_plo_id": "PLO-05-05",
+        "best_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "best_similarity_score": 0.3792
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+        "esco_skill_label": "database development tools",
+        "best_plo_id": "PLO-05-05",
+        "best_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "best_similarity_score": 0.3566
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/cdd8b6b2-2fd9-453c-8d62-8a1dc6efcd49",
+        "esco_skill_label": "systems theory",
+        "best_plo_id": "PLO-05-03",
+        "best_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "best_similarity_score": 0.3344
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f9a6f35b-01a7-40c9-8b61-b6ee46f97272",
+        "esco_skill_label": "operating systems",
+        "best_plo_id": "PLO-05-03",
+        "best_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "best_similarity_score": 0.337
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+        "esco_skill_label": "debug software",
+        "best_plo_id": "PLO-05-01",
+        "best_plo_text": "Memahami platform cloud (misalnya, AWS, GCP, Azure).",
+        "best_similarity_score": 0.185
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966",
+        "esco_skill_label": "align software with system architectures",
+        "best_plo_id": "PLO-05-05",
+        "best_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "best_similarity_score": 0.3815
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+        "esco_skill_label": "develop software prototype",
+        "best_plo_id": "PLO-05-02",
+        "best_plo_text": "Mengenal teknologi virtualisasi.",
+        "best_similarity_score": 0.29
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+        "esco_skill_label": "interpret technical texts",
+        "best_plo_id": "PLO-05-04",
+        "best_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "best_similarity_score": 0.3326
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c",
+        "esco_skill_label": "solve ICT system problems",
+        "best_plo_id": "PLO-05-01",
+        "best_plo_text": "Memahami platform cloud (misalnya, AWS, GCP, Azure).",
+        "best_similarity_score": 0.3312
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+        "esco_skill_label": "analyse business requirements",
+        "best_plo_id": "PLO-05-04",
+        "best_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "best_similarity_score": 0.1635
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/dfff95c6-9758-4c04-a228-7eaa88dec6cd",
+        "esco_skill_label": "design for organisational complexity",
+        "best_plo_id": "PLO-05-03",
+        "best_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "best_similarity_score": 0.2645
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+        "esco_skill_label": "analyse software specifications",
+        "best_plo_id": "PLO-05-04",
+        "best_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "best_similarity_score": 0.3236
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+        "esco_skill_label": "Ruby (computer programming)",
+        "best_plo_id": "PLO-05-05",
+        "best_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "best_similarity_score": 0.2694
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+        "esco_skill_label": "Java (computer programming)",
+        "best_plo_id": "PLO-05-05",
+        "best_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "best_similarity_score": 0.2914
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+        "esco_skill_label": "data engineering",
+        "best_plo_id": "PLO-05-05",
+        "best_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "best_similarity_score": 0.3208
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+        "esco_skill_label": "Python (computer programming)",
+        "best_plo_id": "PLO-05-04",
+        "best_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "best_similarity_score": 0.2866
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/cef5c0f8-1e40-4c09-b6a7-aa7811849e5d",
+        "esco_skill_label": "ethics",
+        "best_plo_id": "PLO-05-03",
+        "best_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "best_similarity_score": 0.1497
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/12274664-b642-4945-b88f-d7787dc3c9dd",
+        "esco_skill_label": "design interaction model",
+        "best_plo_id": "PLO-05-05",
+        "best_plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "best_similarity_score": 0.2712
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f",
+        "esco_skill_label": "perform data analysis",
+        "best_plo_id": "PLO-05-04",
+        "best_plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "best_similarity_score": 0.2092
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d",
+        "esco_skill_label": "use query languages",
+        "best_plo_id": "PLO-05-01",
+        "best_plo_text": "Memahami platform cloud (misalnya, AWS, GCP, Azure).",
+        "best_similarity_score": 0.3432
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/96550830-539b-4746-96aa-92aa4959945d",
+        "esco_skill_label": "apply risk management processes",
+        "best_plo_id": "PLO-05-03",
+        "best_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "best_similarity_score": 0.2372
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6",
+        "esco_skill_label": "apply ICT systems theory",
+        "best_plo_id": "PLO-05-03",
+        "best_plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "best_similarity_score": 0.3121
+      }
+    ],
+    "overskill": [],
+    "clo": [
+      {
+        "plo_id": "PLO-05-01",
+        "plo_text": "Memahami platform cloud (misalnya, AWS, GCP, Azure).",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-39",
+            "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+            "score": 0.6319,
+            "mata_kuliah": {
+              "nama": "Pengembangan Perangkat Lunak Berbasis Cloud"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-07",
+            "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+            "score": 0.4129,
+            "mata_kuliah": {
+              "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.4106,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-05-02",
+        "plo_text": "Mengenal teknologi virtualisasi.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-07",
+            "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+            "score": 0.5581,
+            "mata_kuliah": {
+              "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-26",
+            "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+            "score": 0.523,
+            "mata_kuliah": {
+              "nama": "Pengolahan Citra Digital"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-22",
+            "clo_text": "Mata kuliah Komputer Grafik dirancang untuk memberikan mahasiswa pemahaman konseptual yang kuat tentang prinsip-prinsip grafika komputer dan kemampuan praktis dalam merancang dan merealisasikan karya multimedia 2D dan 3D. Melalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari konsep dasar grafika komputer dan menerapkannya dalam berbagai konteks.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi:\n\n- Komputer Grafik 2D:\n  * Grafik primitif 2D (titik, garis, lingkaran, elips, dan bentuk dasar).\n  * Algoritma pembentukan garis dan lingkaran.\n  * Transformasi geometri 2D (operasi matriks, translasi, scaling, rotasi, dan transformasi komposit).\n  *  Membangun pola 2D.\n- Komputer Grafik 3D:\n  * Grafik primitif 3D.\n  * Transformasi geometri 3D.\n  * Konsep tekstur, shader, proyeksi kamera, dan rendering 3D.\n\nAspek Praktikum:\n\n- Mahasiswa akan mempraktikkan konsep-konsep tersebut dengan software seperti Processing/Godot dan Blender, melalui:\n  * Pengenalan komputer grafik 2D dan 3D.\n  * Transformasi geometri 2D dan 3D.\n  * Komponen multimedia 2D dan 3D (modeling, rendering, proyeksi kamera, dan animasi).\n  * Pembuatan karya 2D dan 3D yang kreatif dan inovatif.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan,  meliputi  tugas,  kuis,  ETS,  dan  EAS.  Nilai akhir mata kuliah praktikum akan digabungkan dengan nilai akhir mata kuliah teori untuk memberikan penilaian komprehensif.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan fondasi yang kuat dalam grafika komputer,  mempersiapkan  mereka  untuk  studi  lanjut  dan  karir  di  bidang  multimedia  dan  desain  grafis.",
+            "score": 0.5036,
+            "mata_kuliah": {
+              "nama": "Komputer Grafik"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-05-03",
+        "plo_text": "Memahami konsep jaringan dan keamanan cloud.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-39",
+            "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+            "score": 0.6709,
+            "mata_kuliah": {
+              "nama": "Pengembangan Perangkat Lunak Berbasis Cloud"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-15",
+            "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+            "score": 0.4953,
+            "mata_kuliah": {
+              "nama": "Komunikasi Data dan Jaringan"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-07",
+            "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+            "score": 0.4869,
+            "mata_kuliah": {
+              "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-05-04",
+        "plo_text": "Mengenal mekanisme pipeline deployment (CI/CD).",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-26",
+            "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+            "score": 0.3585,
+            "mata_kuliah": {
+              "nama": "Pengolahan Citra Digital"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-15",
+            "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+            "score": 0.3438,
+            "mata_kuliah": {
+              "nama": "Komunikasi Data dan Jaringan"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.3191,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-05-05",
+        "plo_text": "Mampu deploy dan integrasi aplikasi berbasis cloud",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-39",
+            "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+            "score": 0.6247,
+            "mata_kuliah": {
+              "nama": "Pengembangan Perangkat Lunak Berbasis Cloud"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-30",
+            "clo_text": "Mata kuliah \"Proyek 4: Pengembangan Perangkat Lunak Berbasis Mobile\" dirancang untuk memberikan mahasiswa pemahaman dan pengalaman praktis dalam mengembangkan aplikasi mobile menggunakan Flutter. Melalui pendekatan _Problem-Based Learning_ dan _Project-Based Learning_ yang terintegrasi dengan metodologi Agile (Scrum), mahasiswa akan mempelajari siklus pengembangan aplikasi mobile secara lengkap, mulai dari analisis kebutuhan dan desain antarmuka hingga implementasi, pengujian, dan deployment.\n\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\n* Memahami  karakteristik  dan  teknologi  pemrograman  perangkat  bergerak  terkini.\n* Memahami  dan  menerapkan  komponen-komponen  dasar  dalam  pengembangan  aplikasi  Android  dengan  Flutter.\n* Menerapkan  berbagai  fitur  dan  fungsionalitas  pada  aplikasi  mobile.\n* Menerapkan  metodologi  Agile  (Scrum)  dalam  pengembangan  perangkat  lunak.\n* Bekerja  sama  dalam  tim  untuk  mengembangkan  aplikasi  mobile  yang  berkualitas.\n* Memiliki  pemahaman  praktis  dan  keterampilan  untuk  menghadapi  situasi  pengembangan  aplikasi  mobile  yang  lebih  kompleks  di  masa  depan.\n\nDengan  menekankan  pada  pemahaman  konsep,  penerapan  praktis,  dan  kerja  sama  tim,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  kompetensi  yang  dibutuhkan  untuk  menjadi  pengembang  aplikasi  mobile  yang  profesional.",
+            "score": 0.4663,
+            "mata_kuliah": {
+              "nama": "Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.4414,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          }
+        ]
+      }
+    ],
+    "mata_kuliah": [
+      "Basis Data",
+      "Komputer Grafik",
+      "Komunikasi Data dan Jaringan",
+      "Pengantar Teknologi Informasi dan Komunikasi",
+      "Pengembangan Perangkat Lunak Berbasis Cloud",
+      "Pengolahan Citra Digital",
+      "Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile"
+    ],
+    "meta": {
+      "clo_method_used": "sbert_only",
+      "execution_time_ms": {
+        "occupation_match": 111.64,
+        "skill_lookup": 38.06,
+        "plo_lookup": 0.04,
+        "comparison": 2807.93,
+        "clo_mapping": 13342.93,
+        "cso_topic_matching": 15043.13
+      }
+    },
+    "errors": []
+  },
+  "cso_topics": [
+    {
+      "clo_id": "CLO-JTK-07",
+      "mata_kuliah": "Pengantar Teknologi Informasi dan Komunikasi",
+      "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+      "extracted_keywords": [
+        "Teknologi Informasi",
+        "sistem komputer",
+        "perangkat keras",
+        "perangkat lunak",
+        "pemikiran komputasi",
+        "literasi digital",
+        "konsep internet",
+        "pembuatan situs web",
+        "pemrograman game",
+        "algoritma dasar"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "Teknologi Informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_technology",
+          "topic_name": "information technology",
+          "score": 0.9757652878761292
+        },
+        {
+          "keyword": "sistem komputer",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_systems",
+          "topic_name": "computer systems",
+          "score": 0.9655143022537231
+        },
+        {
+          "keyword": "perangkat keras",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_hardware",
+          "topic_name": "hardware",
+          "score": 0.8771588802337646
+        },
+        {
+          "keyword": "perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.9492092132568359
+        },
+        {
+          "keyword": "pemikiran komputasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/theoretical_computer_science",
+          "topic_name": "theoretical computer science",
+          "score": 0.7686829566955566
+        },
+        {
+          "keyword": "literasi digital",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/digital_libraries",
+          "topic_name": "digital library",
+          "score": 0.7373101711273193
+        },
+        {
+          "keyword": "konsep internet",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/internet",
+          "topic_name": "internet",
+          "score": 0.8796204924583435
+        },
+        {
+          "keyword": "pembuatan situs web",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/web-gis",
+          "topic_name": "web-gis",
+          "score": 0.8580009937286377
+        },
+        {
+          "keyword": "pemrograman game",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/game_development",
+          "topic_name": "game development",
+          "score": 0.8251699209213257
+        },
+        {
+          "keyword": "algoritma dasar",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9216570854187012
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-15",
+      "mata_kuliah": "Komunikasi Data dan Jaringan",
+      "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+      "extracted_keywords": [
+        "komunikasi data",
+        "jaringan komputer",
+        "model berlapis",
+        "TCP/IP",
+        "skalabilitas jaringan",
+        "mobilitas jaringan",
+        "pengaturan sumber daya",
+        "keamanan jaringan",
+        "sistem operasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komunikasi data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_communication_systems",
+          "topic_name": "data communication systems",
+          "score": 0.9224190711975098
+        },
+        {
+          "keyword": "jaringan komputer",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_networks",
+          "topic_name": "computer networks",
+          "score": 0.9607381224632263
+        },
+        {
+          "keyword": "model berlapis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/multi-dimensional_model",
+          "topic_name": "multi-dimensional model",
+          "score": 0.8441634178161621
+        },
+        {
+          "keyword": "TCP/IP",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/tcp_connections",
+          "topic_name": "tcp connections",
+          "score": 0.8331847190856934
+        },
+        {
+          "keyword": "skalabilitas jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/ubiquitous_networks",
+          "topic_name": "ubiquitous networks",
+          "score": 0.875543475151062
+        },
+        {
+          "keyword": "mobilitas jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_mobility",
+          "topic_name": "network mobility",
+          "score": 0.9734132289886475
+        },
+        {
+          "keyword": "pengaturan sumber daya",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/resource_provisioning",
+          "topic_name": "resource provisioning",
+          "score": 0.8675409555435181
+        },
+        {
+          "keyword": "keamanan jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_security",
+          "topic_name": "network security",
+          "score": 0.9726908206939697
+        },
+        {
+          "keyword": "sistem operasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/operating_systems",
+          "topic_name": "operating systems",
+          "score": 0.9253627061843872
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-19",
+      "mata_kuliah": "Basis Data",
+      "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+      "extracted_keywords": [
+        "pemodelan data",
+        "data relasional",
+        "perancangan konseptual",
+        "perancangan logikal",
+        "perancangan fisik",
+        "dokumentasi model data",
+        "analisa kebutuhan",
+        "alat pemodelan",
+        "struktur data"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pemodelan data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.8722710013389587
+        },
+        {
+          "keyword": "data relasional",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/linked_data",
+          "topic_name": "linked data",
+          "score": 0.7451295852661133
+        },
+        {
+          "keyword": "perancangan konseptual",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/conceptual_design",
+          "topic_name": "conceptual design",
+          "score": 0.8746833205223083
+        },
+        {
+          "keyword": "perancangan logikal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.9051374197006226
+        },
+        {
+          "keyword": "perancangan fisik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mechanical_design",
+          "topic_name": "mechanical design",
+          "score": 0.8346822261810303
+        },
+        {
+          "keyword": "dokumentasi model data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/relational_data_models",
+          "topic_name": "relational data models",
+          "score": 0.8217926025390625
+        },
+        {
+          "keyword": "analisa kebutuhan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/requirements_management",
+          "topic_name": "requirements management",
+          "score": 0.7871366739273071
+        },
+        {
+          "keyword": "alat pemodelan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/globus_toolkit",
+          "topic_name": "globus toolkit",
+          "score": 0.7783831357955933
+        },
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-22",
+      "mata_kuliah": "Komputer Grafik",
+      "clo_text": "Mata kuliah Komputer Grafik dirancang untuk memberikan mahasiswa pemahaman konseptual yang kuat tentang prinsip-prinsip grafika komputer dan kemampuan praktis dalam merancang dan merealisasikan karya multimedia 2D dan 3D. Melalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari konsep dasar grafika komputer dan menerapkannya dalam berbagai konteks.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi:\n\n- Komputer Grafik 2D:\n  * Grafik primitif 2D (titik, garis, lingkaran, elips, dan bentuk dasar).\n  * Algoritma pembentukan garis dan lingkaran.\n  * Transformasi geometri 2D (operasi matriks, translasi, scaling, rotasi, dan transformasi komposit).\n  *  Membangun pola 2D.\n- Komputer Grafik 3D:\n  * Grafik primitif 3D.\n  * Transformasi geometri 3D.\n  * Konsep tekstur, shader, proyeksi kamera, dan rendering 3D.\n\nAspek Praktikum:\n\n- Mahasiswa akan mempraktikkan konsep-konsep tersebut dengan software seperti Processing/Godot dan Blender, melalui:\n  * Pengenalan komputer grafik 2D dan 3D.\n  * Transformasi geometri 2D dan 3D.\n  * Komponen multimedia 2D dan 3D (modeling, rendering, proyeksi kamera, dan animasi).\n  * Pembuatan karya 2D dan 3D yang kreatif dan inovatif.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan,  meliputi  tugas,  kuis,  ETS,  dan  EAS.  Nilai akhir mata kuliah praktikum akan digabungkan dengan nilai akhir mata kuliah teori untuk memberikan penilaian komprehensif.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan fondasi yang kuat dalam grafika komputer,  mempersiapkan  mereka  untuk  studi  lanjut  dan  karir  di  bidang  multimedia  dan  desain  grafis.",
+      "extracted_keywords": [
+        "grafik 2D",
+        "grafik 3D",
+        "transformasi geometri",
+        "tekstur",
+        "shader",
+        "rendering 3D",
+        "modeling 3D",
+        "animasi",
+        "Processing",
+        "Blender"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "grafik 2D",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/3d_graphics",
+          "topic_name": "3d graphics",
+          "score": 0.8722280263900757
+        },
+        {
+          "keyword": "transformasi geometri",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/geometric_transformations",
+          "topic_name": "geometric transformations",
+          "score": 0.9236658811569214
+        },
+        {
+          "keyword": "tekstur",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/texture_descriptors",
+          "topic_name": "texture descriptors",
+          "score": 0.8257741332054138
+        },
+        {
+          "keyword": "shader",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/coloring",
+          "topic_name": "coloring",
+          "score": 0.6492752432823181
+        },
+        {
+          "keyword": "modeling 3D",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/3d_modelling",
+          "topic_name": "3d models",
+          "score": 0.9561077356338501
+        },
+        {
+          "keyword": "animasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/interactive_rendering",
+          "topic_name": "interactive rendering",
+          "score": 0.7145428657531738
+        },
+        {
+          "keyword": "Processing",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/processing_elements",
+          "topic_name": "processing elements",
+          "score": 0.8155485987663269
+        },
+        {
+          "keyword": "Blender",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/pumping_%28laser%29",
+          "topic_name": "pumping (laser)",
+          "score": 0.5664385557174683
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-26",
+      "mata_kuliah": "Pengolahan Citra Digital",
+      "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+      "extracted_keywords": [
+        "image processing",
+        "Fourier transform",
+        "convolution filter",
+        "image segmentation",
+        "morphological operations",
+        "histogram manipulation",
+        "noise reduction",
+        "image compression",
+        "Python image manipulation"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "image processing",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_processing",
+          "topic_name": "image processing",
+          "score": 0.9999999403953552
+        },
+        {
+          "keyword": "Fourier transform",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/discrete_hartley_transform",
+          "topic_name": "discrete hartley transform",
+          "score": 0.7304210662841797
+        },
+        {
+          "keyword": "convolution filter",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/kalman_filters",
+          "topic_name": "kalman filters",
+          "score": 0.7344549894332886
+        },
+        {
+          "keyword": "image segmentation",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_segmentation",
+          "topic_name": "image segmentation",
+          "score": 1
+        },
+        {
+          "keyword": "morphological operations",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/morphological_operations",
+          "topic_name": "morphological operations",
+          "score": 1
+        },
+        {
+          "keyword": "histogram manipulation",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/histogram_modification",
+          "topic_name": "histogram modification",
+          "score": 0.8088555335998535
+        },
+        {
+          "keyword": "noise reduction",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/noise_reduction",
+          "topic_name": "noise reductions",
+          "score": 0.9949488639831543
+        },
+        {
+          "keyword": "image compression",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_compression",
+          "topic_name": "image compression",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-30",
+      "mata_kuliah": "Proyek 4 : Pengembangan Perangkat Lunak Berbasis Mobile",
+      "clo_text": "Mata kuliah \"Proyek 4: Pengembangan Perangkat Lunak Berbasis Mobile\" dirancang untuk memberikan mahasiswa pemahaman dan pengalaman praktis dalam mengembangkan aplikasi mobile menggunakan Flutter. Melalui pendekatan _Problem-Based Learning_ dan _Project-Based Learning_ yang terintegrasi dengan metodologi Agile (Scrum), mahasiswa akan mempelajari siklus pengembangan aplikasi mobile secara lengkap, mulai dari analisis kebutuhan dan desain antarmuka hingga implementasi, pengujian, dan deployment.\n\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\n* Memahami  karakteristik  dan  teknologi  pemrograman  perangkat  bergerak  terkini.\n* Memahami  dan  menerapkan  komponen-komponen  dasar  dalam  pengembangan  aplikasi  Android  dengan  Flutter.\n* Menerapkan  berbagai  fitur  dan  fungsionalitas  pada  aplikasi  mobile.\n* Menerapkan  metodologi  Agile  (Scrum)  dalam  pengembangan  perangkat  lunak.\n* Bekerja  sama  dalam  tim  untuk  mengembangkan  aplikasi  mobile  yang  berkualitas.\n* Memiliki  pemahaman  praktis  dan  keterampilan  untuk  menghadapi  situasi  pengembangan  aplikasi  mobile  yang  lebih  kompleks  di  masa  depan.\n\nDengan  menekankan  pada  pemahaman  konsep,  penerapan  praktis,  dan  kerja  sama  tim,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  kompetensi  yang  dibutuhkan  untuk  menjadi  pengembang  aplikasi  mobile  yang  profesional.",
+      "extracted_keywords": [
+        "Flutter",
+        "pengembangan aplikasi mobile",
+        "Agile Scrum",
+        "analisis kebutuhan",
+        "desain antarmuka",
+        "pengujian aplikasi",
+        "deployment mobile",
+        "kerja tim"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "Flutter",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/fahp",
+          "topic_name": "fahp",
+          "score": 0.7370914816856384
+        },
+        {
+          "keyword": "pengembangan aplikasi mobile",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mobile_application_development",
+          "topic_name": "mobile application development",
+          "score": 0.9666829109191895
+        },
+        {
+          "keyword": "Agile Scrum",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/agile_practices",
+          "topic_name": "agile practices",
+          "score": 0.783201277256012
+        },
+        {
+          "keyword": "analisis kebutuhan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/requirements_models",
+          "topic_name": "requirements models",
+          "score": 0.8087109327316284
+        },
+        {
+          "keyword": "desain antarmuka",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/user_interface_designs",
+          "topic_name": "user interface designs",
+          "score": 0.777241587638855
+        },
+        {
+          "keyword": "pengujian aplikasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/user_testing",
+          "topic_name": "user testing",
+          "score": 0.7854775786399841
+        },
+        {
+          "keyword": "deployment mobile",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mobile_platform",
+          "topic_name": "mobile platform",
+          "score": 0.7476876378059387
+        },
+        {
+          "keyword": "kerja tim",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/collective_operations",
+          "topic_name": "collective operations",
+          "score": 0.6593602299690247
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-39",
+      "mata_kuliah": "Pengembangan Perangkat Lunak Berbasis Cloud",
+      "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+      "extracted_keywords": [
+        "komputasi awan",
+        "virtualisasi sumber daya",
+        "arsitektur cloud",
+        "konkurensi paralel",
+        "sistem terdistribusi",
+        "jaringan interkoneksi",
+        "penyimpanan data",
+        "keamanan cloud",
+        "pengembangan web"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komputasi awan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud_environments",
+          "topic_name": "cloud environments",
+          "score": 0.8310428857803345
+        },
+        {
+          "keyword": "virtualisasi sumber daya",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/virtualized_resources",
+          "topic_name": "virtualized resources",
+          "score": 0.945542573928833
+        },
+        {
+          "keyword": "arsitektur cloud",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud-based_architecture",
+          "topic_name": "cloud-based architecture",
+          "score": 0.8103649616241455
+        },
+        {
+          "keyword": "konkurensi paralel",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/competitive_analysis",
+          "topic_name": "competitive analysis",
+          "score": 0.769230306148529
+        },
+        {
+          "keyword": "sistem terdistribusi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/distribution_systems",
+          "topic_name": "distribution systems",
+          "score": 0.9385573863983154
+        },
+        {
+          "keyword": "jaringan interkoneksi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/integrated_networks",
+          "topic_name": "integrated networks",
+          "score": 0.9012354612350464
+        },
+        {
+          "keyword": "penyimpanan data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/storage_resources",
+          "topic_name": "storage resources",
+          "score": 0.8766261339187622
+        },
+        {
+          "keyword": "keamanan cloud",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud_security",
+          "topic_name": "cloud security",
+          "score": 0.9483548402786255
+        },
+        {
+          "keyword": "pengembangan web",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/web_development",
+          "topic_name": "web development",
+          "score": 0.9522545337677002
+        }
+      ]
+    }
+  ],
+  "cso_errors": []
+}

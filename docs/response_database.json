@@ -1,0 +1,1659 @@
+{
+  "integration": {
+    "peo": "Database Administrator",
+    "occupation": {
+      "uri": "http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc",
+      "label": "database administrator",
+      "score": 1
+    },
+    "esco_skills": [
+      {
+        "uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+        "label": "information structure",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The type of infrastructure which defines the format of data: semi-structured, unstructured and structured."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/071233c4-ad2b-4f50-b79f-768d2231163e",
+        "label": "domain name service",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "Naming database which maps internet domain names to Internet Protocol (IP) addresses. The Domain Name System allows internet users to utilise names such as website titles instead of remembering numeric IP addresses used by computers to locate a concrete website."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3",
+        "label": "system backup best practice",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The procedures related to preparing for recovery or continuation of technology infrastructure vital to an organisation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+        "label": "distributed computing",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The software process in which computer components interact over a network and send messages to communicate on their actions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+        "label": "resource description framework query language",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The query languages such as SPARQL which are used to retrieve and manipulate data stored in Resource Description Framework format (RDF)."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+        "label": "query languages",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The field of standardised computer languages for retrieval of information from a database and of documents containing the needed information."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+        "label": "database development tools",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The methodologies and tools used for creating logical and physical structure of databases, such as logical data structures, diagrams, modelling methodologies and entity-relationships."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/a7f0fbe0-c546-4f30-8e41-34a58c64567e",
+        "label": "data storage",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The physical and technical concepts of how digital data storage is organised in specific schemes both locally, such as hard-drives and random-access memories (RAM) and remotely, via network, internet or cloud."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+        "label": "database management systems",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The tools for creating, updating and managing databases, such as Oracle, MySQL and Microsoft SQL Server."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+        "label": "data quality assessment",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The process of revealing data issues using ​quality indicators, measures and metrics in order to plan data cleansing and data enrichment strategies according to data quality criteria."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+        "label": "data models",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The techniques and existing systems used for structuring data elements and showing relationships between them, as well as methods for interpreting the data structures and relationships."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+        "label": "define database physical structure",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Specify the physical configuration of database files on a given media. This consists of in-detail specifications of indexing options, data types and data elements placed in the data dictionary."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+        "label": "use an application-specific interface",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Understand and use interfaces particular to an application or use case."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+        "label": "administer ICT system",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Handle components of ICT system by maintaining configuration, managing users, monitoring resource use, performing backups and installing hardware or software to comply with the set requirements."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0a43729f-2a79-4dae-9faa-95520daae79f",
+        "label": "apply company policies",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Apply the principles and rules that govern the activities and processes of an organisation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+        "label": "manage database",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Apply database design schemes and models, define data dependencies, use query languages and database management systems (DBMS) to develop and manage databases."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+        "label": "use databases",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Use software tools for managing and organising data in a structured environment which consists of attributes, tables and relationships in order to query and modify the stored data."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+        "label": "use scripting programming",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Utilise specialised ICT tools to create computer code that is interpreted by the corresponding run-time environments in order to extend applications and automate common computer operations. Use programming languages which support this method such as Unix Shell scripts, JavaScript, Python and Ruby."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+        "label": "design database scheme",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Draft a database scheme by following the Relational Database Management System (RDBMS) rules in order to create a logically arranged group of objects such as tables, columns and processes."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+        "label": "operate relational database management system",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Extract, store and verify information using database management systems based on the relational database model, which arranges data into tables of rows and columns, such as Oracle Database, Microsoft SQL Server and MySQL."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+        "label": "perform ICT troubleshooting",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Identify problems with servers, desktops, printers, networks, and remote access, and perform actions which solve the problems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+        "label": "interpret technical texts",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Read and understand technical texts that provide information on how to perform a task, usually explained in steps."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+        "label": "balance database resources",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Stabilise the workload and resources of a database, by controlling the demand of transactions, allocating disk spaces and ensuring reliability of the servers in order to optimise cost and risk ratio."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+        "label": "design database backup specifications",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Specify procedures to be performed on databases which ensure the copying and archiving of data for possible restoration in case of a data loss event."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/cf3e976d-2c3e-495c-a874-f9e8a66d3b48",
+        "label": "perform backups",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Implement backup procedures to backup data and systems to ensure permanent and reliable system operation. Execute data backups in order to secure information by copying and archiving to ensure integrity during system integration and after data loss occurrence."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+        "label": "maintain database performance",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Calculate values for database parameters. Implement new releases and execute regular maintenance tasks such as establishing backup strategies and eliminating index fragmentation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+        "label": "maintain database security",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Master a wide variety of information security controls in order to pursue maximal database protection."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+        "label": "create data models",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Use specific techniques and methodologies to analyse the data requirements of an organisation's business processes in order to create models for these data, such as conceptual, logical and physical models. These models have a specific structure and format."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+        "label": "business intelligence",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The tools used to transform large amounts of raw data into relevant and helpful business information."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+        "label": "MDX",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language MDX is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3cee858e-79e8-4a4b-b99f-93c7f735d58b",
+        "label": "DB2",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program IBM DB2 is a tool for creating, updating and managing databases, developed by the software company IBM."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e",
+        "label": "Microsoft Access",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program Access is a tool for creating, updating and managing databases, developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+        "label": "XQuery",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language XQuery is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+        "label": "OpenEdge Database",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program OpenEdge Database is a tool for creating, updating and managing databases, developed by the software company Progress Software Corporation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+        "label": "data engineering",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The process of developing and constructing systems for implementing data collection and analysis at large scale."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4959697d-3a24-4f46-af0c-b752318e6c54",
+        "label": "ObjectStore",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program ObjectStore is a tool for creating, updating and managing databases, developed by the software company Object Design, Incorporated."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+        "label": "MySQL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program MySQL is a tool for creating, updating and managing databases, currently developed by the software company Oracle."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4e6d2538-a48e-48a7-8dad-14b067cfcb8b",
+        "label": "TripleStore",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The RDF store or TripleStore is a database used for storage and retrieval of Resource Description Framework triples (subject-predicate-object data entities) which can be accessed by semantic queries."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+        "label": "SPARQL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language SPARQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/84251cb1-babf-4d17-a3cd-baa642c24c8d",
+        "label": "IBM Informix",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program IBM Informix is a tool for creating, updating and managing databases, developed by the software company IBM."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+        "label": "LDAP",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language LDAP is a query language for retrieval of information from a database and of documents containing the needed information."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+        "label": "PostgreSQL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program PostgreSQL is a free and open-source software tool for creating, updating and managing databases, developed by the PostgreSQL Global Development Group."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+        "label": "online analytical processing",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The online tools which analyse, aggregate and present multi-dimensional data enabling users to interactively and selectively extract and view data from specific points of view."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+        "label": "Filemaker (database management systems)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program FileMaker is a tool for creating, updating and managing databases, developed by the software company FileMaker Inc."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+        "label": "SQL Server",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program SQL Server is a tool for creating, updating and managing databases, developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+        "label": "quality assurance methodologies",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Quality assurance principles, standard requirements, and the set of processes and activities used for measuring, controlling and ensuring the quality of products and processes."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+        "label": "LINQ",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language LINQ is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+        "label": "Teradata Database",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program Teradata Database is a tool for creating, updating and managing databases, developed by the software company Teradata Corporation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+        "label": "Oracle Relational Database",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program Oracle Rdb is a tool for creating, updating and managing databases, developed by the software company Oracle."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+        "label": "MarkLogic",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The NoSQL enterprise non-relational database used for creating, updating and managing large amounts of unstructured data stored in the cloud and which provides features such as semantics, flexible data models and Hadoop integration."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+        "label": "N1QL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language N1QL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Couchbase."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e",
+        "label": "implement ICT security policies",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Implement statements, assertions or rules that specify the appropriate use and protection of the ICT assets and systems from an organisation. These ICT security policies cover topics such as data classification, password management, access control and incident response."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+        "label": "use spreadsheets software",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Use software tools to create and edit tabular data to carry out mathematical calculations, organise data and information, create diagrams based on data and to retrieve them."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+        "label": "protect personal data and privacy",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Protect personal data and privacy in digital environments. Understand how to use and share personally identifiable information while being able to protect oneself and others from damages. Understand that digital services use a “Privacy policy” to inform how personal data is used."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+        "label": "use different communication channels",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Make use of various types of communication channels such as verbal, handwritten, digital and telephonic communication with the purpose of constructing and sharing ideas or information."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+        "label": "use automatic programming",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Utilise specialised software tools to generate computer code from specifications, such as diagrams, structured informations or other means of describing functionality."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+        "label": "execute ICT audits",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Organise and execute audits in order to evaluate ICT systems, compliance of components of systems, information processing systems and information security. Identify and collect potential critical issues and recommend solutions based on required standards and solutions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+        "label": "design database in the cloud",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Apply design principles for an adaptive, elastic, automated, loosely coupled databases making use of cloud infrastructure. Aim to remove any single point of failure through distributed database design."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+        "label": "use back-up and recovery tools",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Use tools which allow users to copy and archive computer software, configurations and data and recover them in case of loss."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8359bd04-d2cb-4757-af1f-39a921df9efe",
+        "label": "remove computer virus or malware from a computer",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Carry out actions to remove computer viruses or other types of malware from a computer."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/bb2b4485-2bad-402f-8517-44bf7d9afff4",
+        "label": "implement anti-virus software",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Download, install and update software to prevent, detect and remove malicious software, such as computer viruses."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c2296e2e-5fef-4f24-a24f-e5b3792268be",
+        "label": "provide ICT support",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Resolve ICT-related incidents and service requests from customers, clients or colleagues including password resets and updating databases such as Microsoft Exchange email."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
+        "label": "manage cloud data and storage",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Create and manage cloud data retention. Identify and implement data protection, encryption, and capacity planning needs."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+        "label": "provide technical training",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Explain and demonstrate the use of training equipment and system functions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/db36f7f1-5900-45bd-9ffb-f2b19c4362ac",
+        "label": "support ICT system users",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Communicate with end users, instruct them on how to progress with tasks, use ICT support tools and methods to solve problems and identify possible side effects and provide solutions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b",
+        "label": "estimate duration of work",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Produce accurate calculations on time necessary to fulfil future technical tasks based on past and present information and observations or plan the estimated duration of individual tasks in a given project."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+        "label": "implement a firewall",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Download, install and update a network security system designed to prevent unauthorized access to a private network."
+      }
+    ],
+    "plo_jtk": [
+      {
+        "plo_id": "PLO-02-01",
+        "plo_text": "Mampu desain dan normalisasi database.",
+        "peo_id": "PEO-02"
+      },
+      {
+        "plo_id": "PLO-02-02",
+        "plo_text": "Menguasai SQL (misalnya, PostgreSQL, MySQL).",
+        "peo_id": "PEO-02"
+      },
+      {
+        "plo_id": "PLO-02-03",
+        "plo_text": "Memahami keamanan dan solusi backup database.",
+        "peo_id": "PEO-02"
+      },
+      {
+        "plo_id": "PLO-02-04",
+        "plo_text": "Mampu melakukan tuning kinerja database.",
+        "peo_id": "PEO-02"
+      },
+      {
+        "plo_id": "PLO-02-05",
+        "plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "peo_id": "PEO-02"
+      },
+      {
+        "plo_id": "PLO-02-06",
+        "plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "peo_id": "PEO-02"
+      }
+    ],
+    "covered": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339",
+        "esco_skill_label": "information structure",
+        "matched_plo_id": "PLO-02-06",
+        "matched_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "similarity_score": 0.4544
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/071233c4-ad2b-4f50-b79f-768d2231163e",
+        "esco_skill_label": "domain name service",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.476
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3",
+        "esco_skill_label": "system backup best practice",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.7139
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+        "esco_skill_label": "resource description framework query language",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.4687
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+        "esco_skill_label": "query languages",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.4583
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe",
+        "esco_skill_label": "database development tools",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.6199
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/a7f0fbe0-c546-4f30-8e41-34a58c64567e",
+        "esco_skill_label": "data storage",
+        "matched_plo_id": "PLO-02-06",
+        "matched_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "similarity_score": 0.494
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f",
+        "esco_skill_label": "database management systems",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.6553
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700",
+        "esco_skill_label": "data quality assessment",
+        "matched_plo_id": "PLO-02-04",
+        "matched_plo_text": "Mampu melakukan tuning kinerja database.",
+        "similarity_score": 0.4886
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5",
+        "esco_skill_label": "data models",
+        "matched_plo_id": "PLO-02-06",
+        "matched_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "similarity_score": 0.5245
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/022dc430-872a-473a-9cf4-fed4895e58ad",
+        "esco_skill_label": "define database physical structure",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.5363
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f",
+        "esco_skill_label": "manage database",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.7202
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1",
+        "esco_skill_label": "use databases",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.7298
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511",
+        "esco_skill_label": "design database scheme",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.7224
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec",
+        "esco_skill_label": "operate relational database management system",
+        "matched_plo_id": "PLO-02-04",
+        "matched_plo_text": "Mampu melakukan tuning kinerja database.",
+        "similarity_score": 0.6816
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5",
+        "esco_skill_label": "perform ICT troubleshooting",
+        "matched_plo_id": "PLO-02-04",
+        "matched_plo_text": "Mampu melakukan tuning kinerja database.",
+        "similarity_score": 0.4728
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578",
+        "esco_skill_label": "balance database resources",
+        "matched_plo_id": "PLO-02-04",
+        "matched_plo_text": "Mampu melakukan tuning kinerja database.",
+        "similarity_score": 0.6156
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ab67fbfb-0ca7-4345-8bf6-af8f59480212",
+        "esco_skill_label": "design database backup specifications",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.7679
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/cf3e976d-2c3e-495c-a874-f9e8a66d3b48",
+        "esco_skill_label": "perform backups",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.7681
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d6cdef49-b669-4507-91d1-3f959cf98e47",
+        "esco_skill_label": "maintain database performance",
+        "matched_plo_id": "PLO-02-04",
+        "matched_plo_text": "Mampu melakukan tuning kinerja database.",
+        "similarity_score": 0.75
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ec85cc63-4e24-4631-bf92-8789db2605c0",
+        "esco_skill_label": "maintain database security",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.6509
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779",
+        "esco_skill_label": "create data models",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.4815
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+        "esco_skill_label": "MDX",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.4434
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3cee858e-79e8-4a4b-b99f-93c7f735d58b",
+        "esco_skill_label": "DB2",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.5016
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e",
+        "esco_skill_label": "Microsoft Access",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.448
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+        "esco_skill_label": "XQuery",
+        "matched_plo_id": "PLO-02-06",
+        "matched_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "similarity_score": 0.4131
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/43ec6db6-33f7-449b-a566-5779a7e8997a",
+        "esco_skill_label": "OpenEdge Database",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.5549
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639",
+        "esco_skill_label": "data engineering",
+        "matched_plo_id": "PLO-02-06",
+        "matched_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "similarity_score": 0.5506
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4959697d-3a24-4f46-af0c-b752318e6c54",
+        "esco_skill_label": "ObjectStore",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.4065
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4da171e5-779c-4983-a76f-91c16751e99f",
+        "esco_skill_label": "MySQL",
+        "matched_plo_id": "PLO-02-02",
+        "matched_plo_text": "Menguasai SQL (misalnya, PostgreSQL, MySQL).",
+        "similarity_score": 0.6661
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+        "esco_skill_label": "SPARQL",
+        "matched_plo_id": "PLO-02-02",
+        "matched_plo_text": "Menguasai SQL (misalnya, PostgreSQL, MySQL).",
+        "similarity_score": 0.4692
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996",
+        "esco_skill_label": "PostgreSQL",
+        "matched_plo_id": "PLO-02-02",
+        "matched_plo_text": "Menguasai SQL (misalnya, PostgreSQL, MySQL).",
+        "similarity_score": 0.5747
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a",
+        "esco_skill_label": "online analytical processing",
+        "matched_plo_id": "PLO-02-04",
+        "matched_plo_text": "Mampu melakukan tuning kinerja database.",
+        "similarity_score": 0.5381
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead",
+        "esco_skill_label": "SQL Server",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.6136
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d9eaf831-9348-4330-a83e-b7c099cdc8f6",
+        "esco_skill_label": "Teradata Database",
+        "matched_plo_id": "PLO-02-04",
+        "matched_plo_text": "Mampu melakukan tuning kinerja database.",
+        "similarity_score": 0.5063
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/de9f85ba-e77f-48fd-8c66-f5ebaf32d655",
+        "esco_skill_label": "Oracle Relational Database",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.6291
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e819cc1e-09d9-47f2-b418-93972852daef",
+        "esco_skill_label": "MarkLogic",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.6332
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+        "esco_skill_label": "N1QL",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.4912
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be",
+        "esco_skill_label": "use spreadsheets software",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.567
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+        "esco_skill_label": "use automatic programming",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.4745
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7e796b51-49d7-4e73-95af-2e7323763f15",
+        "esco_skill_label": "design database in the cloud",
+        "matched_plo_id": "PLO-02-01",
+        "matched_plo_text": "Mampu desain dan normalisasi database.",
+        "similarity_score": 0.6936
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+        "esco_skill_label": "use back-up and recovery tools",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.6315
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c2296e2e-5fef-4f24-a24f-e5b3792268be",
+        "esco_skill_label": "provide ICT support",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.4505
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963",
+        "esco_skill_label": "manage cloud data and storage",
+        "matched_plo_id": "PLO-02-05",
+        "matched_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "similarity_score": 0.5941
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+        "esco_skill_label": "implement a firewall",
+        "matched_plo_id": "PLO-02-03",
+        "matched_plo_text": "Memahami keamanan dan solusi backup database.",
+        "similarity_score": 0.4176
+      }
+    ],
+    "gap": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/897b393f-e7e0-4248-a40d-d77119694e83",
+        "esco_skill_label": "distributed computing",
+        "best_plo_id": "PLO-02-01",
+        "best_plo_text": "Mampu desain dan normalisasi database.",
+        "best_similarity_score": 0.3704
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+        "esco_skill_label": "use an application-specific interface",
+        "best_plo_id": "PLO-02-06",
+        "best_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "best_similarity_score": 0.3533
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3",
+        "esco_skill_label": "administer ICT system",
+        "best_plo_id": "PLO-02-06",
+        "best_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "best_similarity_score": 0.3708
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0a43729f-2a79-4dae-9faa-95520daae79f",
+        "esco_skill_label": "apply company policies",
+        "best_plo_id": "PLO-02-06",
+        "best_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "best_similarity_score": 0.2677
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+        "esco_skill_label": "use scripting programming",
+        "best_plo_id": "PLO-02-01",
+        "best_plo_text": "Mampu desain dan normalisasi database.",
+        "best_similarity_score": 0.3982
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783",
+        "esco_skill_label": "interpret technical texts",
+        "best_plo_id": "PLO-02-06",
+        "best_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "best_similarity_score": 0.3967
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c",
+        "esco_skill_label": "business intelligence",
+        "best_plo_id": "PLO-02-04",
+        "best_plo_text": "Mampu melakukan tuning kinerja database.",
+        "best_similarity_score": 0.3985
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4e6d2538-a48e-48a7-8dad-14b067cfcb8b",
+        "esco_skill_label": "TripleStore",
+        "best_plo_id": "PLO-02-01",
+        "best_plo_text": "Mampu desain dan normalisasi database.",
+        "best_similarity_score": 0.3765
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/84251cb1-babf-4d17-a3cd-baa642c24c8d",
+        "esco_skill_label": "IBM Informix",
+        "best_plo_id": "PLO-02-01",
+        "best_plo_text": "Mampu desain dan normalisasi database.",
+        "best_similarity_score": 0.3916
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+        "esco_skill_label": "LDAP",
+        "best_plo_id": "PLO-02-05",
+        "best_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "best_similarity_score": 0.3816
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b8eb2517-37d8-43e6-9856-9c29d5c51fde",
+        "esco_skill_label": "Filemaker (database management systems)",
+        "best_plo_id": "PLO-02-04",
+        "best_plo_text": "Mampu melakukan tuning kinerja database.",
+        "best_similarity_score": 0.3797
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f",
+        "esco_skill_label": "quality assurance methodologies",
+        "best_plo_id": "PLO-02-06",
+        "best_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "best_similarity_score": 0.337
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+        "esco_skill_label": "LINQ",
+        "best_plo_id": "PLO-02-05",
+        "best_plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "best_similarity_score": 0.3495
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e",
+        "esco_skill_label": "implement ICT security policies",
+        "best_plo_id": "PLO-02-03",
+        "best_plo_text": "Memahami keamanan dan solusi backup database.",
+        "best_similarity_score": 0.3424
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb",
+        "esco_skill_label": "protect personal data and privacy",
+        "best_plo_id": "PLO-02-03",
+        "best_plo_text": "Memahami keamanan dan solusi backup database.",
+        "best_similarity_score": 0.3933
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a",
+        "esco_skill_label": "use different communication channels",
+        "best_plo_id": "PLO-02-06",
+        "best_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "best_similarity_score": 0.2207
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3",
+        "esco_skill_label": "execute ICT audits",
+        "best_plo_id": "PLO-02-04",
+        "best_plo_text": "Mampu melakukan tuning kinerja database.",
+        "best_similarity_score": 0.3884
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8359bd04-d2cb-4757-af1f-39a921df9efe",
+        "esco_skill_label": "remove computer virus or malware from a computer",
+        "best_plo_id": "PLO-02-03",
+        "best_plo_text": "Memahami keamanan dan solusi backup database.",
+        "best_similarity_score": 0.2036
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/bb2b4485-2bad-402f-8517-44bf7d9afff4",
+        "esco_skill_label": "implement anti-virus software",
+        "best_plo_id": "PLO-02-03",
+        "best_plo_text": "Memahami keamanan dan solusi backup database.",
+        "best_similarity_score": 0.3685
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d54a1355-05c8-45eb-9c42-267d2cfcdf44",
+        "esco_skill_label": "provide technical training",
+        "best_plo_id": "PLO-02-06",
+        "best_plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "best_similarity_score": 0.3973
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/db36f7f1-5900-45bd-9ffb-f2b19c4362ac",
+        "esco_skill_label": "support ICT system users",
+        "best_plo_id": "PLO-02-04",
+        "best_plo_text": "Mampu melakukan tuning kinerja database.",
+        "best_similarity_score": 0.3904
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b",
+        "esco_skill_label": "estimate duration of work",
+        "best_plo_id": "PLO-02-04",
+        "best_plo_text": "Mampu melakukan tuning kinerja database.",
+        "best_similarity_score": 0.3459
+      }
+    ],
+    "overskill": [],
+    "clo": [
+      {
+        "plo_id": "PLO-02-01",
+        "plo_text": "Mampu desain dan normalisasi database.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5906,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.5432,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-24",
+            "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+            "score": 0.4633,
+            "mata_kuliah": {
+              "nama": "Pengantar Sistem Informasi"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-02-02",
+        "plo_text": "Menguasai SQL (misalnya, PostgreSQL, MySQL).",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.2536,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.2495,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-13",
+            "clo_text": "Mata kuliah Matematika Diskrit 1 ini dirancang untuk memberikan  pemahaman  yang  kuat  tentang  konsep-konsep  matematika  diskrit  dan  menerapkannya  dalam  pemecahan  masalah  di  bidang  informatika.  Fokus  utamanya  adalah  pada  penerapan  logika,  teori  himpunan,  relasi  dan  fungsi,  kombinatorial,  dan  teori  bilangan  untuk  menyelesaikan  kasus  nyata  dalam  ilmu  komputer.\n\nMata kuliah ini dibagi menjadi lima bagian besar:\n\n- Logika: Meliputi prinsip-prinsip logika, operator logika, dan penerapannya dalam ilmu komputer.\n- Teori Himpunan: Meliputi konsep himpunan, operasi himpunan, dan penerapannya dalam representasi data dan algoritma.\n- Relasi dan Fungsi: Meliputi relasi, fungsi, dan penerapannya dalam pemodelan hubungan antar objek diskrit.\n- Kombinatorial: Meliputi prinsip-prinsip pencacahan, permutasi, kombinasi, dan penerapannya dalam analisis algoritma dan probabilitas.\n- Teori Bilangan: Meliputi bilangan bulat, pembagian, faktorisasi, kongruensi, dan penerapannya dalam kriptografi dan keamanan komputer.\n\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\n- Memahami prinsip-prinsip dan teknik matematika diskrit dalam menyelesaikan masalah di bidang informatika.\n- Menerapkan logika, teori himpunan, relasi dan fungsi, kombinatorial, dan teori bilangan dalam kalkulasi dan analisis matematika standar dalam ilmu komputer.\n - Menggunakan pengetahuan matematika diskrit untuk menyelesaikan kasus nyata di bidang informatika.\n - Mengembangkan kemampuan berpikir logis, analitis, dan sistematis dalam menyelesaikan masalah.\n\nDengan  menekankan  pada  penerapan  dan  penyelesaian  kasus  nyata,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  fondasi  matematika  diskrit  yang  kuat  untuk  studi  lanjut  di  bidang  informatika.",
+            "score": 0.2145,
+            "mata_kuliah": {
+              "nama": "Matematika Diskrit 1"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-02-03",
+        "plo_text": "Memahami keamanan dan solusi backup database.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.4466,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.3739,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-15",
+            "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+            "score": 0.3383,
+            "mata_kuliah": {
+              "nama": "Komunikasi Data dan Jaringan"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-02-04",
+        "plo_text": "Mampu melakukan tuning kinerja database.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5339,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-20",
+            "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+            "score": 0.4398,
+            "mata_kuliah": {
+              "nama": "Pengantar Rekayasa Perangkat Lunak"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.4357,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-02-05",
+        "plo_text": "Familiar dengan solusi basis data cloud (AWS RDS, Azure SQL).",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-39",
+            "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+            "score": 0.5492,
+            "mata_kuliah": {
+              "nama": "Pengembangan Perangkat Lunak Berbasis Cloud"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.504,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.4749,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-02-06",
+        "plo_text": "Pemahaman tentang data warehousing dan proses ETL.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-11",
+            "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+            "score": 0.5735,
+            "mata_kuliah": {
+              "nama": "Struktur Data & Algoritma"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5723,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-15",
+            "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+            "score": 0.4891,
+            "mata_kuliah": {
+              "nama": "Komunikasi Data dan Jaringan"
+            }
+          }
+        ]
+      }
+    ],
+    "mata_kuliah": [
+      "Basis Data",
+      "Komunikasi Data dan Jaringan",
+      "Matematika Diskrit 1",
+      "Pengantar Rekayasa Perangkat Lunak",
+      "Pengantar Sistem Informasi",
+      "Pengembangan Perangkat Lunak Berbasis Cloud",
+      "Struktur Data & Algoritma"
+    ],
+    "meta": {
+      "clo_method_used": "sbert_only",
+      "execution_time_ms": {
+        "occupation_match": 127.92,
+        "skill_lookup": 45.06,
+        "plo_lookup": 0.05,
+        "comparison": 3465.98,
+        "clo_mapping": 16900.11,
+        "cso_topic_matching": 16370.98
+      }
+    },
+    "errors": []
+  },
+  "cso_topics": [
+    {
+      "clo_id": "CLO-JTK-11",
+      "mata_kuliah": "Struktur Data & Algoritma",
+      "clo_text": "Dalam kuliah Struktur Data dan Algoritma ini diuraikan hal-hal yang berkaitan dengan penentuan dan pemilihan struktur data yang tepat untuk menyelesaikan masalah komputasi. Diawali\ndengan pemahaman akan alokasi dan representasi data serta pembentukan abstract data type (ADT). Konsep ADT mendasari implementasi user defined data type baik dalam struktur linier\nmaupun struktur hirarki (tree). Setelah memahami alokasi dan representasi data di primary memory, di akhir semester juga diulas struktur/organisasi file data yang dapat dijadikan awal\npemahaman akan konsep database",
+      "extracted_keywords": [
+        "struktur data",
+        "algoritma",
+        "alokasi memori",
+        "representasi data",
+        "abstract data type",
+        "user defined data type",
+        "struktur linier",
+        "struktur hirarki",
+        "organisasi file",
+        "konsep database"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        },
+        {
+          "keyword": "algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9556723833084106
+        },
+        {
+          "keyword": "alokasi memori",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/memory_locations",
+          "topic_name": "memory locations",
+          "score": 0.8692822456359863
+        },
+        {
+          "keyword": "representasi data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_handling",
+          "topic_name": "data handling",
+          "score": 0.8125549554824829
+        },
+        {
+          "keyword": "abstract data type",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_abstraction",
+          "topic_name": "data abstraction",
+          "score": 0.7791250944137573
+        },
+        {
+          "keyword": "struktur linier",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/coaxial_line",
+          "topic_name": "coaxial line",
+          "score": 0.7158430814743042
+        },
+        {
+          "keyword": "struktur hirarki",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hierarchical_structures",
+          "topic_name": "hierarchical structures",
+          "score": 0.8273687362670898
+        },
+        {
+          "keyword": "organisasi file",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_organization",
+          "topic_name": "software organization",
+          "score": 0.7394837141036987
+        },
+        {
+          "keyword": "konsep database",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/database_systems",
+          "topic_name": "database systems",
+          "score": 0.8902688026428223
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-13",
+      "mata_kuliah": "Matematika Diskrit 1",
+      "clo_text": "Mata kuliah Matematika Diskrit 1 ini dirancang untuk memberikan  pemahaman  yang  kuat  tentang  konsep-konsep  matematika  diskrit  dan  menerapkannya  dalam  pemecahan  masalah  di  bidang  informatika.  Fokus  utamanya  adalah  pada  penerapan  logika,  teori  himpunan,  relasi  dan  fungsi,  kombinatorial,  dan  teori  bilangan  untuk  menyelesaikan  kasus  nyata  dalam  ilmu  komputer.\n\nMata kuliah ini dibagi menjadi lima bagian besar:\n\n- Logika: Meliputi prinsip-prinsip logika, operator logika, dan penerapannya dalam ilmu komputer.\n- Teori Himpunan: Meliputi konsep himpunan, operasi himpunan, dan penerapannya dalam representasi data dan algoritma.\n- Relasi dan Fungsi: Meliputi relasi, fungsi, dan penerapannya dalam pemodelan hubungan antar objek diskrit.\n- Kombinatorial: Meliputi prinsip-prinsip pencacahan, permutasi, kombinasi, dan penerapannya dalam analisis algoritma dan probabilitas.\n- Teori Bilangan: Meliputi bilangan bulat, pembagian, faktorisasi, kongruensi, dan penerapannya dalam kriptografi dan keamanan komputer.\n\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\n- Memahami prinsip-prinsip dan teknik matematika diskrit dalam menyelesaikan masalah di bidang informatika.\n- Menerapkan logika, teori himpunan, relasi dan fungsi, kombinatorial, dan teori bilangan dalam kalkulasi dan analisis matematika standar dalam ilmu komputer.\n - Menggunakan pengetahuan matematika diskrit untuk menyelesaikan kasus nyata di bidang informatika.\n - Mengembangkan kemampuan berpikir logis, analitis, dan sistematis dalam menyelesaikan masalah.\n\nDengan  menekankan  pada  penerapan  dan  penyelesaian  kasus  nyata,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  fondasi  matematika  diskrit  yang  kuat  untuk  studi  lanjut  di  bidang  informatika.",
+      "extracted_keywords": [
+        "logika",
+        "teori himpunan",
+        "relasi fungsi",
+        "kombinatorial",
+        "teori bilangan",
+        "analisis algoritma",
+        "kriptografi",
+        "pemecahan masalah"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "logika",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.9601387977600098
+        },
+        {
+          "keyword": "teori himpunan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/agrammatism",
+          "topic_name": "agrammatism",
+          "score": 0.746322751045227
+        },
+        {
+          "keyword": "relasi fungsi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/describing_functions",
+          "topic_name": "describing functions",
+          "score": 0.815138578414917
+        },
+        {
+          "keyword": "kombinatorial",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/osate",
+          "topic_name": "osate",
+          "score": 0.7645111083984375
+        },
+        {
+          "keyword": "teori bilangan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/number_theory",
+          "topic_name": "number theory",
+          "score": 0.9638261198997498
+        },
+        {
+          "keyword": "analisis algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/dijkstras_algorithms",
+          "topic_name": "dijkstra algorithms",
+          "score": 0.8898206949234009
+        },
+        {
+          "keyword": "kriptografi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cryptography",
+          "topic_name": "cryptography",
+          "score": 0.9632781744003296
+        },
+        {
+          "keyword": "pemecahan masalah",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/constraint_solvers",
+          "topic_name": "constraint solvers",
+          "score": 0.7356334924697876
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-15",
+      "mata_kuliah": "Komunikasi Data dan Jaringan",
+      "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+      "extracted_keywords": [
+        "komunikasi data",
+        "jaringan komputer",
+        "model TCP/IP",
+        "skalabilitas jaringan",
+        "mobilitas jaringan",
+        "pengaturan sumber daya",
+        "keamanan jaringan",
+        "operating system"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komunikasi data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_communication_systems",
+          "topic_name": "data communication systems",
+          "score": 0.9224190711975098
+        },
+        {
+          "keyword": "jaringan komputer",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_networks",
+          "topic_name": "computer networks",
+          "score": 0.9607381224632263
+        },
+        {
+          "keyword": "model TCP/IP",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/tcp_protocol",
+          "topic_name": "tcp protocol",
+          "score": 0.796011745929718
+        },
+        {
+          "keyword": "skalabilitas jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/ubiquitous_networks",
+          "topic_name": "ubiquitous networks",
+          "score": 0.875543475151062
+        },
+        {
+          "keyword": "mobilitas jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_mobility",
+          "topic_name": "network mobility",
+          "score": 0.9734132289886475
+        },
+        {
+          "keyword": "pengaturan sumber daya",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/resource_provisioning",
+          "topic_name": "resource provisioning",
+          "score": 0.8675409555435181
+        },
+        {
+          "keyword": "keamanan jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_security",
+          "topic_name": "network security",
+          "score": 0.9726908206939697
+        },
+        {
+          "keyword": "operating system",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/operating_systems",
+          "topic_name": "operating systems",
+          "score": 0.9837915897369385
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-19",
+      "mata_kuliah": "Basis Data",
+      "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+      "extracted_keywords": [
+        "pemodelan data",
+        "relational data",
+        "model konseptual",
+        "model logikal",
+        "model fisik",
+        "alat pemodelan",
+        "analisis kebutuhan",
+        "perancangan terstruktur"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pemodelan data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.8722710013389587
+        },
+        {
+          "keyword": "relational data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/relational_data_models",
+          "topic_name": "relational data models",
+          "score": 0.8837749361991882
+        },
+        {
+          "keyword": "model konseptual",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/formal_modeling",
+          "topic_name": "formal modelling",
+          "score": 0.8343625068664551
+        },
+        {
+          "keyword": "model logikal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.8260248899459839
+        },
+        {
+          "keyword": "model fisik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/motion_models",
+          "topic_name": "motion models",
+          "score": 0.7455786466598511
+        },
+        {
+          "keyword": "alat pemodelan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/globus_toolkit",
+          "topic_name": "globus toolkit",
+          "score": 0.7783831357955933
+        },
+        {
+          "keyword": "analisis kebutuhan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/requirements_models",
+          "topic_name": "requirements models",
+          "score": 0.8087109327316284
+        },
+        {
+          "keyword": "perancangan terstruktur",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/engineering_structures",
+          "topic_name": "engineering structures",
+          "score": 0.8582732677459717
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-20",
+      "mata_kuliah": "Pengantar Rekayasa Perangkat Lunak",
+      "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+      "extracted_keywords": [
+        "analisis perangkat lunak",
+        "perancangan perangkat lunak",
+        "implementasi perangkat lunak",
+        "pengujian perangkat lunak",
+        "pemeliharaan perangkat lunak",
+        "kualitas perangkat lunak",
+        "CASE tools",
+        "dokumentasi teknis"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "analisis perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8345566987991333
+        },
+        {
+          "keyword": "implementasi perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.8520048260688782
+        },
+        {
+          "keyword": "pengujian perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_model_checking",
+          "topic_name": "software model checking",
+          "score": 0.7770556211471558
+        },
+        {
+          "keyword": "kualitas perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_quality",
+          "topic_name": "software quality",
+          "score": 0.9616149663925171
+        },
+        {
+          "keyword": "CASE tools",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/case_representation",
+          "topic_name": "case representation",
+          "score": 0.7704617381095886
+        },
+        {
+          "keyword": "dokumentasi teknis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/technical_analysis",
+          "topic_name": "technical analysis",
+          "score": 0.7946694493293762
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-24",
+      "mata_kuliah": "Pengantar Sistem Informasi",
+      "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+      "extracted_keywords": [
+        "sistem informasi",
+        "analisa sistem",
+        "perancangan sistem",
+        "struktur data",
+        "algoritma",
+        "basis data",
+        "rekayasa perangkat lunak",
+        "pemrograman berorientasi objek",
+        "perancangan logikal",
+        "perancangan fisikal"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "sistem informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_systems",
+          "topic_name": "information systems",
+          "score": 0.9731357097625732
+        },
+        {
+          "keyword": "analisa sistem",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mimo_systems",
+          "topic_name": "mimo systems",
+          "score": 0.822050929069519
+        },
+        {
+          "keyword": "perancangan sistem",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/systems_design",
+          "topic_name": "systems design",
+          "score": 0.8621243238449097
+        },
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        },
+        {
+          "keyword": "algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9556723833084106
+        },
+        {
+          "keyword": "basis data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.664888858795166
+        },
+        {
+          "keyword": "rekayasa perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8910106420516968
+        },
+        {
+          "keyword": "pemrograman berorientasi objek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/object_oriented_programming",
+          "topic_name": "object-oriented programming",
+          "score": 0.8333227038383484
+        },
+        {
+          "keyword": "perancangan logikal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.9051374197006226
+        },
+        {
+          "keyword": "perancangan fisikal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mechanical_design",
+          "topic_name": "mechanical design",
+          "score": 0.8352351188659668
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-39",
+      "mata_kuliah": "Pengembangan Perangkat Lunak Berbasis Cloud",
+      "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+      "extracted_keywords": [
+        "komputasi awan",
+        "arsitektur awan",
+        "sistem terdistribusi",
+        "virtualisasi sumberdaya",
+        "penyimpanan data",
+        "interkoneksi jaringan",
+        "keamanan cloud",
+        "konkurensi paralel",
+        "pengembangan aplikasi web"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komputasi awan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud_environments",
+          "topic_name": "cloud environments",
+          "score": 0.8310428857803345
+        },
+        {
+          "keyword": "sistem terdistribusi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/distribution_systems",
+          "topic_name": "distribution systems",
+          "score": 0.9385573863983154
+        },
+        {
+          "keyword": "virtualisasi sumberdaya",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/virtualized_resources",
+          "topic_name": "virtualized resources",
+          "score": 0.9372053146362305
+        },
+        {
+          "keyword": "penyimpanan data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/storage_resources",
+          "topic_name": "storage resources",
+          "score": 0.8766261339187622
+        },
+        {
+          "keyword": "interkoneksi jaringan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/integrated_networks",
+          "topic_name": "integrated networks",
+          "score": 0.8960533142089844
+        },
+        {
+          "keyword": "keamanan cloud",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud_security",
+          "topic_name": "cloud security",
+          "score": 0.9483548402786255
+        },
+        {
+          "keyword": "konkurensi paralel",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/competitive_analysis",
+          "topic_name": "competitive analysis",
+          "score": 0.769230306148529
+        },
+        {
+          "keyword": "pengembangan aplikasi web",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/web_application_development",
+          "topic_name": "web application development",
+          "score": 0.9353382587432861
+        }
+      ]
+    }
+  ],
+  "cso_errors": []
+}

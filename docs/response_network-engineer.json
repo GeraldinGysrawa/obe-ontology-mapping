@@ -1,0 +1,2002 @@
+{
+  "integration": {
+    "peo": "Network Engineer",
+    "occupation": {
+      "uri": "http://data.europa.eu/esco/occupation/cf2b03cd-feb7-4f47-90f6-ff1ed6016d3d",
+      "label": "ICT network engineer",
+      "score": 0.8230006098747253
+    },
+    "esco_skills": {
+      "uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "label": "network engineering",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The subfield of computer technology that concerns the managing the connectivity of networks through data, voice, calls and wireless network services."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "label": "ICT network routing",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The processes and techniques for choosing the best paths within an ICT network through which a packet can travel."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50",
+      "label": "information security strategy",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The plan defined by a company which sets the information security objectives and measures to mitigate risks, define control objectives, establish metrics and benchmarks while complying with legal, internal and contractual requirements."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "label": "computer programming",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms (e.g. object oriented programming, functional programming) and of programming languages."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "label": "ICT debugging tools",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The ICT tools used to test and debug programs and software code, such as GNU Debugger (GDB), Intel Debugger (IDB), Microsoft Visual Studio Debugger, Valgrind and WinDbg."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "label": "mobile operating systems",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The features, restrictions, architectures and other characteristics of operating systems designed to run on mobile devices, such as Android or iOS."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "label": "cloud technologies",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The technologies which enable access to hardware, software, data and services through remote servers and software networks irrespective of their location and architecture."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "label": "network standards",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "Regulated standards that provide the technical guidelines, specifications, and requirements to ensure safe and efficient interoperability between devices, software, equipment, and organisations. Networking standards govern the software and hardware which uses them."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "label": "ICT performance analysis methods",
+      "skill_type": "knowledge",
+      "relation_type": "essential",
+      "description": "The methods used to analyse software, ICT system and network performance which provide guidance to root causes of issues within information systems. The methods can analyse resource bottlenecks, application times, wait latencies and benchmarking results."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377",
+      "label": "migrate existing data",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Apply migration and conversion methods for existing data, in order to transfer or convert data between formats, storage or computer systems."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+      "label": "use an application-specific interface",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Understand and use interfaces particular to an application or use case."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+      "label": "develop automated migration methods",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Create automated transfer of ICT information between storage types, formats and systems to save human resources from performing the task manually."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "label": "design computer network",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Develop and plan ICT networks, such as wide area network and local area network, that connect computers using cable or wireless connections and allow them to exchange data and assess their capacity requirements."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679",
+      "label": "define technology strategy",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Create an overall plan of objectives, practices, principles and tactics related to the use of technologies within an organisation and describe the means to reach the objectives, taking into account analyses and relevant regulations."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "label": "debug software",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Repair computer code by analysing testing results, locating the defects causing the software to output an incorrect or unexpected result and remove these faults."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "label": "use software design patterns",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Utilise reusable solutions, formalised best practices, to solve common ICT development tasks in software development and design."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "label": "analyse network configuration and performance",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Analyse essential network data (e.g., router configuration files, routing protocols), network traffic capacity and performance characteristics of ICT networks, such as wide area network and local area network, that connect computers using cable or wireless connections and allow them to exchange data."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/71746a0b-e58d-4dc4-ad03-bd84082eae21",
+      "label": "collect customer feedback on applications",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Gather a response and analyse data from customers to identify requests or problems in order to improve applications and overall customer satisfaction."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "label": "apply information security policies",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Implement policies, methods and regulations for data and information security in order to respect confidentiality, integrity and availability principles."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "label": "forecast future ICT network needs",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Identify current data traffic and estimate how growth will affect the ICT network."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "label": "implement a virtual private network",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Create an encrypted connection between private networks, such as different local networks of a company, over the internet to ensure that only authorized users can access it and that the data cannot be intercepted."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "label": "implement ICT network diagnostic tools",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Use software tools or components that monitor ICT network parameters, such as performance and throughput, provide data and statistics, diagnose errors, failures or bottlenecks and support decision making."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "label": "analyse software specifications",
+      "skill_type": "skill/competence",
+      "relation_type": "essential",
+      "description": "Assess the specifications of a software product or system to be developed by identifying functional and non-functional requirements, constraints and possible sets of use cases which illustrate interactions between the software and its users."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "label": "Haskell",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Haskell."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "label": "KDevelop",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The computer program KDevelop is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software community KDE."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+      "label": "Erlang",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Erlang."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+      "label": "SAS language",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in SAS language."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "label": "network management system tools",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The software or hardware tools which enable monitoring, analysis and supervision of individual network components or network parts within a larger network system."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "label": "Ruby (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Ruby."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+      "label": "Common Lisp",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Common Lisp."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/0d168770-4d9c-4096-b048-a6577818d306",
+      "label": "Apache Maven",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The tool Apache Maven is a software program to perform configuration identification, control, status accounting and audit of software during its development and maintenance."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "label": "Lisp",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Lisp."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "label": "Visual Basic",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Visual Basic."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "label": "Java (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Java."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+      "label": "Prolog (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Prolog."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "label": "OpenEdge Advanced Business Language",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in OpenEdge Advanced Business Language."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "label": "JavaScript",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in JavaScript."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "label": "Smalltalk (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Smalltalk."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "label": "PHP",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in PHP."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+      "label": "Xcode",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The computer program Xcode is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Apple."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "label": "Assembly (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Assembly."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "label": "C#",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in C#."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "label": "R",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in R."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+      "label": "Groovy",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Groovy."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "label": "ASP.NET",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ASP.NET."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "label": "APL",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in APL."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d",
+      "label": "Puppet (tools for software configuration management)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The tool Puppet is a software program to perform configuration identification, control, status accounting and audit."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb",
+      "label": "STAF",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The tool STAF is a software program to perform configuration identification, control, status accounting and audit."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/6b3afb82-c4ea-4f14-be54-a757fb762663",
+      "label": "Vagrant",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The tool Vagrant is a software program to perform configuration identification, control, status accounting and audit."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+      "label": "Eclipse (integrated development environment software)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The computer program Eclipse is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the Eclipse Foundation."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed",
+      "label": "Ansible",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The tool Ansible is a software program to perform configuration identification, control, status accounting and audit."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "label": "Microsoft Visual C++",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The computer program Visual C++ is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Microsoft."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+      "label": "TypeScript",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in TypeScript."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "label": "integrated development environment software",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface, such as Visual Studio or Eclipse."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+      "label": "CoffeeScript",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in CoffeeScript."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+      "label": "Objective-C",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Objective-C."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "label": "tools for software configuration management",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The software programs to perform configuration identification, control, status accounting and audit, such as CVS, ClearCase, Subversion, GIT and TortoiseSVN perform this management."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "label": "ICT problem management techniques",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques related to identifying the solutions of the root cause of ICT incidents."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "label": "ML (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ML."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "label": "AJAX",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in AJAX."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "label": "C++",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in C++."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/ba04b19b-0b18-4d5c-b799-4db31a98e58d",
+      "label": "BlackBerry",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The system software BlackBerry consists of features, restrictions, architectures and other characteristics of operating systems designed to run on mobile devices."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+      "label": "SAP R3",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in SAP R3."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+      "label": "Swift (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Swift."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "label": "MATLAB",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in MATLAB."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/c7451027-8249-405a-bb1b-342ff0f3fb3b",
+      "label": "Salt (tools for software configuration management)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The tool Salt is a software program to perform configuration identification, control, status accounting and audit."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "label": "Python (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
+      "label": "iOS",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The system software iOS consists of features, restrictions, architectures and other characteristics of operating systems designed to run on mobile devices."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "label": "Scratch (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Scratch."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/d8829a1d-dbde-435b-b921-29d6462f35c9",
+      "label": "Android (mobile operating systems)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The system software Android consists of features, restrictions, architectures and other characteristics of operating systems designed to run on mobile devices."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+      "label": "VBScript",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in VBScript."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+      "label": "COBOL",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in COBOL."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "label": "Pascal (computer programming)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Pascal."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "label": "ABAP",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ABAP."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "label": "Internet of Things",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The general principles, categories, requirements, limitations and vulnerabilities of smart connected devices (most of them with intended internet connectivity)."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da",
+      "label": "Jenkins (tools for software configuration management)",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The tool Jenkins is a software program to perform configuration identification, control, status accounting and audit of software during its development and maintenance."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "label": "Scala",
+      "skill_type": "knowledge",
+      "relation_type": "optional",
+      "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Scala."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "label": "create solutions to problems",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Solve problems which arise in planning, prioritising, organising, directing/facilitating action and evaluating performance. Use systematic processes of collecting, analysing, and synthesising information to evaluate current practice and generate new understandings about practice."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e",
+      "label": "implement ICT security policies",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Implement statements, assertions or rules that specify the appropriate use and protection of the ICT assets and systems from an organisation. These ICT security policies cover topics such as data classification, password management, access control and incident response."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "label": "use concurrent programming",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Utilise specialised ICT tools to create programs that can execute concurrent operations by splitting programs into parallel processes and, once computed, combining the outcomes together."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "label": "use logic programming",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Utilise specialised ICT tools to create computer code composed of series of sentences in logical form, expressing rules and facts about some problem domain. Use programming languages which support this method such as Prolog, Answer Set Programming and Datalog."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "label": "design cloud networks",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Apply cloud networking concepts and implement connectivity services of cloud. Given customer requirements, define network architectures on cloud, propose optimized designs based on the evaluation of an existing implementation. Evaluate and optimize cost allocations given a network design, its cloud resources, and application data flow."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "label": "use object-oriented programming",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Utilise specialised ICT tools for programming paradigm based on the concept of objects, which can contain data in the form of fields and code in the form of procedures. Use programming languages which support this method such as JAVA and C++."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "label": "develop with cloud services",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Write code that interacts with cloud services by using APIs, SDKs, and cloud CLI. Write code for serverless applications, translate functional requirements into application design, implement application design into application code."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "label": "develop software prototype",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Create a first incomplete or preliminary version of a piece of software application to simulate some specific aspects of the final product."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "label": "use automatic programming",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Utilise specialised software tools to generate computer code from specifications, such as diagrams, structured informations or other means of describing functionality."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+      "label": "use back-up and recovery tools",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Use tools which allow users to copy and archive computer software, configurations and data and recover them in case of loss."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/8359bd04-d2cb-4757-af1f-39a921df9efe",
+      "label": "remove computer virus or malware from a computer",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Carry out actions to remove computer viruses or other types of malware from a computer."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "label": "install electronic communication equipment",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Set up and deploy digital and analogue electronic communications. Understand electronic diagrams and equipment specifications."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+      "label": "develop creative ideas",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Developing new artistic concepts and creative ideas."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "label": "create flowchart diagram",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Compose a diagram that illustrates systematic progress through a procedure or system using connecting lines and a set of symbols."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/bb2b4485-2bad-402f-8517-44bf7d9afff4",
+      "label": "implement anti-virus software",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Download, install and update software to prevent, detect and remove malicious software, such as computer viruses."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/c2cbbccf-4ffd-4626-86e7-505b39c872a0",
+      "label": "implement spam protection",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Install and configure software that supports email-users to filter messages that contain malware or that are unsolicited."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/ce8ae6ca-61d8-4174-b457-641de96cbff4",
+      "label": "automate cloud tasks",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Automate manual or repeatable processes to minimize management overhead. Evaluate cloud automation alternatives for network deployments and tool-based alternatives for network operations and management."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "label": "use functional programming",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Utilise specialised ICT tools to create computer code which treats computation as the evaluation of mathematical functions and seeks to avoid state and mutable data. Use programming languages which support this method such as LISP, PROLOG and Haskell."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/dfff95c6-9758-4c04-a228-7eaa88dec6cd",
+      "label": "design for organisational complexity",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Determine cross-account authentication and access strategy for complex organizations (for example, an organization with varying compliance requirements, multiple business units, and varying scalability requirements). Design networks and multi-account cloud environments for complex organizations."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "label": "implement a firewall",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Download, install and update a network security system designed to prevent unauthorized access to a private network."
+    },
+    {
+      "uri": "http://data.europa.eu/esco/skill/f5308e60-d763-4ead-be95-88c96fb3e02b",
+      "label": "adapt to changes in technological development plans",
+      "skill_type": "skill/competence",
+      "relation_type": "optional",
+      "description": "Modify the current design and development activities of technological projects to meet changes in requests or strategies. Ensure that the organisation's or client's needs are met and that any sudden requests which were not previously planned are implemented."
+    }
+  ],
+  "plo_jtk": [
+    {
+      "plo_id": "PLO-06-01",
+      "plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "peo_id": "PEO-06"
+    },
+    {
+      "plo_id": "PLO-06-02",
+      "plo_text": "Menguasai protokol jaringan (TCP/IP, BGP).",
+      "peo_id": "PEO-06"
+    },
+    {
+      "plo_id": "PLO-06-03",
+      "plo_text": "Berpengalaman dengan alat pemantauan jaringan (contoh: Wireshark, Nagios).",
+      "peo_id": "PEO-06"
+    },
+    {
+      "plo_id": "PLO-06-04",
+      "plo_text": "Memahami prinsip keamanan siber.",
+      "peo_id": "PEO-06"
+    },
+    {
+      "plo_id": "PLO-06-05",
+      "plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "peo_id": "PEO-06"
+    }
+  ],
+  "covered": [
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/02058de6-4b98-449f-8a45-8588b0eb2446",
+      "esco_skill_label": "network engineering",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.5174
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/0da6cab1-0ee9-4391-a299-f71fbf21db56",
+      "esco_skill_label": "ICT network routing",
+      "matched_plo_id": "PLO-06-02",
+      "matched_plo_text": "Menguasai protokol jaringan (TCP/IP, BGP).",
+      "similarity_score": 0.4976
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50",
+      "esco_skill_label": "information security strategy",
+      "matched_plo_id": "PLO-06-04",
+      "matched_plo_text": "Memahami prinsip keamanan siber.",
+      "similarity_score": 0.4498
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+      "esco_skill_label": "computer programming",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4594
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0",
+      "esco_skill_label": "cloud technologies",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.475
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/d78dedfc-21d2-45fd-ba05-e56b7a8865e6",
+      "esco_skill_label": "network standards",
+      "matched_plo_id": "PLO-06-02",
+      "matched_plo_text": "Menguasai protokol jaringan (TCP/IP, BGP).",
+      "similarity_score": 0.5632
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9",
+      "esco_skill_label": "use an application-specific interface",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4763
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/2164e860-7f20-48bc-b98c-5d9f8a561550",
+      "esco_skill_label": "design computer network",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.5164
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17",
+      "esco_skill_label": "use software design patterns",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4344
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/545c80e8-7ab2-42fe-af64-242211e94709",
+      "esco_skill_label": "analyse network configuration and performance",
+      "matched_plo_id": "PLO-06-01",
+      "matched_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "similarity_score": 0.5429
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8",
+      "esco_skill_label": "apply information security policies",
+      "matched_plo_id": "PLO-06-04",
+      "matched_plo_text": "Memahami prinsip keamanan siber.",
+      "similarity_score": 0.5372
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/acf0a78c-f4e3-4bd9-a5cc-9cf4791b3b95",
+      "esco_skill_label": "implement a virtual private network",
+      "matched_plo_id": "PLO-06-02",
+      "matched_plo_text": "Menguasai protokol jaringan (TCP/IP, BGP).",
+      "similarity_score": 0.4926
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/bf7ea00f-db77-4a95-9b9f-2d12b6d9fcb4",
+      "esco_skill_label": "implement ICT network diagnostic tools",
+      "matched_plo_id": "PLO-06-03",
+      "matched_plo_text": "Berpengalaman dengan alat pemantauan jaringan (contoh: Wireshark, Nagios).",
+      "similarity_score": 0.4873
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+      "esco_skill_label": "Erlang",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4059
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/0ab03c6c-281b-48f4-83e0-10eeb27a1bae",
+      "esco_skill_label": "network management system tools",
+      "matched_plo_id": "PLO-06-01",
+      "matched_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "similarity_score": 0.5272
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+      "esco_skill_label": "Ruby (computer programming)",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4015
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+      "esco_skill_label": "Visual Basic",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4089
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+      "esco_skill_label": "OpenEdge Advanced Business Language",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.458
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+      "esco_skill_label": "Smalltalk (computer programming)",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4181
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+      "esco_skill_label": "C#",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4016
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+      "esco_skill_label": "ASP.NET",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4252
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+      "esco_skill_label": "APL",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4775
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/6b3afb82-c4ea-4f14-be54-a757fb762663",
+      "esco_skill_label": "Vagrant",
+      "matched_plo_id": "PLO-06-03",
+      "matched_plo_text": "Berpengalaman dengan alat pemantauan jaringan (contoh: Wireshark, Nagios).",
+      "similarity_score": 0.4021
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+      "esco_skill_label": "integrated development environment software",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4285
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+      "esco_skill_label": "tools for software configuration management",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4858
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/ba04b19b-0b18-4d5c-b799-4db31a98e58d",
+      "esco_skill_label": "BlackBerry",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.433
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+      "esco_skill_label": "Swift (computer programming)",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4117
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/ce26e71f-2d47-474e-89b6-7920931ac4fc",
+      "esco_skill_label": "iOS",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.5241
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+      "esco_skill_label": "Pascal (computer programming)",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4684
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+      "esco_skill_label": "ABAP",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4005
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/f049d050-12da-4e40-813a-2b5eb6df6b51",
+      "esco_skill_label": "Internet of Things",
+      "matched_plo_id": "PLO-06-03",
+      "matched_plo_text": "Berpengalaman dengan alat pemantauan jaringan (contoh: Wireshark, Nagios).",
+      "similarity_score": 0.5048
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/f47a1998-0beb-43be-9f46-380aa4d183da",
+      "esco_skill_label": "Jenkins (tools for software configuration management)",
+      "matched_plo_id": "PLO-06-01",
+      "matched_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "similarity_score": 0.4043
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e",
+      "esco_skill_label": "implement ICT security policies",
+      "matched_plo_id": "PLO-06-04",
+      "matched_plo_text": "Memahami prinsip keamanan siber.",
+      "similarity_score": 0.4366
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d",
+      "esco_skill_label": "use object-oriented programming",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4236
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/6b643893-0a1f-4f6c-83a1-e7eef75849b9",
+      "esco_skill_label": "develop with cloud services",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4135
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/7d10fcb2-b368-48ab-996b-7c9fafcf68ed",
+      "esco_skill_label": "use automatic programming",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.473
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454",
+      "esco_skill_label": "install electronic communication equipment",
+      "matched_plo_id": "PLO-06-01",
+      "matched_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "similarity_score": 0.4307
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/bb2b4485-2bad-402f-8517-44bf7d9afff4",
+      "esco_skill_label": "implement anti-virus software",
+      "matched_plo_id": "PLO-06-05",
+      "matched_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "similarity_score": 0.4684
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/c2cbbccf-4ffd-4626-86e7-505b39c872a0",
+      "esco_skill_label": "implement spam protection",
+      "matched_plo_id": "PLO-06-04",
+      "matched_plo_text": "Memahami prinsip keamanan siber.",
+      "similarity_score": 0.4251
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/e5b5053e-0ef6-4c4e-a3f2-42f955f4322c",
+      "esco_skill_label": "implement a firewall",
+      "matched_plo_id": "PLO-06-02",
+      "matched_plo_text": "Menguasai protokol jaringan (TCP/IP, BGP).",
+      "similarity_score": 0.5384
+    }
+  ],
+  "gap": [
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+      "esco_skill_label": "ICT debugging tools",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3833
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/976455eb-5bbe-4493-ae64-ed16c3b009ea",
+      "esco_skill_label": "mobile operating systems",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3749
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+      "esco_skill_label": "ICT performance analysis methods",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3395
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377",
+      "esco_skill_label": "migrate existing data",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.3027
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300",
+      "esco_skill_label": "develop automated migration methods",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.3358
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679",
+      "esco_skill_label": "define technology strategy",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.3253
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+      "esco_skill_label": "debug software",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.2379
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/71746a0b-e58d-4dc4-ad03-bd84082eae21",
+      "esco_skill_label": "collect customer feedback on applications",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.319
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c",
+      "esco_skill_label": "forecast future ICT network needs",
+      "best_plo_id": "PLO-06-02",
+      "best_plo_text": "Menguasai protokol jaringan (TCP/IP, BGP).",
+      "best_similarity_score": 0.3792
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998",
+      "esco_skill_label": "analyse software specifications",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3356
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+      "esco_skill_label": "Haskell",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3714
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/013441c1-1f13-47e9-80c4-9a53e8e1bc05",
+      "esco_skill_label": "KDevelop",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3947
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+      "esco_skill_label": "SAS language",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3257
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+      "esco_skill_label": "Common Lisp",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3723
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/0d168770-4d9c-4096-b048-a6577818d306",
+      "esco_skill_label": "Apache Maven",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.2994
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+      "esco_skill_label": "Lisp",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3746
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+      "esco_skill_label": "Java (computer programming)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3435
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+      "esco_skill_label": "Prolog (computer programming)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3874
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+      "esco_skill_label": "JavaScript",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3071
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+      "esco_skill_label": "PHP",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.373
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/449d119b-2d66-43a9-9230-7d27f16afbb6",
+      "esco_skill_label": "Xcode",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3686
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+      "esco_skill_label": "Assembly (computer programming)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3299
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+      "esco_skill_label": "R",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3929
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+      "esco_skill_label": "Groovy",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.392
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/6417a4cc-6f61-4459-a114-761a7fa0279d",
+      "esco_skill_label": "Puppet (tools for software configuration management)",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.3226
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb",
+      "esco_skill_label": "STAF",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3469
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/6b6a9252-2ed7-4862-a02f-1578f4a532ea",
+      "esco_skill_label": "Eclipse (integrated development environment software)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.239
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/6f8a40d6-f9ce-43ec-a72f-d4213a53f3ed",
+      "esco_skill_label": "Ansible",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3943
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+      "esco_skill_label": "Microsoft Visual C++",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3751
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+      "esco_skill_label": "TypeScript",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.2889
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+      "esco_skill_label": "CoffeeScript",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3023
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+      "esco_skill_label": "Objective-C",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.341
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904",
+      "esco_skill_label": "ICT problem management techniques",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.2171
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+      "esco_skill_label": "ML (computer programming)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3922
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+      "esco_skill_label": "AJAX",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3821
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+      "esco_skill_label": "C++",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.375
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+      "esco_skill_label": "SAP R3",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.2876
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+      "esco_skill_label": "MATLAB",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3633
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/c7451027-8249-405a-bb1b-342ff0f3fb3b",
+      "esco_skill_label": "Salt (tools for software configuration management)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3256
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+      "esco_skill_label": "Python (computer programming)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3241
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+      "esco_skill_label": "Scratch (computer programming)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3728
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/d8829a1d-dbde-435b-b921-29d6462f35c9",
+      "esco_skill_label": "Android (mobile operating systems)",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.371
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+      "esco_skill_label": "VBScript",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3811
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+      "esco_skill_label": "COBOL",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.32
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+      "esco_skill_label": "Scala",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3327
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+      "esco_skill_label": "create solutions to problems",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.309
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/25b291b5-8245-4d9d-b391-86a8a31d7109",
+      "esco_skill_label": "use concurrent programming",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3859
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/2c4e11ef-da18-4e19-816b-e6bc19e12424",
+      "esco_skill_label": "use logic programming",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3805
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/4da4587a-fd0b-4ca2-886c-c42a1562d432",
+      "esco_skill_label": "design cloud networks",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3889
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4",
+      "esco_skill_label": "develop software prototype",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.2853
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/82de2df7-0d6c-42b1-94ac-b3e9a029e917",
+      "esco_skill_label": "use back-up and recovery tools",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.2817
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/8359bd04-d2cb-4757-af1f-39a921df9efe",
+      "esco_skill_label": "remove computer virus or malware from a computer",
+      "best_plo_id": "PLO-06-04",
+      "best_plo_text": "Memahami prinsip keamanan siber.",
+      "best_similarity_score": 0.3328
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/8c4c49d4-9708-433f-8ca7-bf2c5211ee49",
+      "esco_skill_label": "develop creative ideas",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.1365
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/901105f8-3a08-453e-b1dc-23619e317fd3",
+      "esco_skill_label": "create flowchart diagram",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.2717
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/ce8ae6ca-61d8-4174-b457-641de96cbff4",
+      "esco_skill_label": "automate cloud tasks",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3784
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/d31fab87-2a7d-485c-b699-2901ca294b15",
+      "esco_skill_label": "use functional programming",
+      "best_plo_id": "PLO-06-05",
+      "best_plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "best_similarity_score": 0.3929
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/dfff95c6-9758-4c04-a228-7eaa88dec6cd",
+      "esco_skill_label": "design for organisational complexity",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.3454
+    },
+    {
+      "esco_skill_uri": "http://data.europa.eu/esco/skill/f5308e60-d763-4ead-be95-88c96fb3e02b",
+      "esco_skill_label": "adapt to changes in technological development plans",
+      "best_plo_id": "PLO-06-01",
+      "best_plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "best_similarity_score": 0.3864
+    }
+  ],
+  "overskill": [],
+  "clo": [
+    {
+      "plo_id": "PLO-06-01",
+      "plo_text": "Ahli dalam konfigurasi dan manajemen perangkat jaringan (router, switch).",
+      "matched_clo": [
+        {
+          "clo_id": "CLO-JTK-15",
+          "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+          "score": 0.408,
+          "mata_kuliah": {
+            "nama": "Komunikasi Data dan Jaringan"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-07",
+          "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+          "score": 0.4075,
+          "mata_kuliah": {
+            "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-26",
+          "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+          "score": 0.3893,
+          "mata_kuliah": {
+            "nama": "Pengolahan Citra Digital"
+          }
+        }
+      ]
+    },
+    {
+      "plo_id": "PLO-06-02",
+      "plo_text": "Menguasai protokol jaringan (TCP/IP, BGP).",
+      "matched_clo": [
+        {
+          "clo_id": "CLO-JTK-15",
+          "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+          "score": 0.4746,
+          "mata_kuliah": {
+            "nama": "Komunikasi Data dan Jaringan"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-07",
+          "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+          "score": 0.258,
+          "mata_kuliah": {
+            "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-26",
+          "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+          "score": 0.2398,
+          "mata_kuliah": {
+            "nama": "Pengolahan Citra Digital"
+          }
+        }
+      ]
+    },
+    {
+      "plo_id": "PLO-06-03",
+      "plo_text": "Berpengalaman dengan alat pemantauan jaringan (contoh: Wireshark, Nagios).",
+      "matched_clo": [
+        {
+          "clo_id": "CLO-JTK-15",
+          "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+          "score": 0.5084,
+          "mata_kuliah": {
+            "nama": "Komunikasi Data dan Jaringan"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-07",
+          "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+          "score": 0.4688,
+          "mata_kuliah": {
+            "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-24",
+          "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+          "score": 0.4154,
+          "mata_kuliah": {
+            "nama": "Pengantar Sistem Informasi"
+          }
+        }
+      ]
+    },
+    {
+      "plo_id": "PLO-06-04",
+      "plo_text": "Memahami prinsip keamanan siber.",
+      "matched_clo": [
+        {
+          "clo_id": "CLO-JTK-07",
+          "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+          "score": 0.4344,
+          "mata_kuliah": {
+            "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-39",
+          "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+          "score": 0.4122,
+          "mata_kuliah": {
+            "nama": "Pengembangan Perangkat Lunak Berbasis Cloud"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-15",
+          "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+          "score": 0.4044,
+          "mata_kuliah": {
+            "nama": "Komunikasi Data dan Jaringan"
+          }
+        }
+      ]
+    },
+    {
+      "plo_id": "PLO-06-05",
+      "plo_text": "Familiar dengan jaringan berbasis perangkat lunak.",
+      "matched_clo": [
+        {
+          "clo_id": "CLO-JTK-07",
+          "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+          "score": 0.6229,
+          "mata_kuliah": {
+            "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-15",
+          "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+          "score": 0.5719,
+          "mata_kuliah": {
+            "nama": "Komunikasi Data dan Jaringan"
+          }
+        },
+        {
+          "clo_id": "CLO-JTK-19",
+          "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+          "score": 0.5506,
+          "mata_kuliah": {
+            "nama": "Basis Data"
+          }
+        }
+      ]
+    }
+  ],
+  "mata_kuliah": [
+    "Basis Data",
+    "Komunikasi Data dan Jaringan",
+    "Pengantar Sistem Informasi",
+    "Pengantar Teknologi Informasi dan Komunikasi",
+    "Pengembangan Perangkat Lunak Berbasis Cloud",
+    "Pengolahan Citra Digital"
+  ],
+  "meta": {
+    "clo_method_used": "sbert_only",
+    "execution_time_ms": {
+      "occupation_match": 80.5,
+      "skill_lookup": 44.9,
+      "plo_lookup": 0.04,
+      "comparison": 4782.69,
+      "clo_mapping": 18323.6,
+      "cso_topic_matching": 11482
+    }
+  },
+  "errors": []
+},
+"cso_topics": [
+  {
+    "clo_id": "CLO-JTK-07",
+    "mata_kuliah": "Pengantar Teknologi Informasi dan Komunikasi",
+    "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+    "extracted_keywords": [
+      "Teknologi Informasi",
+      "sistem komputer",
+      "perangkat keras",
+      "perangkat lunak",
+      "pemikiran komputasi",
+      "literasi digital",
+      "konsep internet",
+      "pembuatan situs web",
+      "pemrograman game",
+      "algoritma dasar"
+    ],
+    "matched_topics": [
+      {
+        "keyword": "Teknologi Informasi",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_technology",
+        "topic_name": "information technology",
+        "score": 0.9757652878761292
+      },
+      {
+        "keyword": "sistem komputer",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_systems",
+        "topic_name": "computer systems",
+        "score": 0.9655143022537231
+      },
+      {
+        "keyword": "perangkat keras",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_hardware",
+        "topic_name": "hardware",
+        "score": 0.8771588802337646
+      },
+      {
+        "keyword": "perangkat lunak",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+        "topic_name": "software",
+        "score": 0.9492092132568359
+      },
+      {
+        "keyword": "pemikiran komputasi",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/theoretical_computer_science",
+        "topic_name": "theoretical computer science",
+        "score": 0.7686829566955566
+      },
+      {
+        "keyword": "literasi digital",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/digital_libraries",
+        "topic_name": "digital library",
+        "score": 0.7373101711273193
+      },
+      {
+        "keyword": "konsep internet",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/internet",
+        "topic_name": "internet",
+        "score": 0.8796204924583435
+      },
+      {
+        "keyword": "pembuatan situs web",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/web-gis",
+        "topic_name": "web-gis",
+        "score": 0.8580009937286377
+      },
+      {
+        "keyword": "pemrograman game",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/game_development",
+        "topic_name": "game development",
+        "score": 0.8251699209213257
+      },
+      {
+        "keyword": "algoritma dasar",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+        "topic_name": "de algorithms",
+        "score": 0.9216570854187012
+      }
+    ]
+  },
+  {
+    "clo_id": "CLO-JTK-15",
+    "mata_kuliah": "Komunikasi Data dan Jaringan",
+    "clo_text": "Mata kuliah ini mempelajari konsep dari komunikasi data dan jaringan komputer yang mencakup berbagai aspek terkait dengan komunikasi data dan jaringan komputer, dan distrukturkan berdasarkan model komunikasi data berlapis. Dalam hal ini, digunakan model komunikasi data berlapis yang berlaku umum dan telah terimplementasi, yakni model TCP/IP. Setelah mempelajari mata kuliah ini, mahasiswa mampu menjelaskan prinsip?prinsip komunikasi data dan jaringan, mencakup aspek skalabilitas, mobilitas, pengaturan sumber daya, dan keamanan jaringan. Selain itu, mahasiswa mempelajari dasar-dasar dari Operating System.\n\nPerkuliahan ini dilaksanakan dengan metode Seminar dan Student Center Learning juga menggunakan media Hybrid/ Blended Learning. \n\nEvaluasi dilakukan berdasarkan capaian pembelajaran dari setiap bab melalui penugasan individu dan tes.",
+    "extracted_keywords": [
+      "komunikasi data",
+      "jaringan komputer",
+      "model berlapis",
+      "TCP/IP",
+      "skalabilitas jaringan",
+      "mobilitas jaringan",
+      "pengaturan sumber daya",
+      "keamanan jaringan",
+      "sistem operasi"
+    ],
+    "matched_topics": [
+      {
+        "keyword": "komunikasi data",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_communication_systems",
+        "topic_name": "data communication systems",
+        "score": 0.9224190711975098
+      },
+      {
+        "keyword": "jaringan komputer",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_networks",
+        "topic_name": "computer networks",
+        "score": 0.9607381224632263
+      },
+      {
+        "keyword": "model berlapis",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/multi-dimensional_model",
+        "topic_name": "multi-dimensional model",
+        "score": 0.8441634178161621
+      },
+      {
+        "keyword": "TCP/IP",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/tcp_connections",
+        "topic_name": "tcp connections",
+        "score": 0.8331847190856934
+      },
+      {
+        "keyword": "skalabilitas jaringan",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/ubiquitous_networks",
+        "topic_name": "ubiquitous networks",
+        "score": 0.875543475151062
+      },
+      {
+        "keyword": "mobilitas jaringan",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_mobility",
+        "topic_name": "network mobility",
+        "score": 0.9734132289886475
+      },
+      {
+        "keyword": "pengaturan sumber daya",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/resource_provisioning",
+        "topic_name": "resource provisioning",
+        "score": 0.8675409555435181
+      },
+      {
+        "keyword": "keamanan jaringan",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/network_security",
+        "topic_name": "network security",
+        "score": 0.9726908206939697
+      },
+      {
+        "keyword": "sistem operasi",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/operating_systems",
+        "topic_name": "operating systems",
+        "score": 0.9253627061843872
+      }
+    ]
+  },
+  {
+    "clo_id": "CLO-JTK-19",
+    "mata_kuliah": "Basis Data",
+    "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+    "extracted_keywords": [
+      "pemodelan data",
+      "relational data",
+      "perancangan konseptual",
+      "perancangan logikal",
+      "perancangan fisik",
+      "analisis kebutuhan",
+      "dokumen model data",
+      "manipulasi struktur data"
+    ],
+    "matched_topics": [
+      {
+        "keyword": "pemodelan data",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+        "topic_name": "data analytics",
+        "score": 0.8722710013389587
+      },
+      {
+        "keyword": "relational data",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/relational_data_models",
+        "topic_name": "relational data models",
+        "score": 0.8837749361991882
+      },
+      {
+        "keyword": "perancangan konseptual",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/conceptual_design",
+        "topic_name": "conceptual design",
+        "score": 0.8746833205223083
+      },
+      {
+        "keyword": "perancangan logikal",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+        "topic_name": "hoare logic",
+        "score": 0.9051374197006226
+      },
+      {
+        "keyword": "perancangan fisik",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/mechanical_design",
+        "topic_name": "mechanical design",
+        "score": 0.8346822261810303
+      },
+      {
+        "keyword": "analisis kebutuhan",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/requirements_models",
+        "topic_name": "requirements models",
+        "score": 0.8087109327316284
+      },
+      {
+        "keyword": "dokumen model data",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/document_analysis",
+        "topic_name": "document analysis",
+        "score": 0.7346707582473755
+      },
+      {
+        "keyword": "manipulasi struktur data",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+        "topic_name": "concurrent data structures",
+        "score": 0.7543658018112183
+      }
+    ]
+  },
+  {
+    "clo_id": "CLO-JTK-24",
+    "mata_kuliah": "Pengantar Sistem Informasi",
+    "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+    "extracted_keywords": [
+      "sistem informasi",
+      "analisa sistem",
+      "perancangan sistem",
+      "struktur data",
+      "algoritma",
+      "basis data",
+      "rekayasa perangkat lunak",
+      "pemrograman berorientasi objek"
+    ],
+    "matched_topics": [
+      {
+        "keyword": "sistem informasi",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_systems",
+        "topic_name": "information systems",
+        "score": 0.9731357097625732
+      },
+      {
+        "keyword": "analisa sistem",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/mimo_systems",
+        "topic_name": "mimo systems",
+        "score": 0.822050929069519
+      },
+      {
+        "keyword": "perancangan sistem",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/systems_design",
+        "topic_name": "systems design",
+        "score": 0.8621243238449097
+      },
+      {
+        "keyword": "struktur data",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+        "topic_name": "concurrent data structures",
+        "score": 0.779700517654419
+      },
+      {
+        "keyword": "algoritma",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+        "topic_name": "de algorithms",
+        "score": 0.9556723833084106
+      },
+      {
+        "keyword": "basis data",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+        "topic_name": "data analytics",
+        "score": 0.664888858795166
+      },
+      {
+        "keyword": "rekayasa perangkat lunak",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+        "topic_name": "software engineering",
+        "score": 0.8910106420516968
+      },
+      {
+        "keyword": "pemrograman berorientasi objek",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/object_oriented_programming",
+        "topic_name": "object-oriented programming",
+        "score": 0.8333227038383484
+      }
+    ]
+  },
+  {
+    "clo_id": "CLO-JTK-26",
+    "mata_kuliah": "Pengolahan Citra Digital",
+    "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+    "extracted_keywords": [
+      "image processing",
+      "Fourier transform",
+      "convolution filter",
+      "image segmentation",
+      "morphological operations",
+      "histogram manipulation",
+      "noise reduction",
+      "image compression",
+      "Python image manipulation"
+    ],
+    "matched_topics": [
+      {
+        "keyword": "image processing",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_processing",
+        "topic_name": "image processing",
+        "score": 0.9999999403953552
+      },
+      {
+        "keyword": "Fourier transform",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/discrete_hartley_transform",
+        "topic_name": "discrete hartley transform",
+        "score": 0.7304210662841797
+      },
+      {
+        "keyword": "convolution filter",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/kalman_filters",
+        "topic_name": "kalman filters",
+        "score": 0.7344549894332886
+      },
+      {
+        "keyword": "image segmentation",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_segmentation",
+        "topic_name": "image segmentation",
+        "score": 1
+      },
+      {
+        "keyword": "morphological operations",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/morphological_operations",
+        "topic_name": "morphological operations",
+        "score": 1
+      },
+      {
+        "keyword": "histogram manipulation",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/histogram_modification",
+        "topic_name": "histogram modification",
+        "score": 0.8088555335998535
+      },
+      {
+        "keyword": "noise reduction",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/noise_reduction",
+        "topic_name": "noise reductions",
+        "score": 0.9949488639831543
+      },
+      {
+        "keyword": "image compression",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_compression",
+        "topic_name": "image compression",
+        "score": 1
+      }
+    ]
+  },
+  {
+    "clo_id": "CLO-JTK-39",
+    "mata_kuliah": "Pengembangan Perangkat Lunak Berbasis Cloud",
+    "clo_text": "Pada Mata kuliah teori bertujuan memberikan pemahaman komprehensif kepada mahasiswa mengenai konsep komputasi awan. Topik yang dibahas meliputi: pengantar dan konsep dasar komputasi awan; teknologi pemungkin; infrastruktur dan mekanisme; ekosistem dan penyedia layanan; arsitektur; konkurensi, paralel dan sistem terdistribusi; akses dan interkoneksi jaringan; penyimpanan data; aplikasi pendukung; pemanfaatan perangkat keras dan perangkat lunak; pengelolaan dan virtualisasi sumberdaya; dan isu keamanan. Perkuliahan dilaksanakan dengan Metode Project Based Learning. Mahasiswa yang mengikuti mata kuliah ini harus memiliki bekal pemahaman materi struktur data dan algoritma, komunikasi data dan jaringan, pengantar sistem informasi, pengantar rekayasa perangkat lunak, dan pengembangan perangkat lunak berbasis web. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui tugas dan ujian, baik individu maupun kelompok.",
+    "extracted_keywords": [
+      "komputasi awan",
+      "virtualisasi sumberdaya",
+      "arsitektur cloud",
+      "sistem terdistribusi",
+      "keamanan cloud",
+      "infrastruktur jaringan",
+      "penyimpanan data cloud",
+      "paralelisme dan konkurensi"
+    ],
+    "matched_topics": [
+      {
+        "keyword": "komputasi awan",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud_environments",
+        "topic_name": "cloud environments",
+        "score": 0.8310428857803345
+      },
+      {
+        "keyword": "virtualisasi sumberdaya",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/virtualized_resources",
+        "topic_name": "virtualized resources",
+        "score": 0.9372053146362305
+      },
+      {
+        "keyword": "arsitektur cloud",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud-based_architecture",
+        "topic_name": "cloud-based architecture",
+        "score": 0.8103649616241455
+      },
+      {
+        "keyword": "sistem terdistribusi",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/distribution_systems",
+        "topic_name": "distribution systems",
+        "score": 0.9385573863983154
+      },
+      {
+        "keyword": "keamanan cloud",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud_security",
+        "topic_name": "cloud security",
+        "score": 0.9483548402786255
+      },
+      {
+        "keyword": "infrastruktur jaringan",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/physical_network",
+        "topic_name": "physical network",
+        "score": 0.8586196899414062
+      },
+      {
+        "keyword": "penyimpanan data cloud",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/cloud_storage",
+        "topic_name": "cloud storages",
+        "score": 0.917760968208313
+      },
+      {
+        "keyword": "paralelisme dan konkurensi",
+        "topic_uri": "https://cso.kmi.open.ac.uk/topics/parallelism",
+        "topic_name": "parallelism",
+        "score": 0.7566087245941162
+      }
+    ]
+  }
+],
+"cso_errors": []
+}

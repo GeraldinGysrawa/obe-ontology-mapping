@@ -1,0 +1,1786 @@
+{
+  "integration": {
+    "peo": "Software Tester",
+    "occupation": {
+      "uri": "http://data.europa.eu/esco/occupation/106f79e4-6264-45f1-9e7a-297435cd684b",
+      "label": "software tester",
+      "score": 1.0000001192092896
+    },
+    "esco_skills": [
+      {
+        "uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+        "label": "software architecture models",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The set of structures and models needed to understand or describe the software system, including the software elements, the relations between them and the properties of both elements and relations."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/438ff259-d086-4004-acda-1ec3e1631bc6",
+        "label": "software anomalies",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The deviations of what is standard and exceptional events during software system performance, identification of incidents that can alter the flow and the process of system execution."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+        "label": "levels of software testing",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The levels of testing in the software development process, such as unit testing, integration testing, system testing and acceptance testing."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+        "label": "software metrics",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The metrics that measure a characteristic of the software system in order to determine the development of the software and evaluate it."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+        "label": "report test findings",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Report test results with a focus on findings and recommendations, differentiating results by levels of severity. Include relevant information from the test plan and outline the test methodologies, using metrics, tables, and visual methods to clarify where needed."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+        "label": "provide software testing documentation",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Describe software testing procedures to technical team and analysis of test outcomes to users and clients in order to inform them about state and efficiency of software."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+        "label": "perform software unit testing",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Test single units of source code to determine whether or not they are suitable for use by creating short code fragments."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+        "label": "execute software tests",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Perform tests to ensure that a software product will perform flawlessly under the specified customer requirements and identify software defects (bugs) and malfunctions, using specialised software tools and testing techniques."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+        "label": "address problems critically",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Identify the strengths and weaknesses of various abstract, rational concepts, such as issues, opinions, and approaches related to a specific problematic situation in order to formulate solutions and alternative methods of tackling the situation."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/eb3aa8c1-fb14-47b4-a352-b7975abd2480",
+        "label": "replicate customer software issues",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Use specialised tools to replicate and analyse the conditions that caused the set of software states or outputs reported by the customer in order to provide adequate solutions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+        "label": "Haskell",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Haskell."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+        "label": "Erlang",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Erlang."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+        "label": "SAS language",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in SAS language."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+        "label": "Agile project management",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The agile project management approach is a methodology for planning, managing and overseeing of ICT resources in order to meet specific goals and using project management ICT tools."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+        "label": "Ruby (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Ruby."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+        "label": "Common Lisp",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Common Lisp."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+        "label": "Lisp",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Lisp."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+        "label": "Visual Basic",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Visual Basic."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+        "label": "Java (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Java."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+        "label": "MDX",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language MDX is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+        "label": "computer programming",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms (e.g. object oriented programming, functional programming) and of programming languages."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+        "label": "Prolog (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Prolog."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+        "label": "OpenEdge Advanced Business Language",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in OpenEdge Advanced Business Language."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+        "label": "digital systems",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Systems to store, process and spread information in digital form. They are hardware, software and networks, as well as the ways in which these can be employed."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+        "label": "JavaScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in JavaScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+        "label": "XQuery",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language XQuery is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8",
+        "label": "Perl",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Perl."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+        "label": "Smalltalk (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Smalltalk."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+        "label": "PHP",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in PHP."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+        "label": "Assembly (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Assembly."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/484df271-bb52-49f1-8f50-f19624bf4df2",
+        "label": "software components libraries",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The software packages, modules, web services and resources that cover a set of related functions and the databases where these reusable components can be found."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+        "label": "hardware components",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The essential components that make up a hardware system, such as liquid-crystal displays (LCD), camera sensors, microprocessors, memories, modems, batteries and their interconnections."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+        "label": "C#",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in C#."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+        "label": "R",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in R."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+        "label": "Groovy",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Groovy."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+        "label": "ASP.NET",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ASP.NET."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+        "label": "APL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in APL."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+        "label": "SPARQL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language SPARQL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the international standards organisation World Wide Web Consortium."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+        "label": "ICT debugging tools",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The ICT tools used to test and debug programs and software code, such as GNU Debugger (GDB), Intel Debugger (IDB), Microsoft Visual Studio Debugger, Valgrind and WinDbg."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+        "label": "audit techniques",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and methods that support a systematic and independent examination of data, policies, operations and performances using computer-assisted audit tools and techniques (CAATs) such as spreadsheets, databases, statistical analysis and business intelligence software."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+        "label": "tools for ICT test automation",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The specialised software to execute or control tests and compare predicted testing outputs with actual testing results such as Selenium, QTP and LoadRunner."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+        "label": "Microsoft Visual C++",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer program Visual C++ is a suite of software development tools for writing programs, such as compiler, debugger, code editor, code highlights, packaged in a unified user interface. It is developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+        "label": "TypeScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in TypeScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+        "label": "resource description framework query language",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The query languages such as SPARQL which are used to retrieve and manipulate data stored in Resource Description Framework format (RDF)."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+        "label": "CoffeeScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in CoffeeScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+        "label": "Objective-C",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Objective-C."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+        "label": "query languages",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The field of standardised computer languages for retrieval of information from a database and of documents containing the needed information."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+        "label": "ML (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ML."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+        "label": "LDAP",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language LDAP is a query language for retrieval of information from a database and of documents containing the needed information."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+        "label": "AJAX",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in AJAX."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+        "label": "C++",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in C++."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+        "label": "trading software",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The finance and trading integrated software solutions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+        "label": "SAP R3",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in SAP R3."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+        "label": "Swift (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Swift."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+        "label": "ICT project management methodologies",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The methodologies or models for planning, managing and overseeing of ICT resources in order to meet specific goals, such methodologies are Waterfall, Incremental, V-Model, Scrum or Agile and using project management ICT tools."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+        "label": "MATLAB",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in MATLAB."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+        "label": "application usability",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The process through which the learnability, efficiency, usefulness and ease of use of a software application can be defined and measured."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+        "label": "unstructured data",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The information that is not arranged in a pre-defined manner or does not have a pre-defined data model and is difficult to understand and find patterns in without using techniques such as data mining."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+        "label": "LINQ",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language LINQ is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Microsoft."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+        "label": "Python (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Python."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+        "label": "Scratch (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Scratch."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+        "label": "Process-based management",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The process-based management approach is a methodology for planning, managing and overseeing of ICT resources in order to meet specific goals and using project management ICT tools."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+        "label": "lean project management",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The lean project management approach is a methodology for planning, managing and overseeing of ICT resources in order to meet specific goals and using project management ICT tools."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+        "label": "VBScript",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in VBScript."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+        "label": "COBOL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in COBOL."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+        "label": "Pascal (computer programming)",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Pascal."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+        "label": "ABAP",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in ABAP."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+        "label": "ICT performance analysis methods",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The methods used to analyse software, ICT system and network performance which provide guidance to root causes of issues within information systems. The methods can analyse resource bottlenecks, application times, wait latencies and benchmarking results."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+        "label": "N1QL",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The computer language N1QL is a query language for retrieval of information from a database and of documents containing the needed information. It is developed by the software company Couchbase."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+        "label": "Scala",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The techniques and principles of software development, such as analysis, algorithms, coding, testing and compiling of programming paradigms in Scala."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+        "label": "manage schedule of tasks",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Maintain an overview of all the incoming tasks in order to prioritise the tasks, plan their execution, and integrate new tasks as they present themselves."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+        "label": "debug software",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Repair computer code by analysing testing results, locating the defects causing the software to output an incorrect or unexpected result and remove these faults."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+        "label": "plan software testing",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Create and supervise tests plans. Decide on allocation of resources, tools and techniques. Set testing criteria for balancing incurred risks in case of remaining defects, adapt budgets and plan additional costs."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+        "label": "use scripting programming",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Utilise specialised ICT tools to create computer code that is interpreted by the corresponding run-time environments in order to extend applications and automate common computer operations. Use programming languages which support this method such as Unix Shell scripts, JavaScript, Python and Ruby."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+        "label": "develop automated software tests",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Create software test sets in an automated manner, ​using specialised languages or tools, that can be performed by testing tools in order to save resources, gain efficiency and effectiveness in test execution."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+        "label": "develop ICT test suite",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Create a series of test cases to check software behaviour versus specifications. These test cases are then to be used during subsequent testing."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+        "label": "conduct ICT code review",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Examine and review systematically computer source code to identify errors in any stage of development and to improve the overall software quality."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+        "label": "measure software usability",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Check the convenience of the software product for the end user. Identify user problems and make adjustments to improve usability practice. Collect input data on how users evaluate software products."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+        "label": "execute integration testing",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Perform testing of system or software components grouped in multiple ways to evaluate their ability to interconnect, their interface and their ability to provide global functionality."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+        "label": "perform software recovery testing",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Execute testing using specialised software tools to force failure of software in a variety of ways and checking how fast and better the software can recover against any type of crash or failure."
+      }
+    ],
+    "plo_jtk": [
+      {
+        "plo_id": "PLO-03-01",
+        "plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "peo_id": "PEO-03"
+      },
+      {
+        "plo_id": "PLO-03-02",
+        "plo_text": "Familiar dengan alat pengujian (contoh: Selenium, JIRA).",
+        "peo_id": "PEO-03"
+      },
+      {
+        "plo_id": "PLO-03-03",
+        "plo_text": "Memahami SDLC dan STLC.",
+        "peo_id": "PEO-03"
+      },
+      {
+        "plo_id": "PLO-03-04",
+        "plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "peo_id": "PEO-03"
+      },
+      {
+        "plo_id": "PLO-03-05",
+        "plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "peo_id": "PEO-03"
+      },
+      {
+        "plo_id": "PLO-03-06",
+        "plo_text": "Pengetahuan pengujian otomatis",
+        "peo_id": "PEO-03"
+      }
+    ],
+    "covered": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/438ff259-d086-4004-acda-1ec3e1631bc6",
+        "esco_skill_label": "software anomalies",
+        "matched_plo_id": "PLO-03-05",
+        "matched_plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "similarity_score": 0.4174
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d",
+        "esco_skill_label": "levels of software testing",
+        "matched_plo_id": "PLO-03-04",
+        "matched_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "similarity_score": 0.4656
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93",
+        "esco_skill_label": "report test findings",
+        "matched_plo_id": "PLO-03-04",
+        "matched_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "similarity_score": 0.4328
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/78a74fd1-efc6-49dc-adb1-1b0fbe35c22c",
+        "esco_skill_label": "provide software testing documentation",
+        "matched_plo_id": "PLO-03-06",
+        "matched_plo_text": "Pengetahuan pengujian otomatis",
+        "similarity_score": 0.5228
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7961413f-61d0-4722-9cd9-20a050a29899",
+        "esco_skill_label": "perform software unit testing",
+        "matched_plo_id": "PLO-03-04",
+        "matched_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "similarity_score": 0.4554
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a",
+        "esco_skill_label": "execute software tests",
+        "matched_plo_id": "PLO-03-01",
+        "matched_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "similarity_score": 0.5495
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b",
+        "esco_skill_label": "R",
+        "matched_plo_id": "PLO-03-03",
+        "matched_plo_text": "Memahami SDLC dan STLC.",
+        "similarity_score": 0.4295
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e",
+        "esco_skill_label": "APL",
+        "matched_plo_id": "PLO-03-03",
+        "matched_plo_text": "Memahami SDLC dan STLC.",
+        "similarity_score": 0.4258
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2",
+        "esco_skill_label": "audit techniques",
+        "matched_plo_id": "PLO-03-06",
+        "matched_plo_text": "Pengetahuan pengujian otomatis",
+        "similarity_score": 0.43
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f",
+        "esco_skill_label": "tools for ICT test automation",
+        "matched_plo_id": "PLO-03-06",
+        "matched_plo_text": "Pengetahuan pengujian otomatis",
+        "similarity_score": 0.5881
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f",
+        "esco_skill_label": "C++",
+        "matched_plo_id": "PLO-03-03",
+        "matched_plo_text": "Memahami SDLC dan STLC.",
+        "similarity_score": 0.4189
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/dcdd5ddf-82a6-4ac3-8edc-d4b23cae9a88",
+        "esco_skill_label": "VBScript",
+        "matched_plo_id": "PLO-03-03",
+        "matched_plo_text": "Memahami SDLC dan STLC.",
+        "similarity_score": 0.4253
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/def007fa-5fed-4a5f-91a2-b0d7e3db1be1",
+        "esco_skill_label": "COBOL",
+        "matched_plo_id": "PLO-03-03",
+        "matched_plo_text": "Memahami SDLC dan STLC.",
+        "similarity_score": 0.4066
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e8b89eb6-51e8-4c3a-babb-88b2e110376b",
+        "esco_skill_label": "Pascal (computer programming)",
+        "matched_plo_id": "PLO-03-03",
+        "matched_plo_text": "Memahami SDLC dan STLC.",
+        "similarity_score": 0.4359
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+        "esco_skill_label": "plan software testing",
+        "matched_plo_id": "PLO-03-01",
+        "matched_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "similarity_score": 0.5385
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73",
+        "esco_skill_label": "develop automated software tests",
+        "matched_plo_id": "PLO-03-06",
+        "matched_plo_text": "Pengetahuan pengujian otomatis",
+        "similarity_score": 0.55
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639",
+        "esco_skill_label": "develop ICT test suite",
+        "matched_plo_id": "PLO-03-04",
+        "matched_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "similarity_score": 0.5439
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+        "esco_skill_label": "conduct ICT code review",
+        "matched_plo_id": "PLO-03-06",
+        "matched_plo_text": "Pengetahuan pengujian otomatis",
+        "similarity_score": 0.4091
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ea412de3-9d7a-4943-8d8c-c6d3c7495d0e",
+        "esco_skill_label": "execute integration testing",
+        "matched_plo_id": "PLO-03-01",
+        "matched_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "similarity_score": 0.4851
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ff25cbf0-6978-4c4c-887e-d4b185410d74",
+        "esco_skill_label": "perform software recovery testing",
+        "matched_plo_id": "PLO-03-04",
+        "matched_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "similarity_score": 0.4944
+      }
+    ],
+    "gap": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2450c3b3-e78e-435b-b84d-e05d984e71dc",
+        "esco_skill_label": "software architecture models",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2879
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/fb7aee4d-f6c6-4a87-8e9d-8e542b3771f8",
+        "esco_skill_label": "software metrics",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3115
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b9f16465-56a9-426b-a047-0f9f1f95ec92",
+        "esco_skill_label": "address problems critically",
+        "best_plo_id": "PLO-03-04",
+        "best_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "best_similarity_score": 0.3226
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/eb3aa8c1-fb14-47b4-a352-b7975abd2480",
+        "esco_skill_label": "replicate customer software issues",
+        "best_plo_id": "PLO-03-05",
+        "best_plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "best_similarity_score": 0.3845
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/000f1d3d-220f-4789-9c0a-cc742521fb02",
+        "esco_skill_label": "Haskell",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3735
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/034c29fa-c3ba-45ea-b8f3-bf8e3705e386",
+        "esco_skill_label": "Erlang",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3311
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93",
+        "esco_skill_label": "SAS language",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3229
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4",
+        "esco_skill_label": "Agile project management",
+        "best_plo_id": "PLO-03-05",
+        "best_plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "best_similarity_score": 0.2645
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0ccdfe98-f845-4598-84a1-3dca66e9d9a3",
+        "esco_skill_label": "Ruby (computer programming)",
+        "best_plo_id": "PLO-03-06",
+        "best_plo_text": "Pengetahuan pengujian otomatis",
+        "best_similarity_score": 0.2633
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0cd6dcf1-5778-42a5-b685-4d01ae4a4871",
+        "esco_skill_label": "Common Lisp",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3536
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0de61385-de6d-4146-ba32-1cc1bc102220",
+        "esco_skill_label": "Lisp",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3501
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/13bdd41a-2a18-441f-96db-41252c519413",
+        "esco_skill_label": "Visual Basic",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3617
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389",
+        "esco_skill_label": "Java (computer programming)",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.2567
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/1b7c716e-af95-4cda-a42f-6479c8b139f5",
+        "esco_skill_label": "MDX",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2431
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97",
+        "esco_skill_label": "computer programming",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3355
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2bde42ae-e776-41c1-9ded-b07b30bfe985",
+        "esco_skill_label": "Prolog (computer programming)",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3331
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954",
+        "esco_skill_label": "OpenEdge Advanced Business Language",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3245
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb",
+        "esco_skill_label": "digital systems",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3041
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7",
+        "esco_skill_label": "JavaScript",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.3221
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3f4dab51-572b-4e2c-85ef-3b4c3f7094e1",
+        "esco_skill_label": "XQuery",
+        "best_plo_id": "PLO-03-06",
+        "best_plo_text": "Pengetahuan pengujian otomatis",
+        "best_similarity_score": 0.2912
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8",
+        "esco_skill_label": "Perl",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3053
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/42ed3bfb-1a01-4c8b-9758-fc6438865734",
+        "esco_skill_label": "Smalltalk (computer programming)",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2947
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4350c38d-0fe9-4ca7-bab9-40ed7f72b04f",
+        "esco_skill_label": "PHP",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2906
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/47b9bbcf-356c-4782-83a4-7f5a1b2b51a3",
+        "esco_skill_label": "Assembly (computer programming)",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.3371
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/484df271-bb52-49f1-8f50-f19624bf4df2",
+        "esco_skill_label": "software components libraries",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2856
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4b51e76e-9e8a-455f-a289-5b48246345c4",
+        "esco_skill_label": "hardware components",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.2501
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4c016b68-4116-468c-9dc6-42710c239e4a",
+        "esco_skill_label": "C#",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3604
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/52cf3037-ab53-4806-85ed-7fd21ea7f6a1",
+        "esco_skill_label": "Groovy",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3525
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/56a7f561-1d55-43c9-9cd7-36a0a9bc6c50",
+        "esco_skill_label": "ASP.NET",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3046
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5da8018b-ae85-4cde-ad93-0394369018f3",
+        "esco_skill_label": "SPARQL",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2483
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6014921e-1d25-4039-adc2-04852d61880e",
+        "esco_skill_label": "ICT debugging tools",
+        "best_plo_id": "PLO-03-06",
+        "best_plo_text": "Pengetahuan pengujian otomatis",
+        "best_similarity_score": 0.2853
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259",
+        "esco_skill_label": "Microsoft Visual C++",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3193
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/867137fb-ff1b-4ca3-99f3-cb6969aa2c68",
+        "esco_skill_label": "TypeScript",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3113
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/99207709-d076-4cce-ba38-e90d3bb28806",
+        "esco_skill_label": "resource description framework query language",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2244
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/993b1e23-f2de-4bd8-b33f-f86dde1c8e9d",
+        "esco_skill_label": "CoffeeScript",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.2924
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9973a5a2-7822-4161-99e9-95c781eb63f8",
+        "esco_skill_label": "Objective-C",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3292
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586",
+        "esco_skill_label": "query languages",
+        "best_plo_id": "PLO-03-06",
+        "best_plo_text": "Pengetahuan pengujian otomatis",
+        "best_similarity_score": 0.3753
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/a4d336a6-9ffd-402a-91cc-f359716ba4e0",
+        "esco_skill_label": "ML (computer programming)",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3188
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/a57a54b6-2f2e-43e4-9621-b52f4a63cb08",
+        "esco_skill_label": "LDAP",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3397
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b4dc6e4f-dc7d-445f-8ce2-d7b9d225e282",
+        "esco_skill_label": "AJAX",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.3294
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ba1b0441-a6b8-4e57-8ccc-871012f63e42",
+        "esco_skill_label": "trading software",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3608
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/bb99af26-71ff-4dca-bde7-1eb1f6194426",
+        "esco_skill_label": "SAP R3",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3234
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/be80acfc-b6f2-4411-9b8d-b19d9cd2556a",
+        "esco_skill_label": "Swift (computer programming)",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3191
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9",
+        "esco_skill_label": "ICT project management methodologies",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.3282
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d",
+        "esco_skill_label": "MATLAB",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3315
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c4b626c1-e71c-44ec-9f88-042766f37fcc",
+        "esco_skill_label": "application usability",
+        "best_plo_id": "PLO-03-04",
+        "best_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "best_similarity_score": 0.387
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666",
+        "esco_skill_label": "unstructured data",
+        "best_plo_id": "PLO-03-04",
+        "best_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "best_similarity_score": 0.3498
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c7d24594-0c11-4b27-9039-fe0bb903da8e",
+        "esco_skill_label": "LINQ",
+        "best_plo_id": "PLO-03-06",
+        "best_plo_text": "Pengetahuan pengujian otomatis",
+        "best_similarity_score": 0.2701
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d",
+        "esco_skill_label": "Python (computer programming)",
+        "best_plo_id": "PLO-03-04",
+        "best_plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "best_similarity_score": 0.306
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d56fc2b5-4b0a-4e7e-9bde-a33736f6ff18",
+        "esco_skill_label": "Scratch (computer programming)",
+        "best_plo_id": "PLO-03-06",
+        "best_plo_text": "Pengetahuan pengujian otomatis",
+        "best_similarity_score": 0.3447
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679",
+        "esco_skill_label": "Process-based management",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.3321
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e",
+        "esco_skill_label": "lean project management",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.2645
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/eb0e5615-1575-4a86-a1a2-7d39595033c5",
+        "esco_skill_label": "ABAP",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.3368
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3",
+        "esco_skill_label": "ICT performance analysis methods",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.3377
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/f597f772-24d3-4cec-813c-cf5a7027c794",
+        "esco_skill_label": "N1QL",
+        "best_plo_id": "PLO-03-06",
+        "best_plo_text": "Pengetahuan pengujian otomatis",
+        "best_similarity_score": 0.2936
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6",
+        "esco_skill_label": "Scala",
+        "best_plo_id": "PLO-03-03",
+        "best_plo_text": "Memahami SDLC dan STLC.",
+        "best_similarity_score": 0.292
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5",
+        "esco_skill_label": "manage schedule of tasks",
+        "best_plo_id": "PLO-03-05",
+        "best_plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "best_similarity_score": 0.3223
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1",
+        "esco_skill_label": "debug software",
+        "best_plo_id": "PLO-03-05",
+        "best_plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "best_similarity_score": 0.3885
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333",
+        "esco_skill_label": "use scripting programming",
+        "best_plo_id": "PLO-03-01",
+        "best_plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "best_similarity_score": 0.3655
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6",
+        "esco_skill_label": "measure software usability",
+        "best_plo_id": "PLO-03-05",
+        "best_plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "best_similarity_score": 0.3956
+      }
+    ],
+    "overskill": [],
+    "clo": [
+      {
+        "plo_id": "PLO-03-01",
+        "plo_text": "Kemampuan merancang dan menjalankan test case.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-20",
+            "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+            "score": 0.518,
+            "mata_kuliah": {
+              "nama": "Pengantar Rekayasa Perangkat Lunak"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.4907,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-40",
+            "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+            "score": 0.464,
+            "mata_kuliah": {
+              "nama": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-03-02",
+        "plo_text": "Familiar dengan alat pengujian (contoh: Selenium, JIRA).",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-24",
+            "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+            "score": 0.2563,
+            "mata_kuliah": {
+              "nama": "Pengantar Sistem Informasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-40",
+            "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+            "score": 0.2478,
+            "mata_kuliah": {
+              "nama": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-27",
+            "clo_text": "Mata kuliah Komputasi Numerik ini dirancang untuk memberikan pemahaman tentang konsep dasar metode numerik dan  penerapannya  dalam  menyelesaikan  permasalahan  matematika  dengan  bantuan  komputer.  Melalui  pemaparan  materi  dan  praktik  menggunakan  MATLAB,  mahasiswa  akan  mempelajari  berbagai  metode  numerik  untuk  menyelesaikan  persamaan,  mencari  akar,  melakukan  interpolasi,  integrasi,  dan  turunan  numerik,  serta  mengenal  konsep  neural network  dan  deep learning.\n\nSelama perkuliahan, mahasiswa akan mengeksplorasi:\n\n- Konsep Dasar Metode Numerik: Pengertian metode numerik, jenis-jenis metode numerik, dan pentingnya metode numerik dalam menyelesaikan permasalahan di berbagai bidang.\n- Galat: Jenis-jenis galat, sumber galat, dan cara menghitung galat.\n- Metode Penyelesaian Persamaan Non-Linier:\n  * Metode tertutup (metode grafik, metode bagi dua, metode posisi palsu).\n  * Metode terbuka (metode Newton-Raphson, metode secant).\n- Dasar-Dasar MATLAB: Pengenalan lingkungan MATLAB, sintaks dasar, variabel, operator, dan fungsi-fungsi built-in.\n- Penyelesaian Persamaan Linier: Eliminasi Gauss Jordan, Gauss Seidel, dan metode LU Dekomposisi.\n- Interpolasi: Interpolasi linier, interpolasi kuadratik, dan interpolasi Newton.\n- Integrasi Numerik: Aturan Trapesium dan aturan Simpson.\n- Turunan Numerik: Metode beda hingga.\n- Neural Network dan Deep Learning: Pengenalan konsep dasar neural network dan deep learning.\n\nDengan  menekankan  pada  pemahaman  konsep,  penerapan  metode  numerik,  dan  penggunaan  MATLAB,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  keterampilan  yang  diperlukan  untuk  menyelesaikan  permasalahan  di  bidang  sains  dan  teknik  dengan  menggunakan  pendekatan  komputasi.",
+            "score": 0.2391,
+            "mata_kuliah": {
+              "nama": "Komputasi Numerik"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-03-03",
+        "plo_text": "Memahami SDLC dan STLC.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5393,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-40",
+            "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+            "score": 0.5024,
+            "mata_kuliah": {
+              "nama": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-24",
+            "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+            "score": 0.5004,
+            "mata_kuliah": {
+              "nama": "Pengantar Sistem Informasi"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-03-04",
+        "plo_text": "Melakukan pengujian fungsional dan non-fungsional.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.3933,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-12",
+            "clo_text": "Perkembangan TI sangatlah cepat dan masih akan tetap seperti itu untuk masa-masa mendatang. Untuk mengimbangi perkembangan tersebut perlu suatu cara baru memrogram untuk dapat mengisi keterbatasan cognitive manusia. Komputasi Kognitif berupaya meniru proses yang dilalui otak manusia. Mata Kuliah ini akan mencakup bagaimana manusia belajar menangani informasi yang sudah dimiliki maupun berasal dari lingkungannya/sekitarnya. Topik yang dicakup antara lain konsep belajar, berpikir kritis, berpikir kreatif, dan problem solving.",
+            "score": 0.3863,
+            "mata_kuliah": {
+              "nama": "Komputasi Kognitif"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-40",
+            "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+            "score": 0.3781,
+            "mata_kuliah": {
+              "nama": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-03-05",
+        "plo_text": "Kemampuan melaporkan dan melacak bug.",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.3882,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-24",
+            "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+            "score": 0.3513,
+            "mata_kuliah": {
+              "nama": "Pengantar Sistem Informasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-20",
+            "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+            "score": 0.3383,
+            "mata_kuliah": {
+              "nama": "Pengantar Rekayasa Perangkat Lunak"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-03-06",
+        "plo_text": "Pengetahuan pengujian otomatis",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-24",
+            "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+            "score": 0.5349,
+            "mata_kuliah": {
+              "nama": "Pengantar Sistem Informasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-28",
+            "clo_text": "Mata kuliah Statistika dan Probabilitas ini dirancang untuk memberikan pemahaman yang komprehensif tentang konsep dan metode statistika serta probabilitas, dan  cara  menerapkannya  dalam  pemecahan  masalah  di  berbagai  bidang.  Fokus  utamanya  adalah  pada  penerapan  statistika  deskriptif,  probabilitas,  distribusi  peluang,  regresi  linear,  dan  time series  untuk  menganalisis  data  dan  menarik  kesimpulan.\n\nMelalui  berbagai  aktivitas  pembelajaran  seperti  kuliah,  tutorial,  seminar,  studi  kasus,  dan  belajar  mandiri,  mahasiswa  akan  mempelajari:\n\n- Statistika Deskriptif: Pengolahan data tersebar dan berkelompok, ukuran gejala pusat, ukuran relatif, macam-macam grafik, dan interpretasinya.\n- Probabilitas: Peluang biasa dan peluang bersyarat, aturan pencacahan, dan studi kasus probabilitas.\n- Distribusi Peluang: Distribusi peluang diskrit (Binomial, Poisson), fungsi densitas peluang, distribusi peluang kontinu (Uniform, Normal, Normal Standar, Student t, Chi-Square), dan penerapannya.\n- Regresi Linear dan Korelasi: Model regresi linear sederhana, korelasi, koefisien determinasi, dan interpretasinya.\n- Time Series: Pola time series (trend, seasonal, siklik, irregular), metode penghalusan data (rata-rata bergerak), dan prediksi.\nPenilaian  akan  dilakukan  berdasarkan  minimal  3  macam  hasil  uji  (tugas  kecil/besar,  ETS,  EAS)  yang  merepresentasikan  capaian  pembelajaran.  Melalui  matakuliah  ini,  mahasiswa  diharapkan  memiliki  fondasi  yang  kuat  dalam  statistika  dan  probabilitas  dan  siap  menerapkannya  dalam  studi  lanjut  dan  karir  di  berbagai  bidang.",
+            "score": 0.4786,
+            "mata_kuliah": {
+              "nama": "Statistika dan Probabilitas"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.4715,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          }
+        ]
+      }
+    ],
+    "mata_kuliah": [
+      "Basis Data",
+      "Komputasi Kognitif",
+      "Komputasi Numerik",
+      "Pengantar Rekayasa Perangkat Lunak",
+      "Pengantar Sistem Informasi",
+      "Statistika dan Probabilitas",
+      "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+    ],
+    "meta": {
+      "clo_method_used": "sbert_only",
+      "execution_time_ms": {
+        "occupation_match": 87.91,
+        "skill_lookup": 45.67,
+        "plo_lookup": 0.05,
+        "comparison": 4001.65,
+        "clo_mapping": 21199.09,
+        "cso_topic_matching": 13383.89
+      }
+    },
+    "errors": []
+  },
+  "cso_topics": [
+    {
+      "clo_id": "CLO-JTK-12",
+      "mata_kuliah": "Komputasi Kognitif",
+      "clo_text": "Perkembangan TI sangatlah cepat dan masih akan tetap seperti itu untuk masa-masa mendatang. Untuk mengimbangi perkembangan tersebut perlu suatu cara baru memrogram untuk dapat mengisi keterbatasan cognitive manusia. Komputasi Kognitif berupaya meniru proses yang dilalui otak manusia. Mata Kuliah ini akan mencakup bagaimana manusia belajar menangani informasi yang sudah dimiliki maupun berasal dari lingkungannya/sekitarnya. Topik yang dicakup antara lain konsep belajar, berpikir kritis, berpikir kreatif, dan problem solving.",
+      "extracted_keywords": [
+        "komputasi kognitif",
+        "belajar konsep",
+        "berpikir kritis",
+        "berpikir kreatif",
+        "problem solving",
+        "pemrosesan informasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komputasi kognitif",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cognitive_informatics",
+          "topic_name": "cognitive informatics",
+          "score": 0.9294564723968506
+        },
+        {
+          "keyword": "belajar konsep",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/adaboost_learning",
+          "topic_name": "adaboost learning",
+          "score": 0.7782180905342102
+        },
+        {
+          "keyword": "berpikir kritis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/esprit",
+          "topic_name": "esprit",
+          "score": 0.7010788917541504
+        },
+        {
+          "keyword": "berpikir kreatif",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/creative_design",
+          "topic_name": "creative design",
+          "score": 0.7958323955535889
+        },
+        {
+          "keyword": "problem solving",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/solution_concepts",
+          "topic_name": "solution concepts",
+          "score": 0.7282472252845764
+        },
+        {
+          "keyword": "pemrosesan informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_dissemination",
+          "topic_name": "information dissemination",
+          "score": 0.8868470191955566
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-19",
+      "mata_kuliah": "Basis Data",
+      "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+      "extracted_keywords": [
+        "pemodelan data",
+        "relational data",
+        "model konseptual",
+        "model logikal",
+        "model fisik",
+        "alat pemodelan",
+        "analisis kebutuhan",
+        "perancangan terstruktur"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pemodelan data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.8722710013389587
+        },
+        {
+          "keyword": "relational data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/relational_data_models",
+          "topic_name": "relational data models",
+          "score": 0.8837749361991882
+        },
+        {
+          "keyword": "model konseptual",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/formal_modeling",
+          "topic_name": "formal modelling",
+          "score": 0.8343625068664551
+        },
+        {
+          "keyword": "model logikal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.8260248899459839
+        },
+        {
+          "keyword": "model fisik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/motion_models",
+          "topic_name": "motion models",
+          "score": 0.7455786466598511
+        },
+        {
+          "keyword": "alat pemodelan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/globus_toolkit",
+          "topic_name": "globus toolkit",
+          "score": 0.7783831357955933
+        },
+        {
+          "keyword": "analisis kebutuhan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/requirements_models",
+          "topic_name": "requirements models",
+          "score": 0.8087109327316284
+        },
+        {
+          "keyword": "perancangan terstruktur",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/engineering_structures",
+          "topic_name": "engineering structures",
+          "score": 0.8582732677459717
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-20",
+      "mata_kuliah": "Pengantar Rekayasa Perangkat Lunak",
+      "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+      "extracted_keywords": [
+        "analisis perangkat lunak",
+        "perancangan perangkat lunak",
+        "implementasi perangkat lunak",
+        "pengujian perangkat lunak",
+        "pemeliharaan perangkat lunak",
+        "kualitas perangkat lunak",
+        "CASE tools",
+        "dokumentasi teknis"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "analisis perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8345566987991333
+        },
+        {
+          "keyword": "implementasi perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.8520048260688782
+        },
+        {
+          "keyword": "pengujian perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_model_checking",
+          "topic_name": "software model checking",
+          "score": 0.7770556211471558
+        },
+        {
+          "keyword": "kualitas perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_quality",
+          "topic_name": "software quality",
+          "score": 0.9616149663925171
+        },
+        {
+          "keyword": "CASE tools",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/case_representation",
+          "topic_name": "case representation",
+          "score": 0.7704617381095886
+        },
+        {
+          "keyword": "dokumentasi teknis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/technical_analysis",
+          "topic_name": "technical analysis",
+          "score": 0.7946694493293762
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-24",
+      "mata_kuliah": "Pengantar Sistem Informasi",
+      "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+      "extracted_keywords": [
+        "sistem informasi",
+        "analisa sistem informasi",
+        "perancangan sistem informasi",
+        "struktur data",
+        "algoritma",
+        "basis data",
+        "rekayasa perangkat lunak",
+        "pemrograman berorientasi objek"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "sistem informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_systems",
+          "topic_name": "information systems",
+          "score": 0.9731357097625732
+        },
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        },
+        {
+          "keyword": "algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9556723833084106
+        },
+        {
+          "keyword": "basis data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.664888858795166
+        },
+        {
+          "keyword": "rekayasa perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8910106420516968
+        },
+        {
+          "keyword": "pemrograman berorientasi objek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/object_oriented_programming",
+          "topic_name": "object-oriented programming",
+          "score": 0.8333227038383484
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-27",
+      "mata_kuliah": "Komputasi Numerik",
+      "clo_text": "Mata kuliah Komputasi Numerik ini dirancang untuk memberikan pemahaman tentang konsep dasar metode numerik dan  penerapannya  dalam  menyelesaikan  permasalahan  matematika  dengan  bantuan  komputer.  Melalui  pemaparan  materi  dan  praktik  menggunakan  MATLAB,  mahasiswa  akan  mempelajari  berbagai  metode  numerik  untuk  menyelesaikan  persamaan,  mencari  akar,  melakukan  interpolasi,  integrasi,  dan  turunan  numerik,  serta  mengenal  konsep  neural network  dan  deep learning.\n\nSelama perkuliahan, mahasiswa akan mengeksplorasi:\n\n- Konsep Dasar Metode Numerik: Pengertian metode numerik, jenis-jenis metode numerik, dan pentingnya metode numerik dalam menyelesaikan permasalahan di berbagai bidang.\n- Galat: Jenis-jenis galat, sumber galat, dan cara menghitung galat.\n- Metode Penyelesaian Persamaan Non-Linier:\n  * Metode tertutup (metode grafik, metode bagi dua, metode posisi palsu).\n  * Metode terbuka (metode Newton-Raphson, metode secant).\n- Dasar-Dasar MATLAB: Pengenalan lingkungan MATLAB, sintaks dasar, variabel, operator, dan fungsi-fungsi built-in.\n- Penyelesaian Persamaan Linier: Eliminasi Gauss Jordan, Gauss Seidel, dan metode LU Dekomposisi.\n- Interpolasi: Interpolasi linier, interpolasi kuadratik, dan interpolasi Newton.\n- Integrasi Numerik: Aturan Trapesium dan aturan Simpson.\n- Turunan Numerik: Metode beda hingga.\n- Neural Network dan Deep Learning: Pengenalan konsep dasar neural network dan deep learning.\n\nDengan  menekankan  pada  pemahaman  konsep,  penerapan  metode  numerik,  dan  penggunaan  MATLAB,  mata  kuliah  ini  bertujuan  untuk  membekali  mahasiswa  dengan  keterampilan  yang  diperlukan  untuk  menyelesaikan  permasalahan  di  bidang  sains  dan  teknik  dengan  menggunakan  pendekatan  komputasi.",
+      "extracted_keywords": [
+        "metode numerik",
+        "MATLAB",
+        "persamaan non-linier",
+        "interpolasi numerik",
+        "integrasi numerik",
+        "turunan numerik",
+        "neural network",
+        "deep learning"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "metode numerik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/numerical_methods",
+          "topic_name": "numerical methods",
+          "score": 0.9385895133018494
+        },
+        {
+          "keyword": "MATLAB",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/matlab-simulink",
+          "topic_name": "matlab-simulink",
+          "score": 0.8700002431869507
+        },
+        {
+          "keyword": "persamaan non-linier",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/non-coherent",
+          "topic_name": "non-coherent",
+          "score": 0.7321473360061646
+        },
+        {
+          "keyword": "interpolasi numerik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/interpolation_algorithms",
+          "topic_name": "interpolation algorithms",
+          "score": 0.7765493392944336
+        },
+        {
+          "keyword": "integrasi numerik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/numerical_integrations",
+          "topic_name": "numerical integrations",
+          "score": 0.904427170753479
+        },
+        {
+          "keyword": "turunan numerik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mathematics",
+          "topic_name": "mathematics",
+          "score": 0.8243337273597717
+        },
+        {
+          "keyword": "neural network",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/neural_networks",
+          "topic_name": "neural networks",
+          "score": 0.9821497201919556
+        },
+        {
+          "keyword": "deep learning",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/deep_learning",
+          "topic_name": "deep learning",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-28",
+      "mata_kuliah": "Statistika dan Probabilitas",
+      "clo_text": "Mata kuliah Statistika dan Probabilitas ini dirancang untuk memberikan pemahaman yang komprehensif tentang konsep dan metode statistika serta probabilitas, dan  cara  menerapkannya  dalam  pemecahan  masalah  di  berbagai  bidang.  Fokus  utamanya  adalah  pada  penerapan  statistika  deskriptif,  probabilitas,  distribusi  peluang,  regresi  linear,  dan  time series  untuk  menganalisis  data  dan  menarik  kesimpulan.\n\nMelalui  berbagai  aktivitas  pembelajaran  seperti  kuliah,  tutorial,  seminar,  studi  kasus,  dan  belajar  mandiri,  mahasiswa  akan  mempelajari:\n\n- Statistika Deskriptif: Pengolahan data tersebar dan berkelompok, ukuran gejala pusat, ukuran relatif, macam-macam grafik, dan interpretasinya.\n- Probabilitas: Peluang biasa dan peluang bersyarat, aturan pencacahan, dan studi kasus probabilitas.\n- Distribusi Peluang: Distribusi peluang diskrit (Binomial, Poisson), fungsi densitas peluang, distribusi peluang kontinu (Uniform, Normal, Normal Standar, Student t, Chi-Square), dan penerapannya.\n- Regresi Linear dan Korelasi: Model regresi linear sederhana, korelasi, koefisien determinasi, dan interpretasinya.\n- Time Series: Pola time series (trend, seasonal, siklik, irregular), metode penghalusan data (rata-rata bergerak), dan prediksi.\nPenilaian  akan  dilakukan  berdasarkan  minimal  3  macam  hasil  uji  (tugas  kecil/besar,  ETS,  EAS)  yang  merepresentasikan  capaian  pembelajaran.  Melalui  matakuliah  ini,  mahasiswa  diharapkan  memiliki  fondasi  yang  kuat  dalam  statistika  dan  probabilitas  dan  siap  menerapkannya  dalam  studi  lanjut  dan  karir  di  berbagai  bidang.",
+      "extracted_keywords": [
+        "statistika deskriptif",
+        "probabilitas",
+        "distribusi peluang",
+        "regresi linear",
+        "korelasi",
+        "time series",
+        "analisis data",
+        "prediksi time series"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "statistika deskriptif",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/correlation_analysis",
+          "topic_name": "statistics",
+          "score": 0.8937767744064331
+        },
+        {
+          "keyword": "probabilitas",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/probability",
+          "topic_name": "probability",
+          "score": 0.9784716367721558
+        },
+        {
+          "keyword": "distribusi peluang",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/probability_distributions",
+          "topic_name": "probability distributions",
+          "score": 0.7472388744354248
+        },
+        {
+          "keyword": "regresi linear",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/linear_models",
+          "topic_name": "linear model",
+          "score": 0.8590351939201355
+        },
+        {
+          "keyword": "korelasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/japanese",
+          "topic_name": "japanese",
+          "score": 0.7631153464317322
+        },
+        {
+          "keyword": "time series",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/time_variations",
+          "topic_name": "time variations",
+          "score": 0.8169078826904297
+        },
+        {
+          "keyword": "analisis data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.8460279703140259
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-40",
+      "mata_kuliah": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi",
+      "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+      "extracted_keywords": [
+        "penulisan karya ilmiah",
+        "metodologi penelitian",
+        "penyusunan proposal TA",
+        "struktur proposal",
+        "aturan institusi",
+        "penulisan teknis",
+        "pengembangan perangkat lunak",
+        "dokumentasi aplikasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "penulisan karya ilmiah",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/human_sciences",
+          "topic_name": "human sciences",
+          "score": 0.7348586320877075
+        },
+        {
+          "keyword": "metodologi penelitian",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/research_support",
+          "topic_name": "research support",
+          "score": 0.826972246170044
+        },
+        {
+          "keyword": "penyusunan proposal TA",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/proposal_distribution",
+          "topic_name": "proposal distribution",
+          "score": 0.7210754156112671
+        },
+        {
+          "keyword": "struktur proposal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/proposed_architectures",
+          "topic_name": "proposed architectures",
+          "score": 0.7950432300567627
+        },
+        {
+          "keyword": "aturan institusi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/rule_basis",
+          "topic_name": "rule basis",
+          "score": 0.6803001165390015
+        },
+        {
+          "keyword": "penulisan teknis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/technical_analysis",
+          "topic_name": "technical analysis",
+          "score": 0.7063615322113037
+        },
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "dokumentasi aplikasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/program_documentation",
+          "topic_name": "program documentation",
+          "score": 0.8182790279388428
+        }
+      ]
+    }
+  ],
+  "cso_errors": []
+}

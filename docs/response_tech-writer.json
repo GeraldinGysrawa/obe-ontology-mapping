@@ -1,0 +1,1576 @@
+{
+  "integration": {
+    "peo": "Technical Writter",
+    "occupation": {
+      "uri": "http://data.europa.eu/esco/occupation/a9bcc9e0-5be7-47a0-818b-acad10fe90d9",
+      "label": "physics technician",
+      "score": 0.6613756418228149
+    },
+    "esco_skills": [
+      {
+        "uri": "http://data.europa.eu/esco/skill/692ace70-7f97-4214-92bd-88f7637d8a44",
+        "label": "physics",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The natural science involving the study of matter, motion, energy, force and related notions."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8259c2c0-2749-41e2-a4a8-4a64a76eab37",
+        "label": "laboratory techniques",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "Techniques applied in the different fields of natural science in order to obtain experimental data such as gravimetric analysis, gas chromatography, electronic or thermic methods."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+        "label": "scientific research methodology",
+        "skill_type": "knowledge",
+        "relation_type": "essential",
+        "description": "The theoretical methodology used in scientific research involving doing background research, constructing an hypothesis, testing it, analysing data and concluding the results."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/0b917c3e-e49f-40d9-8f95-3bc8e9c06fd2",
+        "label": "perform laboratory tests",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Carry out tests in a laboratory to produce reliable and precise data to support scientific research and product testing."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+        "label": "execute analytical mathematical calculations",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Apply mathematical methods and make use of calculation technologies in order to perform analyses and devise solutions to specific problems."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/3529d640-5d49-45fe-8ede-491e9c8e0447",
+        "label": "maintain laboratory equipment",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Clean laboratory glassware and other equipment after use and it for damage or corrosion in order to ensure its proper functioning."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+        "label": "apply statistical analysis techniques",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Use models (descriptive or inferential statistics) and techniques (data mining or machine learning) for statistical analysis and ICT tools to analyse data, uncover correlations and forecast trends."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/6f571969-3640-4774-a9bc-fd2ef583fdec",
+        "label": "apply safety procedures in laboratory",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Make sure that laboratory equipment is used in a safe manner and the handling of samples and specimens is correct. Work to ensure the validity of results obtained in research."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/89db623e-e1fc-4ec2-9a0f-7b72b4c35303",
+        "label": "gather experimental data",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Collect data resulting from the application of scientific methods such as test methods, experimental design or measurements."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/aafbfaa4-5f93-457e-8cb8-d4ed855277f8",
+        "label": "analyse experimental laboratory data",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Analyse experimental data and interpret results to write reports and summaries of findings."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b92758d4-4591-4df1-9ceb-f907aa71ebd9",
+        "label": "use measurement instruments",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Use different measurement instruments depending on the property to be measured. Utilise various instruments to measure length, area, volume, speed, energy, force, and others."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+        "label": "report analysis results",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Produce research documents or give presentations to report the results of a conducted research and analysis project, indicating the analysis procedures and methods which led to the results, as well as potential interpretations of the results."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d6179c4b-ff5a-4bbb-a3c8-e0acf0de1f56",
+        "label": "assist scientific research",
+        "skill_type": "skill/competence",
+        "relation_type": "essential",
+        "description": "Assist engineers or scientists with conducting experiments, performing analysis, developing new products or processes, constructing theory, and quality control."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/26879b10-1df9-4071-a4c5-cb8e32eddb99",
+        "label": "acoustics",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The study of sound, its reflection, amplification and absorption in a space."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2",
+        "label": "mathematics",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Mathematics is the study of topics such as quantity, structure, space, and change. It involves the identification of patterns and formulating new conjectures based on them. Mathematicians strive to prove the truth or falsity of these conjectures. There are many fields of mathematics, some of which are widely used for practical applications."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+        "label": "statistics",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The study of statistical theory, methods and practices such as collection, organisation, analysis, interpretation and presentation of data. It deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments in order to forecast and plan work-related activities."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/82fc3feb-752b-4d49-803d-c08a717917aa",
+        "label": "geophysics",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The scientific field that deals with the physical processes and properties of, and spatial environment surrounding Earth. Geophysics also deals with the quantitative analysis of phenomena such as magnetic fields, the internal structure of Earth, and its hydrological cycle."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/857e8624-4db0-4725-a758-5914bd8cc350",
+        "label": "thermodynamics",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The branch of physics that deals with the relationships between heat and other forms of energy."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/8bdd25f8-4b6e-40fe-a2cf-c1badc594114",
+        "label": "geology",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Solid earth, rock types, structures and the processes by which they are altered."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d460032f-f49e-4b70-90c2-ba563aee14be",
+        "label": "quantum mechanics",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The field of research concerning the study of atoms and photons in order to quantize these particles."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/d8a37cc7-878d-4c76-af69-3584282d8a8f",
+        "label": "densiometry",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "Diagnosis procedure that measures the degree of mineralisation and calcium in a bone by passing x-rays, to determine its thickness or strength. Densiometry is used to diagnose osteoporosis and monitor its evolution, predicting whether there is a risk of certain bones breaking."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e79a3803-dd53-46b0-906b-13e6d46ef687",
+        "label": "quantum computing",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The branch of computer science that follows the principles of quantum theory. It uses subatomic particles which are allowed to exist under more than one state thanks to quantum bits, or qubits."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/ff27618d-43d0-4480-83ee-8b1a672da078",
+        "label": "astronomy",
+        "skill_type": "knowledge",
+        "relation_type": "optional",
+        "description": "The field of science that studies the physics, chemistry, and evolution of celestial objects such as stars, comets, and moons. It also examines phenomena that happen outside Earth's atmosphere such as solar storms, cosmic microwave background radiation, and gamma ray bursts."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/02b6350e-433a-42b1-b620-92fc53b9a14d",
+        "label": "operate remote sensing equipment",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Set up and operate remote sensing equipment such as radars, telescopes, and aerial cameras in order to obtain information about Earth's surface and atmosphere."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/36ff57b0-637d-4a83-a0e8-d14f86f9f078",
+        "label": "analyse scientific data",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Collect and analyse scientific data resulting from research. Interpret these data according to certain standards and viewpoints in order to comment on it."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4b9cf8e3-5b00-49ee-9d2f-bb78d6b46493",
+        "label": "communicate with external laboratories",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Communicate with the external analytical laboratories in order to manage the required external testing process."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/4bbb309f-9162-49b9-93da-fb2c371e5c5f",
+        "label": "collect samples for analysis",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Collect samples of materials or products for laboratory analysis."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/7a34b3d9-bd3b-4f4e-a0f6-f97439901cb7",
+        "label": "apply scientific methods",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Apply scientific methods and techniques to investigate phenomena, by acquiring new knowledge or correcting and integrating previous knowledge."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/82fadde2-45cc-4734-bace-dadafdeaa41f",
+        "label": "calibrate laboratory equipment",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Calibrate laboratory equipment by comparing between measurements: one of known magnitude or correctness, made with a trusted device and a second measurement from another piece of laboratory equipment. Make the measurements in as similar a way as possible."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/9436db78-4331-495b-a97d-223fd246de2f",
+        "label": "operate telescopes",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Set up and adjust telescopes in order to look at phenomena and objects outside Earth's atmosphere."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/b64b9863-5ed3-49c7-8fd3-5324fabeda5d",
+        "label": "interpret geophysical data",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Interpret data of a geophysical nature: Earth's shape, its gravitational and magnetic fields, its structure and composition, and geophysical dynamics and their surface expression in plate tectonics."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+        "label": "write scientific publications",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Present the hypothesis, findings, and conclusions of your scientific research in your field of expertise in a professional publication."
+      },
+      {
+        "uri": "http://data.europa.eu/esco/skill/e97f4e66-bb24-4727-b053-cadd23cfe29d",
+        "label": "observe matter",
+        "skill_type": "skill/competence",
+        "relation_type": "optional",
+        "description": "Study the structure and characteristics of matter in order to identify the basic principles ruling these phenomena."
+      }
+    ],
+    "plo_jtk": [
+      {
+        "plo_id": "PLO-04-01",
+        "plo_text": "Kemampuan Menulis Teknis yang Jelas dan Terstruktur",
+        "peo_id": "PEO-04"
+      },
+      {
+        "plo_id": "PLO-04-02",
+        "plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "peo_id": "PEO-04"
+      },
+      {
+        "plo_id": "PLO-04-03",
+        "plo_text": "Kemampuan Visualisasi dan Desain",
+        "peo_id": "PEO-04"
+      },
+      {
+        "plo_id": "PLO-04-04",
+        "plo_text": "Pemahaman Teknologi Informasi",
+        "peo_id": "PEO-04"
+      },
+      {
+        "plo_id": "PLO-04-05",
+        "plo_text": "Kemampuan Berkomunikasi dan Berkolaborasi",
+        "peo_id": "PEO-04"
+      },
+      {
+        "plo_id": "PLO-04-06",
+        "plo_text": "Kemampuan Penggunaan Software Dokumentasi",
+        "peo_id": "PEO-04"
+      },
+      {
+        "plo_id": "PLO-04-07",
+        "plo_text": "Adaptasi terhadap Teknologi Baru",
+        "peo_id": "PEO-04"
+      }
+    ],
+    "covered": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8259c2c0-2749-41e2-a4a8-4a64a76eab37",
+        "esco_skill_label": "laboratory techniques",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4205
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ed3f3dba-3a35-4ed5-b113-67f4d10ef4c8",
+        "esco_skill_label": "scientific research methodology",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4874
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/0b917c3e-e49f-40d9-8f95-3bc8e9c06fd2",
+        "esco_skill_label": "perform laboratory tests",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4605
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c",
+        "esco_skill_label": "apply statistical analysis techniques",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4054
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/6f571969-3640-4774-a9bc-fd2ef583fdec",
+        "esco_skill_label": "apply safety procedures in laboratory",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.439
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/89db623e-e1fc-4ec2-9a0f-7b72b4c35303",
+        "esco_skill_label": "gather experimental data",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4587
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/aafbfaa4-5f93-457e-8cb8-d4ed855277f8",
+        "esco_skill_label": "analyse experimental laboratory data",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.491
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817",
+        "esco_skill_label": "report analysis results",
+        "matched_plo_id": "PLO-04-06",
+        "matched_plo_text": "Kemampuan Penggunaan Software Dokumentasi",
+        "similarity_score": 0.4536
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d6179c4b-ff5a-4bbb-a3c8-e0acf0de1f56",
+        "esco_skill_label": "assist scientific research",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.613
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/36ff57b0-637d-4a83-a0e8-d14f86f9f078",
+        "esco_skill_label": "analyse scientific data",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4962
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4b9cf8e3-5b00-49ee-9d2f-bb78d6b46493",
+        "esco_skill_label": "communicate with external laboratories",
+        "matched_plo_id": "PLO-04-05",
+        "matched_plo_text": "Kemampuan Berkomunikasi dan Berkolaborasi",
+        "similarity_score": 0.5137
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4bbb309f-9162-49b9-93da-fb2c371e5c5f",
+        "esco_skill_label": "collect samples for analysis",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4876
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7a34b3d9-bd3b-4f4e-a0f6-f97439901cb7",
+        "esco_skill_label": "apply scientific methods",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.5327
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+        "esco_skill_label": "write scientific publications",
+        "matched_plo_id": "PLO-04-02",
+        "matched_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "similarity_score": 0.4765
+      }
+    ],
+    "gap": [
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/692ace70-7f97-4214-92bd-88f7637d8a44",
+        "esco_skill_label": "physics",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.3815
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c",
+        "esco_skill_label": "execute analytical mathematical calculations",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.3086
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/3529d640-5d49-45fe-8ede-491e9c8e0447",
+        "esco_skill_label": "maintain laboratory equipment",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.345
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b92758d4-4591-4df1-9ceb-f907aa71ebd9",
+        "esco_skill_label": "use measurement instruments",
+        "best_plo_id": "PLO-04-03",
+        "best_plo_text": "Kemampuan Visualisasi dan Desain",
+        "best_similarity_score": 0.3516
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/26879b10-1df9-4071-a4c5-cb8e32eddb99",
+        "esco_skill_label": "acoustics",
+        "best_plo_id": "PLO-04-03",
+        "best_plo_text": "Kemampuan Visualisasi dan Desain",
+        "best_similarity_score": 0.2177
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/4339176e-3acd-4f7f-a5d9-445bee3d23f2",
+        "esco_skill_label": "mathematics",
+        "best_plo_id": "PLO-04-04",
+        "best_plo_text": "Pemahaman Teknologi Informasi",
+        "best_similarity_score": 0.3239
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833",
+        "esco_skill_label": "statistics",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.3764
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/82fc3feb-752b-4d49-803d-c08a717917aa",
+        "esco_skill_label": "geophysics",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.2778
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/857e8624-4db0-4725-a758-5914bd8cc350",
+        "esco_skill_label": "thermodynamics",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.2062
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/8bdd25f8-4b6e-40fe-a2cf-c1badc594114",
+        "esco_skill_label": "geology",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.2185
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d460032f-f49e-4b70-90c2-ba563aee14be",
+        "esco_skill_label": "quantum mechanics",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.3364
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/d8a37cc7-878d-4c76-af69-3584282d8a8f",
+        "esco_skill_label": "densiometry",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.2187
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e79a3803-dd53-46b0-906b-13e6d46ef687",
+        "esco_skill_label": "quantum computing",
+        "best_plo_id": "PLO-04-04",
+        "best_plo_text": "Pemahaman Teknologi Informasi",
+        "best_similarity_score": 0.3619
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/ff27618d-43d0-4480-83ee-8b1a672da078",
+        "esco_skill_label": "astronomy",
+        "best_plo_id": "PLO-04-04",
+        "best_plo_text": "Pemahaman Teknologi Informasi",
+        "best_similarity_score": 0.3104
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/02b6350e-433a-42b1-b620-92fc53b9a14d",
+        "esco_skill_label": "operate remote sensing equipment",
+        "best_plo_id": "PLO-04-04",
+        "best_plo_text": "Pemahaman Teknologi Informasi",
+        "best_similarity_score": 0.3302
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/82fadde2-45cc-4734-bace-dadafdeaa41f",
+        "esco_skill_label": "calibrate laboratory equipment",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.2874
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/9436db78-4331-495b-a97d-223fd246de2f",
+        "esco_skill_label": "operate telescopes",
+        "best_plo_id": "PLO-04-03",
+        "best_plo_text": "Kemampuan Visualisasi dan Desain",
+        "best_similarity_score": 0.2957
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/b64b9863-5ed3-49c7-8fd3-5324fabeda5d",
+        "esco_skill_label": "interpret geophysical data",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.2913
+      },
+      {
+        "esco_skill_uri": "http://data.europa.eu/esco/skill/e97f4e66-bb24-4727-b053-cadd23cfe29d",
+        "esco_skill_label": "observe matter",
+        "best_plo_id": "PLO-04-02",
+        "best_plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "best_similarity_score": 0.3751
+      }
+    ],
+    "overskill": [
+      {
+        "plo_id": "PLO-04-01",
+        "plo_text": "Kemampuan Menulis Teknis yang Jelas dan Terstruktur",
+        "best_esco_skill_uri": "http://data.europa.eu/esco/skill/c3c2420c-ce9a-4371-8eed-1db479c3a562",
+        "best_esco_skill_label": "write scientific publications",
+        "best_similarity_score": 0.3978
+      },
+      {
+        "plo_id": "PLO-04-03",
+        "plo_text": "Kemampuan Visualisasi dan Desain",
+        "best_esco_skill_uri": "http://data.europa.eu/esco/skill/d6179c4b-ff5a-4bbb-a3c8-e0acf0de1f56",
+        "best_esco_skill_label": "assist scientific research",
+        "best_similarity_score": 0.3979
+      },
+      {
+        "plo_id": "PLO-04-04",
+        "plo_text": "Pemahaman Teknologi Informasi",
+        "best_esco_skill_uri": "http://data.europa.eu/esco/skill/7a34b3d9-bd3b-4f4e-a0f6-f97439901cb7",
+        "best_esco_skill_label": "apply scientific methods",
+        "best_similarity_score": 0.3698
+      }
+    ],
+    "clo": [
+      {
+        "plo_id": "PLO-04-01",
+        "plo_text": "Kemampuan Menulis Teknis yang Jelas dan Terstruktur",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-40",
+            "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+            "score": 0.6429,
+            "mata_kuliah": {
+              "nama": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.4765,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-18",
+            "clo_text": "Memahami Konsep Dasar Pemrograman Berorientasi Objek\nMahasiswa mampu menjelaskan konsep fundamental pemrograman berorientasi objek, termasuk object dan class, generalisasi dan spesialisasi, enkapsulasi, pewarisan (inheritance), polimorfisme, kelas abstrak, dan interface.\n\nMengaplikasikan Pemrograman Berorientasi Objek\nMahasiswa mampu mengimplementasikan konsep pemrograman berorientasi objek dalam kasus-kasus pemrograman, meliputi penggunaan file stream, GUI programming, dan multithreading.\n\nMengembangkan Solusi dengan Pendekatan Berorientasi Objek\nMahasiswa mampu menganalisis permasalahan, merancang solusi, dan mengembangkan program berbasis objek yang terstruktur dan terukur sesuai dengan kebutuhan studi kasus.\n\nMeningkatkan Keterampilan Pengembangan Program Modular\nMahasiswa mampu menggunakan prinsip-prinsip modularitas dalam pengembangan program berbasis objek untuk menciptakan solusi perangkat lunak yang efektif dan efisien.\n\nMempraktikkan Teknik Pemrograman Berorientasi Objek\nMahasiswa mampu mempraktikkan pembuatan kode (coding), pengujian (testing), debugging, dan dokumentasi program berbasis objek dalam berbagai skenario.\n\nMenerapkan Model Pembelajaran Mandiri dan Kolaboratif\nMahasiswa mampu menyelesaikan tugas individu dan kelompok, baik melalui pembelajaran langsung di kelas maupun pembelajaran berbasis e-learning, dengan metode Student-Centered Learning (SCL) yang mendukung pencapaian capaian pembelajaran.\n\nMengintegrasikan Teknologi dalam Pengembangan Program\nMahasiswa mampu memanfaatkan teknologi terkini untuk mengembangkan program berbasis objek yang mendukung kebutuhan pembelajaran dan dunia industri.",
+            "score": 0.4533,
+            "mata_kuliah": {
+              "nama": "Pemrograman Berorientasi Objek"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-04-02",
+        "plo_text": "Kemampuan Riset dan Pemahaman Produk Teknologi",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-31",
+            "clo_text": "1. Mahasiswa memahami proses, prinsip, dan standar pengembangan perangkat lunak di industri.\n2. Mahasiswa mengenali peran, alur kerja, dan keterampilan yang dibutuhkan dalam tim pengembangan perangkat lunak profesional.\n3. Mahasiswa memahami penggunaan perangkat, teknologi, dan metodologi yang relevan dalam siklus pengembangan perangkat lunak.",
+            "score": 0.6076,
+            "mata_kuliah": {
+              "nama": "Pengantar Pengembangan Perangkat Lunak Industri"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5945,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-20",
+            "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+            "score": 0.5895,
+            "mata_kuliah": {
+              "nama": "Pengantar Rekayasa Perangkat Lunak"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-04-03",
+        "plo_text": "Kemampuan Visualisasi dan Desain",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-22",
+            "clo_text": "Mata kuliah Komputer Grafik dirancang untuk memberikan mahasiswa pemahaman konseptual yang kuat tentang prinsip-prinsip grafika komputer dan kemampuan praktis dalam merancang dan merealisasikan karya multimedia 2D dan 3D. Melalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari konsep dasar grafika komputer dan menerapkannya dalam berbagai konteks.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi:\n\n- Komputer Grafik 2D:\n  * Grafik primitif 2D (titik, garis, lingkaran, elips, dan bentuk dasar).\n  * Algoritma pembentukan garis dan lingkaran.\n  * Transformasi geometri 2D (operasi matriks, translasi, scaling, rotasi, dan transformasi komposit).\n  *  Membangun pola 2D.\n- Komputer Grafik 3D:\n  * Grafik primitif 3D.\n  * Transformasi geometri 3D.\n  * Konsep tekstur, shader, proyeksi kamera, dan rendering 3D.\n\nAspek Praktikum:\n\n- Mahasiswa akan mempraktikkan konsep-konsep tersebut dengan software seperti Processing/Godot dan Blender, melalui:\n  * Pengenalan komputer grafik 2D dan 3D.\n  * Transformasi geometri 2D dan 3D.\n  * Komponen multimedia 2D dan 3D (modeling, rendering, proyeksi kamera, dan animasi).\n  * Pembuatan karya 2D dan 3D yang kreatif dan inovatif.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan,  meliputi  tugas,  kuis,  ETS,  dan  EAS.  Nilai akhir mata kuliah praktikum akan digabungkan dengan nilai akhir mata kuliah teori untuk memberikan penilaian komprehensif.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan fondasi yang kuat dalam grafika komputer,  mempersiapkan  mereka  untuk  studi  lanjut  dan  karir  di  bidang  multimedia  dan  desain  grafis.",
+            "score": 0.5577,
+            "mata_kuliah": {
+              "nama": "Komputer Grafik"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-26",
+            "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+            "score": 0.5397,
+            "mata_kuliah": {
+              "nama": "Pengolahan Citra Digital"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.5211,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-04-04",
+        "plo_text": "Pemahaman Teknologi Informasi",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-24",
+            "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+            "score": 0.6502,
+            "mata_kuliah": {
+              "nama": "Pengantar Sistem Informasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-07",
+            "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+            "score": 0.6418,
+            "mata_kuliah": {
+              "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.584,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-04-05",
+        "plo_text": "Kemampuan Berkomunikasi dan Berkolaborasi",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-35",
+            "clo_text": "1. Mahasiswa mampu berkomunikasi secara efektif dalam lingkungan kerja, baik secara teknis maupun bisnis.\n2. Mahasiswa mampu menyusun laporan teknis, proposal bisnis, dan dokumentasi perangkat lunak dengan format yang profesional.\n3. Mahasiswa mampu bernegosiasi dan berkolaborasi dengan stakeholder proyek perangkat lunak.",
+            "score": 0.6131,
+            "mata_kuliah": {
+              "nama": "Komunikasi Teknis dan Bisnis Pengembangan Perangkat Lunak Industri"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-14",
+            "clo_text": "Fundamental kebutuhan berkomunikasi manusia sebagai anggota suatu lingkungan. Pembahasan dimulai dari bahasa sebagai simbol pertama yang digunakan manusia secara formal. Peran bahasa dalam berpikir, mentransformasi dan mengungkapkan informasi. Implementasi komunikasi dalam human interface sebagai bagian pengembangan perangkat lunak.",
+            "score": 0.5608,
+            "mata_kuliah": {
+              "nama": "Dasar Komunikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-33",
+            "clo_text": "1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.\n2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.\n3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek.",
+            "score": 0.4463,
+            "mata_kuliah": {
+              "nama": "Kerja Praktik"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-04-06",
+        "plo_text": "Kemampuan Penggunaan Software Dokumentasi",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-19",
+            "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+            "score": 0.6651,
+            "mata_kuliah": {
+              "nama": "Basis Data"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-20",
+            "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+            "score": 0.6611,
+            "mata_kuliah": {
+              "nama": "Pengantar Rekayasa Perangkat Lunak"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-33",
+            "clo_text": "1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.\n2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.\n3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek.",
+            "score": 0.5752,
+            "mata_kuliah": {
+              "nama": "Kerja Praktik"
+            }
+          }
+        ]
+      },
+      {
+        "plo_id": "PLO-04-07",
+        "plo_text": "Adaptasi terhadap Teknologi Baru",
+        "matched_clo": [
+          {
+            "clo_id": "CLO-JTK-12",
+            "clo_text": "Perkembangan TI sangatlah cepat dan masih akan tetap seperti itu untuk masa-masa mendatang. Untuk mengimbangi perkembangan tersebut perlu suatu cara baru memrogram untuk dapat mengisi keterbatasan cognitive manusia. Komputasi Kognitif berupaya meniru proses yang dilalui otak manusia. Mata Kuliah ini akan mencakup bagaimana manusia belajar menangani informasi yang sudah dimiliki maupun berasal dari lingkungannya/sekitarnya. Topik yang dicakup antara lain konsep belajar, berpikir kritis, berpikir kreatif, dan problem solving.",
+            "score": 0.492,
+            "mata_kuliah": {
+              "nama": "Komputasi Kognitif"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-07",
+            "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+            "score": 0.4288,
+            "mata_kuliah": {
+              "nama": "Pengantar Teknologi Informasi dan Komunikasi"
+            }
+          },
+          {
+            "clo_id": "CLO-JTK-33",
+            "clo_text": "1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.\n2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.\n3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek.",
+            "score": 0.4229,
+            "mata_kuliah": {
+              "nama": "Kerja Praktik"
+            }
+          }
+        ]
+      }
+    ],
+    "mata_kuliah": [
+      "Basis Data",
+      "Dasar Komunikasi",
+      "Kerja Praktik",
+      "Komputasi Kognitif",
+      "Komputer Grafik",
+      "Komunikasi Teknis dan Bisnis Pengembangan Perangkat Lunak Industri",
+      "Pemrograman Berorientasi Objek",
+      "Pengantar Pengembangan Perangkat Lunak Industri",
+      "Pengantar Rekayasa Perangkat Lunak",
+      "Pengantar Sistem Informasi",
+      "Pengantar Teknologi Informasi dan Komunikasi",
+      "Pengolahan Citra Digital",
+      "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi"
+    ],
+    "meta": {
+      "clo_method_used": "sbert_only",
+      "execution_time_ms": {
+        "occupation_match": 138.18,
+        "skill_lookup": 36.57,
+        "plo_lookup": 0.04,
+        "comparison": 2389.28,
+        "clo_mapping": 24261.77,
+        "cso_topic_matching": 27254.2
+      }
+    },
+    "errors": []
+  },
+  "cso_topics": [
+    {
+      "clo_id": "CLO-JTK-07",
+      "mata_kuliah": "Pengantar Teknologi Informasi dan Komunikasi",
+      "clo_text": "Mata kuliah ini mengenalkan perkembangan Teknologi Informasi dan Komunikasi (TIK), konsep dasar sistem komputer, perangkat keras, perangkat lunak, pemikiran komputasi, dan literasi digital. Selain itu, mata kuliah ini juga memperkenalkan konsep internet, memberikan pengantar dalam membangun situs web sederhana, dan pengenalan pemrograman game untuk melatih kemampuan dalam menerapkan algoritma dasar.",
+      "extracted_keywords": [
+        "Teknologi Informasi",
+        "sistem komputer",
+        "perangkat keras",
+        "perangkat lunak",
+        "pemikiran komputasi",
+        "literasi digital",
+        "konsep internet",
+        "pembuatan situs web",
+        "pemrograman game",
+        "algoritma dasar"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "Teknologi Informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_technology",
+          "topic_name": "information technology",
+          "score": 0.9757652878761292
+        },
+        {
+          "keyword": "sistem komputer",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_systems",
+          "topic_name": "computer systems",
+          "score": 0.9655143022537231
+        },
+        {
+          "keyword": "perangkat keras",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/computer_hardware",
+          "topic_name": "hardware",
+          "score": 0.8771588802337646
+        },
+        {
+          "keyword": "perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.9492092132568359
+        },
+        {
+          "keyword": "pemikiran komputasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/theoretical_computer_science",
+          "topic_name": "theoretical computer science",
+          "score": 0.7686829566955566
+        },
+        {
+          "keyword": "literasi digital",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/digital_libraries",
+          "topic_name": "digital library",
+          "score": 0.7373101711273193
+        },
+        {
+          "keyword": "konsep internet",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/internet",
+          "topic_name": "internet",
+          "score": 0.8796204924583435
+        },
+        {
+          "keyword": "pembuatan situs web",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/web-gis",
+          "topic_name": "web-gis",
+          "score": 0.8580009937286377
+        },
+        {
+          "keyword": "pemrograman game",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/game_development",
+          "topic_name": "game development",
+          "score": 0.8251699209213257
+        },
+        {
+          "keyword": "algoritma dasar",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9216570854187012
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-12",
+      "mata_kuliah": "Komputasi Kognitif",
+      "clo_text": "Perkembangan TI sangatlah cepat dan masih akan tetap seperti itu untuk masa-masa mendatang. Untuk mengimbangi perkembangan tersebut perlu suatu cara baru memrogram untuk dapat mengisi keterbatasan cognitive manusia. Komputasi Kognitif berupaya meniru proses yang dilalui otak manusia. Mata Kuliah ini akan mencakup bagaimana manusia belajar menangani informasi yang sudah dimiliki maupun berasal dari lingkungannya/sekitarnya. Topik yang dicakup antara lain konsep belajar, berpikir kritis, berpikir kreatif, dan problem solving.",
+      "extracted_keywords": [
+        "komputasi kognitif",
+        "belajar konsep",
+        "berpikir kritis",
+        "berpikir kreatif",
+        "problem solving",
+        "pemrosesan informasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komputasi kognitif",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/cognitive_informatics",
+          "topic_name": "cognitive informatics",
+          "score": 0.9294564723968506
+        },
+        {
+          "keyword": "belajar konsep",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/adaboost_learning",
+          "topic_name": "adaboost learning",
+          "score": 0.7782180905342102
+        },
+        {
+          "keyword": "berpikir kritis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/esprit",
+          "topic_name": "esprit",
+          "score": 0.7010788917541504
+        },
+        {
+          "keyword": "berpikir kreatif",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/creative_design",
+          "topic_name": "creative design",
+          "score": 0.7958323955535889
+        },
+        {
+          "keyword": "problem solving",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/solution_concepts",
+          "topic_name": "solution concepts",
+          "score": 0.7282472252845764
+        },
+        {
+          "keyword": "pemrosesan informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_dissemination",
+          "topic_name": "information dissemination",
+          "score": 0.8868470191955566
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-14",
+      "mata_kuliah": "Dasar Komunikasi",
+      "clo_text": "Fundamental kebutuhan berkomunikasi manusia sebagai anggota suatu lingkungan. Pembahasan dimulai dari bahasa sebagai simbol pertama yang digunakan manusia secara formal. Peran bahasa dalam berpikir, mentransformasi dan mengungkapkan informasi. Implementasi komunikasi dalam human interface sebagai bagian pengembangan perangkat lunak.",
+      "extracted_keywords": [
+        "komunikasi manusia",
+        "bahasa formal",
+        "human interface",
+        "pengembangan perangkat lunak",
+        "transformasi informasi",
+        "perancangan antarmuka"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komunikasi manusia",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/communication",
+          "topic_name": "communication",
+          "score": 0.8743813037872314
+        },
+        {
+          "keyword": "bahasa formal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/formal_languages",
+          "topic_name": "formal languages",
+          "score": 0.9134725332260132
+        },
+        {
+          "keyword": "human interface",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/human_system_interface",
+          "topic_name": "human system interface",
+          "score": 0.8902695178985596
+        },
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "transformasi informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_dissemination",
+          "topic_name": "information dissemination",
+          "score": 0.7996327877044678
+        },
+        {
+          "keyword": "perancangan antarmuka",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/embedded_technology",
+          "topic_name": "embedded technology",
+          "score": 0.7695016264915466
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-18",
+      "mata_kuliah": "Pemrograman Berorientasi Objek",
+      "clo_text": "Memahami Konsep Dasar Pemrograman Berorientasi Objek\nMahasiswa mampu menjelaskan konsep fundamental pemrograman berorientasi objek, termasuk object dan class, generalisasi dan spesialisasi, enkapsulasi, pewarisan (inheritance), polimorfisme, kelas abstrak, dan interface.\n\nMengaplikasikan Pemrograman Berorientasi Objek\nMahasiswa mampu mengimplementasikan konsep pemrograman berorientasi objek dalam kasus-kasus pemrograman, meliputi penggunaan file stream, GUI programming, dan multithreading.\n\nMengembangkan Solusi dengan Pendekatan Berorientasi Objek\nMahasiswa mampu menganalisis permasalahan, merancang solusi, dan mengembangkan program berbasis objek yang terstruktur dan terukur sesuai dengan kebutuhan studi kasus.\n\nMeningkatkan Keterampilan Pengembangan Program Modular\nMahasiswa mampu menggunakan prinsip-prinsip modularitas dalam pengembangan program berbasis objek untuk menciptakan solusi perangkat lunak yang efektif dan efisien.\n\nMempraktikkan Teknik Pemrograman Berorientasi Objek\nMahasiswa mampu mempraktikkan pembuatan kode (coding), pengujian (testing), debugging, dan dokumentasi program berbasis objek dalam berbagai skenario.\n\nMenerapkan Model Pembelajaran Mandiri dan Kolaboratif\nMahasiswa mampu menyelesaikan tugas individu dan kelompok, baik melalui pembelajaran langsung di kelas maupun pembelajaran berbasis e-learning, dengan metode Student-Centered Learning (SCL) yang mendukung pencapaian capaian pembelajaran.\n\nMengintegrasikan Teknologi dalam Pengembangan Program\nMahasiswa mampu memanfaatkan teknologi terkini untuk mengembangkan program berbasis objek yang mendukung kebutuhan pembelajaran dan dunia industri.",
+      "extracted_keywords": [
+        "pemrograman berorientasi objek",
+        "enkapsulasi",
+        "inheritance",
+        "polimorfisme",
+        "file stream",
+        "GUI programming",
+        "multithreading",
+        "modularitas",
+        "debugging"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pemrograman berorientasi objek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/object_oriented_programming",
+          "topic_name": "object-oriented programming",
+          "score": 0.8333227038383484
+        },
+        {
+          "keyword": "enkapsulasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/envisat",
+          "topic_name": "envisat",
+          "score": 0.8917149305343628
+        },
+        {
+          "keyword": "inheritance",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/genetic_structure",
+          "topic_name": "genetic structure",
+          "score": 0.6331213712692261
+        },
+        {
+          "keyword": "polimorfisme",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/dna_polymorphism",
+          "topic_name": "dna polymorphism",
+          "score": 0.9502779245376587
+        },
+        {
+          "keyword": "file stream",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/stream_data",
+          "topic_name": "stream data",
+          "score": 0.7854803800582886
+        },
+        {
+          "keyword": "GUI programming",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/graphical_user_interfaces",
+          "topic_name": "graphical user interfaces (gui)",
+          "score": 0.7057719230651855
+        },
+        {
+          "keyword": "multithreading",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/multi-threading",
+          "topic_name": "multithreading",
+          "score": 1
+        },
+        {
+          "keyword": "modularitas",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/modular_exponentiation",
+          "topic_name": "modular exponentiation",
+          "score": 0.7176982760429382
+        },
+        {
+          "keyword": "debugging",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/debugging_process",
+          "topic_name": "debugging process",
+          "score": 0.9098109602928162
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-19",
+      "mata_kuliah": "Basis Data",
+      "clo_text": "Ditujukan untuk memberikan pembelajaran kepada mahasiswa mengenai pemodelan data dalam memenuhi kebutuhan pengembangan perangkat lunak tertentu. Mata kuliah ini juga memiliki tujuan untuk membentuk kompetensi analisa dan perancangan terstruktur dengan pendekatan relational data dari suatu kebutuhan penyimpanan data untuk mendukung pengembangan perangkat lunak yang terdefinisi. Penggunaan alat-alat bantu pemodelan, penerapan metodologi dan teknik-teknik yang umum digunakan, serta pendokumentasian model data mulai dari abstraksi konseptual sampai dengan model fisik juga menjadi outcomes dari perkuliahan ini. Mahasiswa akan belajar mengenai bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan konseptual, lojikal dan fisikal untuk suatu kebutuhan perangkat lunak tertentu.\n\nPrasyarat untuk matakuliah ini adalah mahasiswa sudah pernah mengikuti dan lulus mata kuliah Struktur Data & Algoritma, serta Matematika Diskrit. Dianjurkan juga mahasiswa memliki pengetahuan dan keahlian dalam Tata Tulis Teknik dalam bahasa Indonesia maupun dalam Bahasa Inggris. Setelah menyelesaikan mata kuliah ini, mahasiswa dapat mendemonstrasikan pengetahuan dan pemahamannya, serta kemampuannya dalam menerapkan konsep-konsep, prinsip-prinsip desain data yang berkaitan dengan struktur data dan manipulasinya serta relevansinya dalam sebuah sistem\nbasis data. Mahasiswa juga dapat mengabstraksi dan mengungkapkan pemeringkatan Model Data khususnya model data relasional. Perkuliahan dilaksanakan dengan Metode pembelajaran kolaboratif yang dijalankan secara Hybrid/Blended Learning. Penilaian dilakukan berdasarkan capaian pembelajaran yang telah ditentukan pada masing-masing bahasan, melalui penugasan individu dan kelompok, tes formatif dan tes sumatif.",
+      "extracted_keywords": [
+        "pemodelan data",
+        "relational data",
+        "perancangan konseptual",
+        "perancangan logikal",
+        "perancangan fisik",
+        "analisis kebutuhan",
+        "dokumen model data",
+        "desain data",
+        "struktur data"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pemodelan data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.8722710013389587
+        },
+        {
+          "keyword": "relational data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/relational_data_models",
+          "topic_name": "relational data models",
+          "score": 0.8837749361991882
+        },
+        {
+          "keyword": "perancangan konseptual",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/conceptual_design",
+          "topic_name": "conceptual design",
+          "score": 0.8746833205223083
+        },
+        {
+          "keyword": "perancangan logikal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/hoare_logic",
+          "topic_name": "hoare logic",
+          "score": 0.9051374197006226
+        },
+        {
+          "keyword": "perancangan fisik",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/mechanical_design",
+          "topic_name": "mechanical design",
+          "score": 0.8346822261810303
+        },
+        {
+          "keyword": "analisis kebutuhan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/requirements_models",
+          "topic_name": "requirements models",
+          "score": 0.8087109327316284
+        },
+        {
+          "keyword": "dokumen model data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/document_analysis",
+          "topic_name": "document analysis",
+          "score": 0.7346707582473755
+        },
+        {
+          "keyword": "desain data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_management",
+          "topic_name": "data management",
+          "score": 0.7365083694458008
+        },
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-20",
+      "mata_kuliah": "Pengantar Rekayasa Perangkat Lunak",
+      "clo_text": "Melalui perkuliahan ini, diharapkan mahasiswa mampu menguasai aspek esensial dari kegiatan pengembangan produk perangkat lunak (terdiri dari tahap analisis, perancangan, implementasi, pengujian , dan pemeliharaan perangkat lunak), memiliki wawasan tentang kualitas perangkat lunak, dan menguasai sejumlah CASE tools untuk menunjang kegiatan dokumentasi teknis dari tahap-tahap pengembangan perangkat lunak, sehingga dapat berperan aktif dalam proses pengembangan perangkat lunak yang menjadi solusi terhadap masalah klien atau untuk meraih kesempatan yang ingin dicapai oleh klien.",
+      "extracted_keywords": [
+        "analisis perangkat lunak",
+        "perancangan perangkat lunak",
+        "implementasi perangkat lunak",
+        "pengujian perangkat lunak",
+        "pemeliharaan perangkat lunak",
+        "kualitas perangkat lunak",
+        "CASE tools",
+        "dokumentasi teknis"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "analisis perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8345566987991333
+        },
+        {
+          "keyword": "implementasi perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.8520048260688782
+        },
+        {
+          "keyword": "pengujian perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_model_checking",
+          "topic_name": "software model checking",
+          "score": 0.7770556211471558
+        },
+        {
+          "keyword": "kualitas perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_quality",
+          "topic_name": "software quality",
+          "score": 0.9616149663925171
+        },
+        {
+          "keyword": "CASE tools",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/case_representation",
+          "topic_name": "case representation",
+          "score": 0.7704617381095886
+        },
+        {
+          "keyword": "dokumentasi teknis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/technical_analysis",
+          "topic_name": "technical analysis",
+          "score": 0.7946694493293762
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-22",
+      "mata_kuliah": "Komputer Grafik",
+      "clo_text": "Mata kuliah Komputer Grafik dirancang untuk memberikan mahasiswa pemahaman konseptual yang kuat tentang prinsip-prinsip grafika komputer dan kemampuan praktis dalam merancang dan merealisasikan karya multimedia 2D dan 3D. Melalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari konsep dasar grafika komputer dan menerapkannya dalam berbagai konteks.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi:\n\n- Komputer Grafik 2D:\n  * Grafik primitif 2D (titik, garis, lingkaran, elips, dan bentuk dasar).\n  * Algoritma pembentukan garis dan lingkaran.\n  * Transformasi geometri 2D (operasi matriks, translasi, scaling, rotasi, dan transformasi komposit).\n  *  Membangun pola 2D.\n- Komputer Grafik 3D:\n  * Grafik primitif 3D.\n  * Transformasi geometri 3D.\n  * Konsep tekstur, shader, proyeksi kamera, dan rendering 3D.\n\nAspek Praktikum:\n\n- Mahasiswa akan mempraktikkan konsep-konsep tersebut dengan software seperti Processing/Godot dan Blender, melalui:\n  * Pengenalan komputer grafik 2D dan 3D.\n  * Transformasi geometri 2D dan 3D.\n  * Komponen multimedia 2D dan 3D (modeling, rendering, proyeksi kamera, dan animasi).\n  * Pembuatan karya 2D dan 3D yang kreatif dan inovatif.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan,  meliputi  tugas,  kuis,  ETS,  dan  EAS.  Nilai akhir mata kuliah praktikum akan digabungkan dengan nilai akhir mata kuliah teori untuk memberikan penilaian komprehensif.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan fondasi yang kuat dalam grafika komputer,  mempersiapkan  mereka  untuk  studi  lanjut  dan  karir  di  bidang  multimedia  dan  desain  grafis.",
+      "extracted_keywords": [
+        "grafik 2D",
+        "grafik 3D",
+        "transformasi geometri",
+        "tekstur",
+        "shader",
+        "proyeksi kamera",
+        "rendering 3D",
+        "modeling",
+        "animasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "grafik 2D",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/3d_graphics",
+          "topic_name": "3d graphics",
+          "score": 0.8722280263900757
+        },
+        {
+          "keyword": "transformasi geometri",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/geometric_transformations",
+          "topic_name": "geometric transformations",
+          "score": 0.9236658811569214
+        },
+        {
+          "keyword": "tekstur",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/texture_descriptors",
+          "topic_name": "texture descriptors",
+          "score": 0.8257741332054138
+        },
+        {
+          "keyword": "shader",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/coloring",
+          "topic_name": "coloring",
+          "score": 0.6492752432823181
+        },
+        {
+          "keyword": "proyeksi kamera",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_projection",
+          "topic_name": "image projection",
+          "score": 0.8326319456100464
+        },
+        {
+          "keyword": "modeling",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/simulink_models",
+          "topic_name": "simulink models",
+          "score": 0.865714967250824
+        },
+        {
+          "keyword": "animasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/interactive_rendering",
+          "topic_name": "interactive rendering",
+          "score": 0.7145428657531738
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-24",
+      "mata_kuliah": "Pengantar Sistem Informasi",
+      "clo_text": "Mata kuliah ini bertujuan memberikan pemahaman kepada mahasiswa mengenai apa itu Sistem Informasi (SI) dan konsep-konsep analisa dan perancangan sistem informasi, serta penguasaan kemampuan dasar dalam menerapkan metodologi, teknik, dan alat bantu (tools) analisa dan perancangan sistem informasi. Berbekal pengetahuan dasar tentang Struktur Data & Algoritma, Basis Data, Pengantar Rekayasa Perangkat Lunak, dan Pemrograman Berorientasi Objek, mahasiswa akan diberikan pembelajaran yang ditekankan pada bagaimana mengumpulkan informasi dalam rangka mengidentifikasi permasalahan-permasalahan yang akan diselesaikan, mendefinisikan persyaratan-persyaratan sistem melalui analisa, dan melakukan perancangan lojikal dan fisikal untuk suatu sistem informasi.",
+      "extracted_keywords": [
+        "sistem informasi",
+        "analisa sistem informasi",
+        "perancangan sistem informasi",
+        "struktur data",
+        "algoritma",
+        "basis data",
+        "rekayasa perangkat lunak",
+        "pemrograman berorientasi objek"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "sistem informasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/information_systems",
+          "topic_name": "information systems",
+          "score": 0.9731357097625732
+        },
+        {
+          "keyword": "struktur data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/concurrent_data_structures",
+          "topic_name": "concurrent data structures",
+          "score": 0.779700517654419
+        },
+        {
+          "keyword": "algoritma",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/de_algorithms",
+          "topic_name": "de algorithms",
+          "score": 0.9556723833084106
+        },
+        {
+          "keyword": "basis data",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/data_analytics",
+          "topic_name": "data analytics",
+          "score": 0.664888858795166
+        },
+        {
+          "keyword": "rekayasa perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_engineering",
+          "topic_name": "software engineering",
+          "score": 0.8910106420516968
+        },
+        {
+          "keyword": "pemrograman berorientasi objek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/object_oriented_programming",
+          "topic_name": "object-oriented programming",
+          "score": 0.8333227038383484
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-26",
+      "mata_kuliah": "Pengolahan Citra Digital",
+      "clo_text": "Mata kuliah Pengelolaan Citra Digital dirancang untuk memberikan pemahaman komprehensif tentang konsep dan teknik pengolahan citra digital, serta kemampuan praktis dalam memproses dan menerapkannya dalam berbagai aplikasi.\n\nMelalui pendekatan Problem Based Learning dan Project Based Learning yang dijalankan secara Hybrid/Blended Learning, mahasiswa akan mempelajari komponen-komponen pemrosesan citra, mulai dari dasar-dasar hingga teknik lanjutan.\n\nAspek Teori:\n\nMahasiswa akan mengeksplorasi topik-topik kunci seperti:\n\n- Visual perception, sampling & quantization, dan image quality.\n- Color space dan fourier transformation.\n- Convolution dan image filter.Segmentation algorithm for edge detection.\n- Morfologi pemrosesan citra, kontur dan bentuk, serta tekstur.\n- Pemampatan citra.\n- Aplikasi pengolahan citra dalam dunia nyata dan teknologi terbaru.\n\nAspek Praktikum:\n\nMahasiswa akan mempraktikkan teknik-teknik pengolahan citra dengan menyusun kode program dan dokumentasinya, meliputi:\n\n- Manipulasi citra dasar dengan Python (operasi aritmatika dan logika).\n- Manipulasi histogram citra.\n- Konvolusi, filter spasial, dan transformasi fourier.\n- Pengurangan derau dan penajaman citra.\n- Manipulasi citra biner (termasuk operasi lanjut).\n- Pendeteksian tepi dan pembentukan kontur serta fitur bentuk.\n- Manipulasi warna pada citra.\n- Pembentukan tekstur pada citra.\n- Pemampatan citra sederhana.\n- Aplikasi pengolahan citra dalam kehidupan nyata.\n\nPenilaian:\n\nPenilaian akan dilakukan berdasarkan capaian pembelajaran pada masing-masing  bahasan  melalui  penugasan  individu  dan  kelompok,  kuis,  ETS,  dan  EAS.\n\nDengan memadukan aspek teori dan praktik, mata kuliah ini bertujuan untuk membekali mahasiswa dengan pengetahuan dan keterampilan yang komprehensif dalam bidang pengolahan citra digital, sehingga mampu mengembangkan aplikasi pengolahan citra secara mandiri.",
+      "extracted_keywords": [
+        "visual perception",
+        "sampling quantization",
+        "color space",
+        "Fourier transform",
+        "convolution",
+        "image segmentation",
+        "morphological processing",
+        "texture analysis",
+        "Python image processing"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "visual perception",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/visualization",
+          "topic_name": "visualization",
+          "score": 0.8299407362937927
+        },
+        {
+          "keyword": "sampling quantization",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/quantization",
+          "topic_name": "quantization",
+          "score": 0.7940859794616699
+        },
+        {
+          "keyword": "color space",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/rgb_color_space",
+          "topic_name": "rgb color space",
+          "score": 0.841688871383667
+        },
+        {
+          "keyword": "Fourier transform",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/discrete_hartley_transform",
+          "topic_name": "discrete hartley transform",
+          "score": 0.7304210662841797
+        },
+        {
+          "keyword": "convolution",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/diffserv",
+          "topic_name": "diffserv",
+          "score": 0.730505108833313
+        },
+        {
+          "keyword": "image segmentation",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_segmentation",
+          "topic_name": "image segmentation",
+          "score": 1
+        },
+        {
+          "keyword": "morphological processing",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/morphological_operations",
+          "topic_name": "morphological operations",
+          "score": 0.8039072751998901
+        },
+        {
+          "keyword": "texture analysis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/texture_descriptors",
+          "topic_name": "texture descriptors",
+          "score": 0.8478935956954956
+        },
+        {
+          "keyword": "Python image processing",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/image_processing",
+          "topic_name": "image processing",
+          "score": 0.8011273145675659
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-31",
+      "mata_kuliah": "Pengantar Pengembangan Perangkat Lunak Industri",
+      "clo_text": "1. Mahasiswa memahami proses, prinsip, dan standar pengembangan perangkat lunak di industri.\n2. Mahasiswa mengenali peran, alur kerja, dan keterampilan yang dibutuhkan dalam tim pengembangan perangkat lunak profesional.\n3. Mahasiswa memahami penggunaan perangkat, teknologi, dan metodologi yang relevan dalam siklus pengembangan perangkat lunak.",
+      "extracted_keywords": [
+        "pengembangan perangkat lunak",
+        "standar industri",
+        "alur kerja tim",
+        "keterampilan profesional",
+        "teknologi pengembangan",
+        "metodologi pengembangan",
+        "siklus pengembangan"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "standar industri",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/industrial_management",
+          "topic_name": "industrial management",
+          "score": 0.7287673950195312
+        },
+        {
+          "keyword": "alur kerja tim",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/som",
+          "topic_name": "som",
+          "score": 0.6428998708724976
+        },
+        {
+          "keyword": "keterampilan profesional",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/expert_knowledge",
+          "topic_name": "expert knowledge",
+          "score": 0.6711956858634949
+        },
+        {
+          "keyword": "teknologi pengembangan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/innovative_technologies",
+          "topic_name": "innovative technologies",
+          "score": 0.8334228992462158
+        },
+        {
+          "keyword": "metodologi pengembangan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/development_strategies",
+          "topic_name": "development strategies",
+          "score": 0.8675032258033752
+        },
+        {
+          "keyword": "siklus pengembangan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/incremental_development",
+          "topic_name": "incremental development",
+          "score": 0.7655417919158936
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-33",
+      "mata_kuliah": "Kerja Praktik",
+      "clo_text": "1. Mahasiswa mampu menerapkan pengetahuan dan keterampilan dalam proyek nyata pengembangan perangkat lunak sesuai dengan standar industri.\n2. Mahasiswa mampu bekerja secara kolaboratif dalam tim untuk menyelesaikan proyek perangkat lunak sesuai waktu dan spesifikasi yang ditentukan.\n3. Mahasiswa mampu menerapkan metodologi pengembangan perangkat lunak yang sesuai untuk kebutuhan proyek.",
+      "extracted_keywords": [
+        "pengembangan perangkat lunak",
+        "standar industri",
+        "kerja tim",
+        "metodologi pengembangan",
+        "manajemen proyek",
+        "spesifikasi perangkat lunak",
+        "penjadwalan proyek"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "standar industri",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/industrial_management",
+          "topic_name": "industrial management",
+          "score": 0.7287673950195312
+        },
+        {
+          "keyword": "kerja tim",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/collective_operations",
+          "topic_name": "collective operations",
+          "score": 0.6593602299690247
+        },
+        {
+          "keyword": "metodologi pengembangan",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/development_strategies",
+          "topic_name": "development strategies",
+          "score": 0.8675032258033752
+        },
+        {
+          "keyword": "manajemen proyek",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/projector",
+          "topic_name": "projector",
+          "score": 0.8005362749099731
+        },
+        {
+          "keyword": "spesifikasi perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.8262909650802612
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-35",
+      "mata_kuliah": "Komunikasi Teknis dan Bisnis Pengembangan Perangkat Lunak Industri",
+      "clo_text": "1. Mahasiswa mampu berkomunikasi secara efektif dalam lingkungan kerja, baik secara teknis maupun bisnis.\n2. Mahasiswa mampu menyusun laporan teknis, proposal bisnis, dan dokumentasi perangkat lunak dengan format yang profesional.\n3. Mahasiswa mampu bernegosiasi dan berkolaborasi dengan stakeholder proyek perangkat lunak.",
+      "extracted_keywords": [
+        "komunikasi efektif",
+        "laporan teknis",
+        "proposal bisnis",
+        "dokumentasi perangkat lunak",
+        "negosiasi",
+        "kolaborasi stakeholder",
+        "manajemen proyek perangkat lunak"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "komunikasi efektif",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/communication",
+          "topic_name": "communication",
+          "score": 0.8939856886863708
+        },
+        {
+          "keyword": "laporan teknis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/technical_analysis",
+          "topic_name": "technical analysis",
+          "score": 0.765004575252533
+        },
+        {
+          "keyword": "proposal bisnis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/business_strategy",
+          "topic_name": "business strategy",
+          "score": 0.7921569347381592
+        },
+        {
+          "keyword": "dokumentasi perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software",
+          "topic_name": "software",
+          "score": 0.8230254054069519
+        },
+        {
+          "keyword": "negosiasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/tes",
+          "topic_name": "tes",
+          "score": 0.7605603933334351
+        },
+        {
+          "keyword": "kolaborasi stakeholder",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/collaborative_work",
+          "topic_name": "collaborative work",
+          "score": 0.761613130569458
+        },
+        {
+          "keyword": "manajemen proyek perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_project",
+          "topic_name": "software projects",
+          "score": 0.8519747257232666
+        }
+      ]
+    },
+    {
+      "clo_id": "CLO-JTK-40",
+      "mata_kuliah": "Tata Tulis Laporan Teknis Pengembangan Perangkat Lunak Aplikasi",
+      "clo_text": "1. Memahami prinsip dan kaidah penulisan karya ilmiah sesuai dengan standar akademik dan metodologi penelitian.\n2. Mampu menyusun proposal Tugas Akhir yang terstruktur, sistematis, dan sesuai dengan aturan institusi.\n3. Meningkatkan kemampuan mahasiswa dalam menyampaikan ide dan gagasan secara tertulis untuk mendukung pengembangan perangkat lunak aplikasi.",
+      "extracted_keywords": [
+        "penulisan karya ilmiah",
+        "metodologi penelitian",
+        "penyusunan proposal",
+        "struktur proposal",
+        "aturan institusi",
+        "penyampaian ide tertulis",
+        "pengembangan perangkat lunak",
+        "dokumentasi aplikasi"
+      ],
+      "matched_topics": [
+        {
+          "keyword": "penulisan karya ilmiah",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/human_sciences",
+          "topic_name": "human sciences",
+          "score": 0.7348586320877075
+        },
+        {
+          "keyword": "metodologi penelitian",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/research_support",
+          "topic_name": "research support",
+          "score": 0.826972246170044
+        },
+        {
+          "keyword": "penyusunan proposal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/proposal_distribution",
+          "topic_name": "proposal distribution",
+          "score": 0.7706411480903625
+        },
+        {
+          "keyword": "struktur proposal",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/proposed_architectures",
+          "topic_name": "proposed architectures",
+          "score": 0.7950432300567627
+        },
+        {
+          "keyword": "aturan institusi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/rule_basis",
+          "topic_name": "rule basis",
+          "score": 0.6803001165390015
+        },
+        {
+          "keyword": "penyampaian ide tertulis",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/descriptors",
+          "topic_name": "descriptors",
+          "score": 0.7069885730743408
+        },
+        {
+          "keyword": "pengembangan perangkat lunak",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/software_development_practices",
+          "topic_name": "software development practices",
+          "score": 0.8622843027114868
+        },
+        {
+          "keyword": "dokumentasi aplikasi",
+          "topic_uri": "https://cso.kmi.open.ac.uk/topics/program_documentation",
+          "topic_name": "program documentation",
+          "score": 0.8182790279388428
+        }
+      ]
+    }
+  ],
+  "cso_errors": []
+}
